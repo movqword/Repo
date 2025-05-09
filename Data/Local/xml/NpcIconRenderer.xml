@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Max npc icon count: 30
+-->
+
+<NpcIconRenderer Enable="1">
+<!-- Weapon -->
+  <Npc Id="230" EffectSpeed="60" Icon="UIKit_I242.png"/>
+  <Npc Id="243" EffectSpeed="60" Icon="UIKit_I242.png"/>
+  <Npc Id="246" EffectSpeed="60" Icon="UIKit_I242.png"/>
+  <Npc Id="250" EffectSpeed="60" Icon="UIKit_I242.png"/>
+  <Npc Id="251" EffectSpeed="60" Icon="UIKit_I242.png"/>
+  <Npc Id="254" EffectSpeed="60" Icon="UIKit_I242.png"/>
+  <Npc Id="578" EffectSpeed="60" Icon="UIKit_I242.png"/>
+  <Npc Id="803" EffectSpeed="60" Icon="UIKit_I242.png"/>
+<!-- Armor -->
+  <Npc Id="416" EffectSpeed="60" Icon="UIKit_I244.png"/>
+  <Npc Id="417" EffectSpeed="60" Icon="UIKit_I244.png"/>
+<!-- Moss Mechannt -->  
+  <Npc Id="492" EffectSpeed="60" Icon="UIKit_I2A6.png"/>
+<!-- Potion -->  
+  <Npc Id="239" EffectSpeed="60" Icon="UIKit_I246.png"/>
+  <Npc Id="242" EffectSpeed="60" Icon="UIKit_I246.png"/>
+  <Npc Id="244" EffectSpeed="60" Icon="UIKit_I246.png"/>
+  <Npc Id="245" EffectSpeed="60" Icon="UIKit_I246.png"/>
+  <Npc Id="253" EffectSpeed="60" Icon="UIKit_I246.png"/>
+  <Npc Id="255" EffectSpeed="60" Icon="UIKit_I246.png"/>
+  <Npc Id="259" EffectSpeed="60" Icon="UIKit_I246.png"/>
+  <Npc Id="376" EffectSpeed="60" Icon="UIKit_I246.png"/>
+  <Npc Id="377" EffectSpeed="60" Icon="UIKit_I246.png"/>
+  <Npc Id="415" EffectSpeed="60" Icon="UIKit_I246.png"/>
+  <Npc Id="545" EffectSpeed="60" Icon="UIKit_I246.png"/>
+  <Npc Id="577" EffectSpeed="60" Icon="UIKit_I246.png"/>
+<!-- Cherry Blossom Spirit -->
+  <Npc Id="450" EffectSpeed="60" Icon="UIKit_I2D4.png"/>
+<!-- Blood Castle -->
+  <Npc Id="233" EffectSpeed="60" Icon="10060.png"/>
+<!-- Devil Square -->  
+  <Npc Id="237" EffectSpeed="60" Icon="10120.png"/>
+<!-- Special Shop -->  
+  <Npc Id="546" EffectSpeed="60" Icon="ActionBarsView_I37.png"/>
+  <Npc Id="821" EffectSpeed="60" Icon="ActionBarsView_I37.png"/>
+<!-- Firecracker -->  
+  <Npc Id="379" EffectSpeed="60" Icon="CashshopCategory_21.png"/>
+<!-- Warehouse -->
+  <Npc Id="240" EffectSpeed="60" Icon="UIKit_I25C.png"/>
+<!-- Guild Warehouse -->
+  <Npc Id="812" EffectSpeed="60" Icon="UIKit_I284.png"/>
+<!-- Imperiand and Lugard -->
+  <Npc Id="522" EffectSpeed="60" Icon="UIKit_I32C.png"/>
+  <Npc Id="540" EffectSpeed="60" Icon="UIKit_I32C.png"/>
+<!-- Chaos Goblin -->
+  <Npc Id="238" EffectSpeed="60" Icon="UIKit_I24C.png"/>
+<!-- Guild Create -->
+  <Npc Id="241" EffectSpeed="60" Icon="UIKit_I26C.png"/>
+<!-- Transmogrify -->
+  <Npc Id="810" EffectSpeed="60" Icon="UIKit_I24E.png"/>
+<!-- Harmony -->
+  <Npc Id="369" EffectSpeed="60" Icon="UIKit_I24A.png"/>
+  <Npc Id="370" EffectSpeed="60" Icon="UIKit_I24A.png"/>
+<!-- Dungeon Entrance -->  
+  <!-- <Npc Id="816" EffectSpeed="60" Icon="10110.png"/> -->
+<!-- Illusion Temple -->
+  <Npc Id="385" EffectSpeed="60" Icon="3021.png"/>
+<!-- Trainer -->
+  <Npc Id="226" EffectSpeed="60" Icon="Knights_1.png"/>
+
+</NpcIconRenderer>

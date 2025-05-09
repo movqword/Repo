@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ComboSkill>
+	<Class index="0" check_quest="6"> <!-- CLASS_DW -->
+		<SkillListFirst>
+			<Skill index="3"/>
+			<Skill index="379"/>
+			<Skill index="1"/>
+			<Skill index="384"/>
+			<Skill index="7"/>
+			<Skill index="5"/>
+			<Skill index="378"/>
+			<Skill index="389"/>
+		</SkillListFirst>
+		
+		<SkillListSecond>
+			<Skill index="12"/>
+			<Skill index="14"/>
+			<Skill index="381"/>
+			<Skill index="38"/>
+			<Skill index="387"/>
+			<Skill index="39"/>
+			<Skill index="391"/>
+			<Skill index="393"/>
+		</SkillListSecond>
+	</Class>
+	
+	<Class index="1" check_quest="3"> <!-- CLASS_DK -->
+		<SkillListFirst>
+			<Skill index="19"/>
+			<Skill index="328"/>
+			<Skill index="329"/>
+			<Skill index="326"/>
+			<Skill index="327"/>
+			<Skill index="20"/>
+			<Skill index="21"/>
+			<Skill index="22"/>
+			<Skill index="23"/>
+		</SkillListFirst>
+		
+		<SkillListSecond>
+			<Skill index="41"/>
+			<Skill index="42"/>
+			<Skill index="43"/>
+			<Skill index="232"/>
+			<Skill index="344"/>
+			<Skill index="339"/>
+			<Skill index="330"/>
+			<Skill index="332"/>
+			<Skill index="331"/>
+			<Skill index="333"/>
+			<Skill index="336"/>
+			<Skill index="342"/>
+		</SkillListSecond>
+	</Class>
+	
+	<Class index="2" check_quest="6"> <!-- CLASS_FE -->
+		<SkillListFirst>
+			<Skill index="24"/>
+			<Skill index="414"/>
+			<Skill index="418"/>
+		</SkillListFirst>
+		
+		<SkillListSecond>
+			<Skill index="46"/>		  
+			<Skill index="51"/>
+			<Skill index="424"/>
+			<Skill index="235"/>
+			<Skill index="411"/>
+			<Skill index="431"/>
+		</SkillListSecond>
+	</Class>
+	
+	<Class index="3" check_quest="6"> <!-- CLASS_MG -->
+		<SkillListFirst>	  
+			<Skill index="73"/>
+			<Skill index="57"/>		  
+			<Skill index="56"/>
+			<Skill index="482"/>
+
+			<Skill index="7"/>
+			<Skill index="489"/>
+			<Skill index="491"/>
+
+		</SkillListFirst>
+		
+		<SkillListSecond>
+			<Skill index="236"/>
+			<Skill index="3"/>
+			<Skill index="492"/>
+			<Skill index="494"/>
+			<Skill index="55"/>
+			<Skill index="480"/>
+			<Skill index="493"/>
+			<Skill index="490"/>
+
+			<Skill index="237"/>
+			<Skill index="496"/>
+			<Skill index="12"/>
+		</SkillListSecond>
+	</Class>
+	
+	<Class index="4" check_quest="6"> <!-- CLASS_DL -->
+		<SkillListFirst>
+			<Skill index="78"/>
+			<Skill index="518"/>
+			<Skill index="520"/>
+		</SkillListFirst>
+		
+		<SkillListSecond>
+			<Skill index="74"/>		  
+			<Skill index="61"/>
+			<Skill index="508"/>
+			<Skill index="514"/>
+			<Skill index="65"/>
+			<Skill index="519"/>
+			<Skill index="62"/>
+			<Skill index="512"/>
+			<Skill index="516"/>
+		</SkillListSecond>
+	</Class>
+	
+	<Class index="5" check_quest="6"> <!-- CLASS_SU -->
+		<SkillListFirst>
+			<Skill index="7"/>
+			<Skill index="214"/>
+			<Skill index="458"/>
+			<Skill index="462"/>
+		</SkillListFirst>
+		
+		<SkillListSecond>
+			<Skill index="230"/>
+			<Skill index="456"/>
+			<Skill index="215"/>
+			<Skill index="455"/>
+		</SkillListSecond>
+	</Class>
+	
+	<Class index="6" check_quest="6"> <!-- CLASS_RF -->
+		<SkillListFirst>
+			<Skill index="261"/>
+			<Skill index="262"/>
+			<Skill index="558"/>
+			<Skill index="562"/>
+			<Skill index="552"/>
+			<Skill index="555"/>
+		</SkillListFirst>
+		
+		<SkillListSecond>
+			<Skill index="265"/>
+			<Skill index="564"/>
+			<Skill index="566"/>
+			<Skill index="263"/>
+			<Skill index="559"/>
+			<Skill index="563"/>
+			<Skill index="269"/>		   
+		</SkillListSecond>
+	</Class>
+</ComboSkill>

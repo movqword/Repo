@@ -1,0 +1,1408 @@
+<GuardianItemType>
+	<!-- Sword (Tier 1) -->
+	<Item ItemId="0:0~0:12">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="0"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="0"/>
+	</Item>
+
+	<!-- Sword (Tier 1) -->
+	<Item ItemId="0:15~0:15">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="0"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="0"/>
+	</Item>
+
+	<!-- Sword (Tier 2) -->
+	<Item ItemId="0:13~0:13">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="1"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="1"/>
+	</Item>
+
+	<!-- Sword (Tier 2) -->
+	<Item ItemId="0:29~0:30">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="1"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="1"/>
+	</Item>
+
+	<!-- Sword (Tier 2) -->
+	<Item ItemId="0:36~0:36">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="1"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="1"/>
+	</Item>
+
+	<!-- Sword (Tier 3) -->
+	<Item ItemId="0:14~0:14">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="2"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="2"/>
+	</Item>
+
+	<!-- Sword (Tier 3) -->
+	<Item ItemId="0:18~0:18">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="2"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="2"/>
+	</Item>
+
+	<!-- Sword (Tier 3) -->
+	<Item ItemId="0:32~0:32">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="2"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="2"/>
+	</Item>
+
+	<!-- Sword (Tier 3) -->
+	<Item ItemId="0:37~0:37">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="2"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="2"/>
+	</Item>
+
+	<!-- Sword (Tier 4) -->
+	<Item ItemId="0:16~0:17">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Sword (Tier 4) -->
+	<Item ItemId="0:21~0:21">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Sword (Tier 4) -->
+	<Item ItemId="0:31~0:31">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Sword (Tier 4) -->
+	<Item ItemId="0:33~0:33">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Sword (Tier 4) -->
+	<Item ItemId="0:38~0:39">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Drakzar (Tier 4) -->
+	<Item ItemId="0:163~0:163">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Sword (Tier 5) -->
+	<Item ItemId="0:20~0:20">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Sword (Tier 5) -->
+	<Item ItemId="0:24~0:25">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Sword (Tier 5) -->
+	<Item ItemId="0:34~0:34">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Sword (Tier 5) -->
+	<Item ItemId="0:40~0:40">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Sword (Tier 5) -->
+	<Item ItemId="0:42~0:44">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Sword (Tier 5) -->
+	<Item ItemId="0:164~0:164">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Sword (Tier 6) -->
+	<Item ItemId="0:22~0:23">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="5"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="5"/>
+	</Item>
+
+	<!-- Sword (Tier 6) -->
+	<Item ItemId="0:35~0:35">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="5"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="5"/>
+	</Item>
+
+	<!-- Sword (Tier 6) -->
+	<Item ItemId="0:45~0:47">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="5"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="5"/>
+	</Item>
+
+	<!-- Sword (Tier 6) -->
+	<Item ItemId="0:165~0:165">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="5"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="5"/>
+	</Item>
+
+	<!-- Sword (Tier 6+) -->
+	<Item ItemId="0:19~0:19">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="6"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="6"/>
+	</Item>
+
+	<!-- Sword (Tier 6++) -->
+	<Item ItemId="0:124~0:124">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="7"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="7"/>
+	</Item>
+
+	<!-- Sword (Tier 6+) -->
+	<Item ItemId="0:159~0:159">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="6"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="6"/>
+	</Item>
+
+	<!-- Sword (Tier 6++) -->
+	<Item ItemId="0:160~0:160">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="7"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="7"/>
+	</Item>
+
+	<!-- Axe (Tier 1) -->
+	<Item ItemId="1:0~1:8">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="0"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="0"/>
+	</Item>
+
+	<!-- Axe (Tier 3) -->
+	<Item ItemId="1:9~1:9">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="2"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="2"/>
+	</Item>
+
+	<!-- Scepter (Tier 1) -->
+	<Item ItemId="2:0~2:0">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="0"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="0"/>
+	</Item>
+
+	<!-- Scepter (Tier 1) -->
+	<Item ItemId="2:2~2:3">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="0"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="0"/>
+	</Item>
+
+	<!-- Scepter (Tier 2) -->
+	<Item ItemId="2:1~2:1">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="1"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="1"/>
+	</Item>
+	
+	<!-- Scepter (Tier 2) -->
+	<Item ItemId="2:8~2:9">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="1"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="1"/>
+	</Item>
+
+	<!-- Scepter (Tier 3) -->
+	<Item ItemId="2:4~2:6">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="2"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="2"/>
+	</Item>
+
+	<!-- Scepter (Tier 3) -->
+	<Item ItemId="2:10~2:11">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="2"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="2"/>
+	</Item>
+
+	<!-- Scepter (Tier 4) -->
+	<Item ItemId="2:7~2:7">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Scepter (Tier 4) -->
+	<Item ItemId="2:12~2:12">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Scepter (Tier 4) -->
+	<Item ItemId="2:15~2:15">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Scepter (Tier 5) -->
+	<Item ItemId="2:18~2:19">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Scepter (Tier 6) -->
+	<Item ItemId="2:14~2:14">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="5"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="5"/>
+	</Item>
+
+	<!-- Scepter (Tier 6+) -->
+	<Item ItemId="2:13~2:13">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="6"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="6"/>
+	</Item>
+	
+	<!-- Scepter (Tier 6++) -->
+	<Item ItemId="2:108~2:108">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="7"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="7"/>
+	</Item>
+
+	<!-- Spear (Tier 1) -->
+	<Item ItemId="3:0~3:3">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="0"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="0"/>
+	</Item>
+
+	<!-- Spear (Tier 1) -->
+	<Item ItemId="3:5~3:7">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="0"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="0"/>
+	</Item>
+
+	<!-- Spear (Tier 2) -->
+	<Item ItemId="3:4~3:4">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="1"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="1"/>
+	</Item>
+
+	<!-- Spear (Tier 2) -->
+	<Item ItemId="3:8~3:8">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="1"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="1"/>
+	</Item>
+
+	<!-- Spear (Tier 3) -->
+	<Item ItemId="3:9~3:9">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="2"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="2"/>
+	</Item>
+
+	<!-- Spear (Tier 4) -->
+	<Item ItemId="3:10~3:10">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Spear (Tier 5) -->
+	<Item ItemId="3:11~3:11">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Bow (Tier 1) -->
+	<Item ItemId="4:0~4:3">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="0"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="0"/>
+	</Item>
+
+	<!-- Bow (Tier 1) -->
+	<Item ItemId="4:8~4:11">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="0"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="0"/>
+	</Item>
+
+	<!-- Bow (Tier 2) -->
+	<Item ItemId="4:4~4:5">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="1"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="1"/>
+	</Item>
+
+	<!-- Bow (Tier 2) -->
+	<Item ItemId="4:12~4:12">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="1"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="1"/>
+	</Item>
+
+	<!-- Bow (Tier 3) -->
+	<Item ItemId="4:13~4:14">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="2"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="2"/>
+	</Item>
+
+	<!-- Bow (Tier 3) -->
+	<Item ItemId="4:6~4:6">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="2"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="2"/>
+	</Item>
+
+	<!-- Bow (Tier 3) -->
+	<Item ItemId="4:25~4:25">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="2"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="2"/>
+	</Item>
+
+	<!-- Bow (Tier 4) -->
+	<Item ItemId="4:16~4:17">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Bow (Tier 4) -->
+	<Item ItemId="4:19~4:19">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Bow (Tier 4) -->
+	<Item ItemId="4:26~4:26">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Bow (Tier 5) -->
+	<Item ItemId="4:20~4:20">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Bow (Tier 5) -->
+	<Item ItemId="4:22~4:22">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Bow (Tier 5) -->
+	<Item ItemId="4:24~4:24">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Bow (Tier 5) -->
+	<Item ItemId="4:27~4:27">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Bow (Tier 6) -->
+	<Item ItemId="4:21~4:21">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="5"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="5"/>
+	</Item>
+
+	<!-- Bow (Tier 6) -->
+	<Item ItemId="4:28~4:28">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="5"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="5"/>
+	</Item>
+
+	<!-- Bow (Tier 6+) -->
+	<Item ItemId="4:18~4:18">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="6"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="6"/>
+	</Item>
+
+	<!-- Bow (Tier 6++) -->
+	<Item ItemId="4:108~4:108">
+		<!-- Additional damage +N -->
+		<Option Id="9" Variation="7"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="7"/>
+	</Item>
+
+	<!-- Staff (Tier 1) -->
+	<Item ItemId="5:0~5:3">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="0"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="0"/>
+	</Item>
+
+	<!-- Staff (Tier 1) -->
+	<Item ItemId="5:14~5:15">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="0"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="0"/>
+	</Item>
+
+	<!-- Staff (Tier 2) -->
+	<Item ItemId="5:4~5:4">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="1"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="1"/>
+	</Item>
+
+	<!-- Staff (Tier 2) -->
+	<Item ItemId="5:16~5:16">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="1"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="1"/>
+	</Item>
+
+	<!-- Staff (Tier 2) -->
+	<Item ItemId="5:21~5:21">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="1"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="1"/>
+	</Item>
+
+	<!-- Staff (Tier 2) -->
+	<Item ItemId="5:41~5:41">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="1"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="1"/>
+	</Item>
+
+	<!-- Staff (Tier 3) -->
+	<Item ItemId="5:5~5:7">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="2"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="2"/>
+	</Item>
+
+	<!-- Staff (Tier 3) -->
+	<Item ItemId="5:17~5:17">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="2"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="2"/>
+	</Item>
+
+	<!-- Staff (Tier 3) -->
+	<Item ItemId="5:22~5:22">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="2"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="2"/>
+	</Item>
+
+	<!-- Staff (Tier 4) -->
+	<Item ItemId="5:8~5:9">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Staff (Tier 4) -->
+	<Item ItemId="5:13~5:13">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Staff (Tier 4) -->
+	<Item ItemId="5:18~5:18">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="3"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="3"/>
+	</Item>
+
+	<!-- Staff (Tier 5) -->
+	<Item ItemId="5:11~5:11">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Staff (Tier 5) -->
+	<Item ItemId="5:19~5:19">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Staff (Tier 5) -->
+	<Item ItemId="5:23~5:23">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Staff (Tier 5) -->
+	<Item ItemId="5:33~5:34">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Staff (Tier 5) -->
+	<Item ItemId="5:42~5:42">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="4"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="4"/>
+	</Item>
+
+	<!-- Staff (Tier 6) -->
+	<Item ItemId="5:12~5:12">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="5"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="5"/>
+	</Item>
+
+	<!-- Staff (Tier 6) -->
+	<Item ItemId="5:35~5:35">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="5"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="5"/>
+	</Item>
+
+	<!-- Staff (Tier 6) -->
+	<Item ItemId="5:43~5:43">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="5"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="5"/>
+	</Item>
+
+	<!-- Staff (Tier 6+) -->
+	<Item ItemId="5:10~5:10">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="6"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="6"/>
+	</Item>
+
+	<!-- Staff (Tier 6+) -->
+	<Item ItemId="5:36~5:36">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="6"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="6"/>
+	</Item>
+
+	<!-- Staff (Tier 6++) -->
+	<Item ItemId="5:116~5:117">
+		<!-- Additional damage +N -->
+		<Option Id="10" Variation="7"/>
+		<!-- Additional damage (PvP) +N -->
+		<Option Id="2" Variation="7"/>
+	</Item>
+
+	<!-- Shield (Tier 1) -->
+	<Item ItemId="6:0~6:4">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="0"/>
+		<!-- Max. HP +N (1000) -->
+		<Option Id="5" Variation="0"/>
+	</Item>
+
+	<!-- Shield (Tier 1) -->
+	<Item ItemId="6:10~6:10">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="0"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="0"/>
+	</Item>
+
+	<!-- Shield (Tier 2) -->
+	<Item ItemId="6:3~6:3">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="1"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="1"/>
+	</Item>
+
+	<!-- Shield (Tier 2) -->
+	<Item ItemId="6:6~6:7">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="1"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="1"/>
+	</Item>
+
+	<!-- Shield (Tier 2) -->
+	<Item ItemId="6:9~6:9">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="1"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="1"/>
+	</Item>
+
+	<!-- Shield (Tier 2) -->
+	<Item ItemId="6:22~6:24">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="1"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="1"/>
+	</Item>
+
+	<!-- Shield (Tier 3) -->
+	<Item ItemId="6:5~6:5">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="2"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="2"/>
+	</Item>
+
+	<!-- Shield (Tier 3) -->
+	<Item ItemId="6:8~6:8">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="2"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="2"/>
+	</Item>
+
+	<!-- Shield (Tier 3) -->
+	<Item ItemId="6:13~6:14">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="2"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="2"/>
+	</Item>
+	
+	<!-- Shield (Tier 3) -->
+	<Item ItemId="6:25~6:26">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="2"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="2"/>
+	</Item>
+
+	<!-- Shield (Tier 4) -->
+	<Item ItemId="6:11~6:12">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="3"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="3"/>
+	</Item>
+
+	<!-- Shield (Tier 4) -->
+	<Item ItemId="6:15~6:16">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="3"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="3"/>
+	</Item>
+
+	<!-- Shield (Tier 4) -->
+	<Item ItemId="6:27~6:28">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="3"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="3"/>
+	</Item>
+
+	<!-- Shield (Tier 5) -->
+	<Item ItemId="6:29~6:35">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="4"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="4"/>
+	</Item>
+
+	<!-- Shield (Tier 6) -->
+	<Item ItemId="6:36~6:42">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="5"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="5"/>
+	</Item>
+
+
+	<!-- Bronze Tier 1 -->
+	<Equipment ItemIndex="0">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="6"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="6"/>
+	</Equipment>
+
+	<!-- Pad Tier 1 -->
+	<Equipment ItemIndex="2">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="6"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="6"/>
+	</Equipment>
+
+	<!-- Bone Tier 1 -->
+	<Equipment ItemIndex="4">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="6"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="6"/>
+	</Equipment>
+
+	<!-- Leather Tier 1 -->
+	<Equipment ItemIndex="5">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="6"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="6"/>
+	</Equipment>
+
+	<!-- Scale Tier 1 -->
+	<Equipment ItemIndex="6">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="6"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="6"/>
+	</Equipment>
+
+	<!-- Vine Tier 1 -->
+	<Equipment ItemIndex="10">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="6"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="6"/>
+	</Equipment>
+
+	<!-- Silk Tier 1 -->
+	<Equipment ItemIndex="11">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="6"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="6"/>
+	</Equipment>
+
+	<!-- Violent Wind Tier 1 -->
+	<Equipment ItemIndex="39">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="6"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="6"/>
+	</Equipment>
+
+	<!-- Sphinx Tier 2 -->
+	<Equipment ItemIndex="7">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="7"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="7"/>
+	</Equipment>
+
+	<!-- Brass Tier 2 -->
+	<Equipment ItemIndex="8">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="7"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="7"/>
+	</Equipment>
+
+	<!-- Plate Tier 2 -->
+	<Equipment ItemIndex="9">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="7"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="7"/>
+	</Equipment>
+
+	<!-- Wind Tier 2 -->
+	<Equipment ItemIndex="12">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="7"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="7"/>
+	</Equipment>
+	
+	<!-- Spirit Tier 2 -->
+	<Equipment ItemIndex="13">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="7"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="7"/>
+	</Equipment>
+
+	<!-- Light Plate Tier 2 -->
+	<Equipment ItemIndex="25">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="7"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="7"/>
+	</Equipment>
+
+	<!-- Red Winged Tier 2 -->
+	<Equipment ItemIndex="40">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="7"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="7"/>
+	</Equipment>
+
+	<!-- Dragon Tier 3 -->
+	<Equipment ItemIndex="1">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="8"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="8"/>
+	</Equipment>
+
+	<!-- Legendary Tier 3 -->
+	<Equipment ItemIndex="3">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="8"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="8"/>
+	</Equipment>
+
+	<!-- Guardian Tier 3 -->
+	<Equipment ItemIndex="14">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="8"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="8"/>
+	</Equipment>
+
+	<!-- Storm Crow Tier 3 -->
+	<Equipment ItemIndex="15">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="8"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="8"/>
+	</Equipment>
+
+	<!-- Adamantine Tier 3 -->
+	<Equipment ItemIndex="26">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="8"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="8"/>
+	</Equipment>
+
+	<!-- Ancient Tier 3 -->
+	<Equipment ItemIndex="41">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="8"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="8"/>
+	</Equipment>
+
+	<!-- Sacred Fire Tier 3 -->
+	<Equipment ItemIndex="59">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="8"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="8"/>
+	</Equipment>
+
+	<!-- Black Dragon Tier 4 -->
+	<Equipment ItemIndex="16">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+
+	<!-- Dark Phoenix Tier 4 -->
+	<Equipment ItemIndex="17">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+
+	<!-- Grand Soul Tier 4 -->
+	<Equipment ItemIndex="18">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+
+	<!-- Holy Spirit Tier 4 -->
+	<Equipment ItemIndex="19">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+
+	<!-- Thunder Hawk Tier 4 -->
+	<Equipment ItemIndex="20">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+
+	<!-- Dark Steel Tier 4 -->
+	<Equipment ItemIndex="27">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+
+	<!-- Demonic Tier 4 -->
+	<Equipment ItemIndex="42">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+
+	<!-- Storm Zahard Tier 4 -->
+	<Equipment ItemIndex="60">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+	
+	<!-- Ashcrow Tier 4 -->
+	<Equipment ItemIndex="34">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+
+	<!-- Eclipse Tier 4 -->
+	<Equipment ItemIndex="35">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+
+	<!-- Iris Tier 4 -->
+	<Equipment ItemIndex="36">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+
+	<!-- Valiant Tier 4 -->
+	<Equipment ItemIndex="37">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+
+	<!-- Glorious Tier 4 -->
+	<Equipment ItemIndex="38">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+
+	<!-- Aurelia Tier 4 -->
+	<Equipment ItemIndex="75">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+
+	<!-- Drakzar Tier 4 -->
+	<Equipment ItemIndex="76">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="9"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="9"/>
+	</Equipment>
+	
+	<!-- Great Dragon Tier 5 -->
+	<Equipment ItemIndex="21">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="10"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="10"/>
+	</Equipment>
+
+	<!-- Dark Soul Tier 5 -->
+	<Equipment ItemIndex="22">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="10"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="10"/>
+	</Equipment>
+
+	<!-- Hurricane Tier 5 -->
+	<Equipment ItemIndex="23">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="10"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="10"/>
+	</Equipment>
+
+	<!-- Red Spirit Tier 5 -->
+	<Equipment ItemIndex="24">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="10"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="10"/>
+	</Equipment>
+
+	<!-- Dark Master Tier 5 -->
+	<Equipment ItemIndex="28">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="10"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="10"/>
+	</Equipment>
+
+	<!-- Storm Blitz Tier 5 -->
+	<Equipment ItemIndex="43">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="10"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="10"/>
+	</Equipment>
+
+	<!-- Piercing Groove Tier 5 -->
+	<Equipment ItemIndex="61">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="10"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="10"/>
+	</Equipment>
+	
+	<!-- Ravager Tier 5 -->
+	<Equipment ItemIndex="77">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="10"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="10"/>
+	</Equipment>
+
+	<!-- Netherion Tier 5 -->
+	<Equipment ItemIndex="78">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="10"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="10"/>
+	</Equipment>
+
+	<!-- Sylvaria Tier 5 -->
+	<Equipment ItemIndex="79">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="10"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="10"/>
+	</Equipment>
+
+	<!-- Varkrul Tier 5 -->
+	<Equipment ItemIndex="80">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="10"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="10"/>
+	</Equipment>
+
+	<!-- Nymberis Tier 5 -->
+	<Equipment ItemIndex="81">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="10"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="10"/>
+	</Equipment>
+
+	<!-- Bloodgrin Tier 5 -->
+	<Equipment ItemIndex="82">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="10"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="10"/>
+	</Equipment>
+
+	<!-- Aetheron Tier 5 -->
+	<Equipment ItemIndex="89">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="10"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="10"/>
+	</Equipment>
+
+	<!-- Dragon Knight Tier 6 -->
+	<Equipment ItemIndex="29">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="11"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="11"/>
+	</Equipment>
+
+	<!-- Venom Mist Tier 6 -->
+	<Equipment ItemIndex="30">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="11"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="11"/>
+	</Equipment>
+
+	<!-- Sylphid Ray Tier 6 -->
+	<Equipment ItemIndex="31">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="11"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="11"/>
+	</Equipment>
+
+	<!-- Volcano Tier 6 -->
+	<Equipment ItemIndex="32">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="11"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="11"/>
+	</Equipment>
+
+	<!-- Sunlight Tier 6 -->
+	<Equipment ItemIndex="33">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="11"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="11"/>
+	</Equipment>
+
+	<!-- Succubus Tier 6 -->
+	<Equipment ItemIndex="55">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="11"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="11"/>
+	</Equipment>
+
+	<!-- Phoenix Soul Tier 6 -->
+	<Equipment ItemIndex="73">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="11"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="11"/>
+	</Equipment>
+
+	<!-- Gravion Tier 6 -->
+	<Equipment ItemIndex="83">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="11"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="11"/>
+	</Equipment>
+
+	<!-- Luxorion Tier 6 -->
+	<Equipment ItemIndex="84">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="11"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="11"/>
+	</Equipment>
+
+	<!-- Crimessia Tier 6 -->
+	<Equipment ItemIndex="85">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="11"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="11"/>
+	</Equipment>
+
+	<!-- Thalrion Tier 6 -->
+	<Equipment ItemIndex="86">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="11"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="11"/>
+	</Equipment>
+
+	<!-- Virelith Tier 6 -->
+	<Equipment ItemIndex="87">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="11"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="11"/>
+	</Equipment>
+
+	<!-- Carnavor Tier 6 -->
+	<Equipment ItemIndex="88">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="11"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="11"/>
+	</Equipment>
+
+	<!-- Nexarion Tier 6 -->
+	<Equipment ItemIndex="90">
+		<!-- Defensive skill +N -->
+		<Option Id="4" Variation="11"/>
+		<!-- Max. HP +N -->
+		<Option Id="5" Variation="11"/>
+	</Equipment>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</GuardianItemType>

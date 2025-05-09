@@ -1,0 +1,580 @@
+<GuardianItemOption>
+	<!-- Attack sucess rate +N -->
+	<Option Id="1" ItemOptionId="140" TextId="2184">
+		<Variation Id="0">
+			<Level Index="1" Value="10"/>
+			<Level Index="2" Value="10"/>
+			<Level Index="3" Value="10"/>
+			<Level Index="4" Value="10"/>
+			<Level Index="5" Value="10"/>
+			<Level Index="6" Value="10"/>
+			<Level Index="7" Value="10"/>
+			<Level Index="8" Value="10"/>
+			<Level Index="9" Value="10"/>
+			<Level Index="10" Value="10"/>
+		</Variation>
+
+	</Option>
+
+	<!-- Additional damage (PvP) +N -->
+	<Option Id="2" ItemOptionId="138" TextId="2185">
+		<Variation Id="0">
+			<Level Index="1" Value="200"/>
+			<Level Index="2" Value="200"/>
+			<Level Index="3" Value="200"/>
+			<Level Index="4" Value="200"/>
+			<Level Index="5" Value="200"/>
+			<Level Index="6" Value="200"/>
+			<Level Index="7" Value="200"/>
+			<Level Index="8" Value="200"/>
+			<Level Index="9" Value="200"/>
+			<Level Index="10" Value="200"/>
+		</Variation>
+
+	</Option>
+
+	<!-- Defense success rate +N -->
+	<Option Id="3" ItemOptionId="141" TextId="2186">
+		<Variation Id="0">
+			<Level Index="1" Value="10"/>
+			<Level Index="2" Value="10"/>
+			<Level Index="3" Value="10"/>
+			<Level Index="4" Value="10"/>
+			<Level Index="5" Value="10"/>
+			<Level Index="6" Value="10"/>
+			<Level Index="7" Value="10"/>
+			<Level Index="8" Value="10"/>
+			<Level Index="9" Value="10"/>
+			<Level Index="10" Value="10"/>
+		</Variation>
+
+	</Option>
+
+	<!-- Defensive skill +N -->
+	<Option Id="4" ItemOptionId="137" TextId="2187">
+		<Variation Id="0">
+			<Level Index="1" Value="200"/>
+			<Level Index="2" Value="200"/>
+			<Level Index="3" Value="200"/>
+			<Level Index="4" Value="200"/>
+			<Level Index="5" Value="200"/>
+			<Level Index="6" Value="200"/>
+			<Level Index="7" Value="200"/>
+			<Level Index="8" Value="200"/>
+			<Level Index="9" Value="200"/>
+			<Level Index="10" Value="200"/>
+		</Variation>
+
+		<Variation Id="1">
+			<Level Index="1" Value="60"/>
+			<Level Index="2" Value="60"/>
+			<Level Index="3" Value="60"/>
+			<Level Index="4" Value="60"/>
+			<Level Index="5" Value="60"/>
+			<Level Index="6" Value="60"/>
+			<Level Index="7" Value="60"/>
+			<Level Index="8" Value="60"/>
+			<Level Index="9" Value="60"/>
+			<Level Index="10" Value="60"/>
+		</Variation>
+
+		<Variation Id="2">
+			<Level Index="1" Value="120"/>
+			<Level Index="2" Value="120"/>
+			<Level Index="3" Value="120"/>
+			<Level Index="4" Value="120"/>
+			<Level Index="5" Value="120"/>
+			<Level Index="6" Value="120"/>
+			<Level Index="7" Value="120"/>
+			<Level Index="8" Value="120"/>
+			<Level Index="9" Value="120"/>
+			<Level Index="10" Value="120"/>
+		</Variation>
+
+		<Variation Id="3">
+			<Level Index="1" Value="80"/>
+			<Level Index="2" Value="80"/>
+			<Level Index="3" Value="80"/>
+			<Level Index="4" Value="80"/>
+			<Level Index="5" Value="80"/>
+			<Level Index="6" Value="80"/>
+			<Level Index="7" Value="80"/>
+			<Level Index="8" Value="80"/>
+			<Level Index="9" Value="80"/>
+			<Level Index="10" Value="80"/>
+		</Variation>
+
+		<Variation Id="4">
+			<Level Index="1" Value="100"/>
+			<Level Index="2" Value="100"/>
+			<Level Index="3" Value="100"/>
+			<Level Index="4" Value="100"/>
+			<Level Index="5" Value="100"/>
+			<Level Index="6" Value="100"/>
+			<Level Index="7" Value="100"/>
+			<Level Index="8" Value="100"/>
+			<Level Index="9" Value="100"/>
+			<Level Index="10" Value="100"/>
+		</Variation>
+
+		<Variation Id="5">
+			<Level Index="1" Value="160"/>
+			<Level Index="2" Value="160"/>
+			<Level Index="3" Value="160"/>
+			<Level Index="4" Value="160"/>
+			<Level Index="5" Value="160"/>
+			<Level Index="6" Value="160"/>
+			<Level Index="7" Value="160"/>
+			<Level Index="8" Value="160"/>
+			<Level Index="9" Value="160"/>
+			<Level Index="10" Value="160"/>
+		</Variation>
+
+		<Variation Id="6">
+			<Level Index="1" Value="180"/>
+			<Level Index="2" Value="180"/>
+			<Level Index="3" Value="180"/>
+			<Level Index="4" Value="180"/>
+			<Level Index="5" Value="180"/>
+			<Level Index="6" Value="180"/>
+			<Level Index="7" Value="180"/>
+			<Level Index="8" Value="180"/>
+			<Level Index="9" Value="180"/>
+			<Level Index="10" Value="180"/>
+		</Variation>
+
+		<Variation Id="7">
+			<Level Index="1" Value="140"/>
+			<Level Index="2" Value="140"/>
+			<Level Index="3" Value="140"/>
+			<Level Index="4" Value="140"/>
+			<Level Index="5" Value="140"/>
+			<Level Index="6" Value="140"/>
+			<Level Index="7" Value="140"/>
+			<Level Index="8" Value="140"/>
+			<Level Index="9" Value="140"/>
+			<Level Index="10" Value="140"/>
+		</Variation>
+
+		<Variation Id="8">
+			<Level Index="1" Value="220"/>
+			<Level Index="2" Value="220"/>
+			<Level Index="3" Value="220"/>
+			<Level Index="4" Value="220"/>
+			<Level Index="5" Value="220"/>
+			<Level Index="6" Value="220"/>
+			<Level Index="7" Value="220"/>
+			<Level Index="8" Value="220"/>
+			<Level Index="9" Value="220"/>
+			<Level Index="10" Value="220"/>
+		</Variation>
+
+		<Variation Id="9">
+			<Level Index="1" Value="240"/>
+			<Level Index="2" Value="240"/>
+			<Level Index="3" Value="240"/>
+			<Level Index="4" Value="240"/>
+			<Level Index="5" Value="240"/>
+			<Level Index="6" Value="240"/>
+			<Level Index="7" Value="240"/>
+			<Level Index="8" Value="240"/>
+			<Level Index="9" Value="240"/>
+			<Level Index="10" Value="240"/>
+		</Variation>
+
+		<Variation Id="10">
+			<Level Index="1" Value="260"/>
+			<Level Index="2" Value="260"/>
+			<Level Index="3" Value="260"/>
+			<Level Index="4" Value="260"/>
+			<Level Index="5" Value="260"/>
+			<Level Index="6" Value="260"/>
+			<Level Index="7" Value="260"/>
+			<Level Index="8" Value="260"/>
+			<Level Index="9" Value="260"/>
+			<Level Index="10" Value="260"/>
+		</Variation>
+
+		<Variation Id="11">
+			<Level Index="1" Value="280"/>
+			<Level Index="2" Value="280"/>
+			<Level Index="3" Value="280"/>
+			<Level Index="4" Value="280"/>
+			<Level Index="5" Value="280"/>
+			<Level Index="6" Value="280"/>
+			<Level Index="7" Value="280"/>
+			<Level Index="8" Value="280"/>
+			<Level Index="9" Value="280"/>
+			<Level Index="10" Value="280"/>
+		</Variation>
+
+		<Variation Id="12">
+			<Level Index="1" Value="300"/>
+			<Level Index="2" Value="300"/>
+			<Level Index="3" Value="300"/>
+			<Level Index="4" Value="300"/>
+			<Level Index="5" Value="300"/>
+			<Level Index="6" Value="300"/>
+			<Level Index="7" Value="300"/>
+			<Level Index="8" Value="300"/>
+			<Level Index="9" Value="300"/>
+			<Level Index="10" Value="300"/>
+		</Variation>
+
+		<Variation Id="13">
+			<Level Index="1" Value="320"/>
+			<Level Index="2" Value="320"/>
+			<Level Index="3" Value="320"/>
+			<Level Index="4" Value="320"/>
+			<Level Index="5" Value="320"/>
+			<Level Index="6" Value="320"/>
+			<Level Index="7" Value="320"/>
+			<Level Index="8" Value="320"/>
+			<Level Index="9" Value="320"/>
+			<Level Index="10" Value="320"/>
+		</Variation>
+
+		<Variation Id="14">
+			<Level Index="1" Value="340"/>
+			<Level Index="2" Value="340"/>
+			<Level Index="3" Value="340"/>
+			<Level Index="4" Value="340"/>
+			<Level Index="5" Value="340"/>
+			<Level Index="6" Value="340"/>
+			<Level Index="7" Value="340"/>
+			<Level Index="8" Value="340"/>
+			<Level Index="9" Value="340"/>
+			<Level Index="10" Value="340"/>
+		</Variation>
+
+		<Variation Id="15">
+			<Level Index="1" Value="360"/>
+			<Level Index="2" Value="360"/>
+			<Level Index="3" Value="360"/>
+			<Level Index="4" Value="360"/>
+			<Level Index="5" Value="360"/>
+			<Level Index="6" Value="360"/>
+			<Level Index="7" Value="360"/>
+			<Level Index="8" Value="360"/>
+			<Level Index="9" Value="360"/>
+			<Level Index="10" Value="360"/>
+		</Variation>
+
+		<Variation Id="16">
+			<Level Index="1" Value="380"/>
+			<Level Index="2" Value="380"/>
+			<Level Index="3" Value="380"/>
+			<Level Index="4" Value="380"/>
+			<Level Index="5" Value="380"/>
+			<Level Index="6" Value="380"/>
+			<Level Index="7" Value="380"/>
+			<Level Index="8" Value="380"/>
+			<Level Index="9" Value="380"/>
+			<Level Index="10" Value="380"/>
+		</Variation>
+
+		<Variation Id="17">
+			<Level Index="1" Value="400"/>
+			<Level Index="2" Value="400"/>
+			<Level Index="3" Value="400"/>
+			<Level Index="4" Value="400"/>
+			<Level Index="5" Value="400"/>
+			<Level Index="6" Value="400"/>
+			<Level Index="7" Value="400"/>
+			<Level Index="8" Value="400"/>
+			<Level Index="9" Value="400"/>
+			<Level Index="10" Value="400"/>
+		</Variation>
+
+	</Option>
+
+	<!-- Max. HP +N -->
+	<Option Id="5" ItemOptionId="119" TextId="2188">
+		<Variation Id="0">
+			<Level Index="1" Value="1000"/>
+			<Level Index="2" Value="1000"/>
+			<Level Index="3" Value="1000"/>
+			<Level Index="4" Value="1000"/>
+			<Level Index="5" Value="1000"/>
+			<Level Index="6" Value="1000"/>
+			<Level Index="7" Value="1000"/>
+			<Level Index="8" Value="1000"/>
+			<Level Index="9" Value="1000"/>
+			<Level Index="10" Value="1000"/>
+		</Variation>
+
+		<Variation Id="1">
+			<Level Index="1" Value="300"/>
+			<Level Index="2" Value="300"/>
+			<Level Index="3" Value="300"/>
+			<Level Index="4" Value="300"/>
+			<Level Index="5" Value="300"/>
+			<Level Index="6" Value="300"/>
+			<Level Index="7" Value="300"/>
+			<Level Index="8" Value="300"/>
+			<Level Index="9" Value="300"/>
+			<Level Index="10" Value="300"/>
+		</Variation>
+
+		<Variation Id="2">
+			<Level Index="1" Value="600"/>
+			<Level Index="2" Value="600"/>
+			<Level Index="3" Value="600"/>
+			<Level Index="4" Value="600"/>
+			<Level Index="5" Value="600"/>
+			<Level Index="6" Value="600"/>
+			<Level Index="7" Value="600"/>
+			<Level Index="8" Value="600"/>
+			<Level Index="9" Value="600"/>
+			<Level Index="10" Value="600"/>
+		</Variation>
+
+		<Variation Id="3">
+			<Level Index="1" Value="400"/>
+			<Level Index="2" Value="400"/>
+			<Level Index="3" Value="400"/>
+			<Level Index="4" Value="400"/>
+			<Level Index="5" Value="400"/>
+			<Level Index="6" Value="400"/>
+			<Level Index="7" Value="400"/>
+			<Level Index="8" Value="400"/>
+			<Level Index="9" Value="400"/>
+			<Level Index="10" Value="400"/>
+		</Variation>
+
+		<Variation Id="4">
+			<Level Index="1" Value="500"/>
+			<Level Index="2" Value="500"/>
+			<Level Index="3" Value="500"/>
+			<Level Index="4" Value="500"/>
+			<Level Index="5" Value="500"/>
+			<Level Index="6" Value="500"/>
+			<Level Index="7" Value="500"/>
+			<Level Index="8" Value="500"/>
+			<Level Index="9" Value="500"/>
+			<Level Index="10" Value="500"/>
+		</Variation>
+
+		<Variation Id="5">
+			<Level Index="1" Value="800"/>
+			<Level Index="2" Value="800"/>
+			<Level Index="3" Value="800"/>
+			<Level Index="4" Value="800"/>
+			<Level Index="5" Value="800"/>
+			<Level Index="6" Value="800"/>
+			<Level Index="7" Value="800"/>
+			<Level Index="8" Value="800"/>
+			<Level Index="9" Value="800"/>
+			<Level Index="10" Value="800"/>
+		</Variation>
+
+		<Variation Id="6">
+			<Level Index="1" Value="900"/>
+			<Level Index="2" Value="900"/>
+			<Level Index="3" Value="900"/>
+			<Level Index="4" Value="900"/>
+			<Level Index="5" Value="900"/>
+			<Level Index="6" Value="900"/>
+			<Level Index="7" Value="900"/>
+			<Level Index="8" Value="900"/>
+			<Level Index="9" Value="900"/>
+			<Level Index="10" Value="900"/>
+		</Variation>
+
+		<Variation Id="7">
+			<Level Index="1" Value="700"/>
+			<Level Index="2" Value="700"/>
+			<Level Index="3" Value="700"/>
+			<Level Index="4" Value="700"/>
+			<Level Index="5" Value="700"/>
+			<Level Index="6" Value="700"/>
+			<Level Index="7" Value="700"/>
+			<Level Index="8" Value="700"/>
+			<Level Index="9" Value="700"/>
+			<Level Index="10" Value="700"/>
+		</Variation>
+
+		<Variation Id="8">
+			<Level Index="1" Value="1100"/>
+			<Level Index="2" Value="1100"/>
+			<Level Index="3" Value="1100"/>
+			<Level Index="4" Value="1100"/>
+			<Level Index="5" Value="1100"/>
+			<Level Index="6" Value="1100"/>
+			<Level Index="7" Value="1100"/>
+			<Level Index="8" Value="1100"/>
+			<Level Index="9" Value="1100"/>
+			<Level Index="10" Value="1100"/>
+		</Variation>
+
+		<Variation Id="9">
+			<Level Index="1" Value="1200"/>
+			<Level Index="2" Value="1200"/>
+			<Level Index="3" Value="1200"/>
+			<Level Index="4" Value="1200"/>
+			<Level Index="5" Value="1200"/>
+			<Level Index="6" Value="1200"/>
+			<Level Index="7" Value="1200"/>
+			<Level Index="8" Value="1200"/>
+			<Level Index="9" Value="1200"/>
+			<Level Index="10" Value="1200"/>
+		</Variation>
+
+		<Variation Id="10">
+			<Level Index="1" Value="1300"/>
+			<Level Index="2" Value="1300"/>
+			<Level Index="3" Value="1300"/>
+			<Level Index="4" Value="1300"/>
+			<Level Index="5" Value="1300"/>
+			<Level Index="6" Value="1300"/>
+			<Level Index="7" Value="1300"/>
+			<Level Index="8" Value="1300"/>
+			<Level Index="9" Value="1300"/>
+			<Level Index="10" Value="1300"/>
+		</Variation>
+
+		<Variation Id="11">
+			<Level Index="1" Value="1400"/>
+			<Level Index="2" Value="1400"/>
+			<Level Index="3" Value="1400"/>
+			<Level Index="4" Value="1400"/>
+			<Level Index="5" Value="1400"/>
+			<Level Index="6" Value="1400"/>
+			<Level Index="7" Value="1400"/>
+			<Level Index="8" Value="1400"/>
+			<Level Index="9" Value="1400"/>
+			<Level Index="10" Value="1400"/>
+		</Variation>
+
+		<Variation Id="12">
+			<Level Index="1" Value="1500"/>
+			<Level Index="2" Value="1500"/>
+			<Level Index="3" Value="1500"/>
+			<Level Index="4" Value="1500"/>
+			<Level Index="5" Value="1500"/>
+			<Level Index="6" Value="1500"/>
+			<Level Index="7" Value="1500"/>
+			<Level Index="8" Value="1500"/>
+			<Level Index="9" Value="1500"/>
+			<Level Index="10" Value="1500"/>
+		</Variation>
+
+		<Variation Id="13">
+			<Level Index="1" Value="1600"/>
+			<Level Index="2" Value="1600"/>
+			<Level Index="3" Value="1600"/>
+			<Level Index="4" Value="1600"/>
+			<Level Index="5" Value="1600"/>
+			<Level Index="6" Value="1600"/>
+			<Level Index="7" Value="1600"/>
+			<Level Index="8" Value="1600"/>
+			<Level Index="9" Value="1600"/>
+			<Level Index="10" Value="1600"/>
+		</Variation>
+
+		<Variation Id="14">
+			<Level Index="1" Value="1700"/>
+			<Level Index="2" Value="1700"/>
+			<Level Index="3" Value="1700"/>
+			<Level Index="4" Value="1700"/>
+			<Level Index="5" Value="1700"/>
+			<Level Index="6" Value="1700"/>
+			<Level Index="7" Value="1700"/>
+			<Level Index="8" Value="1700"/>
+			<Level Index="9" Value="1700"/>
+			<Level Index="10" Value="1700"/>
+		</Variation>
+
+		<Variation Id="15">
+			<Level Index="1" Value="1800"/>
+			<Level Index="2" Value="1800"/>
+			<Level Index="3" Value="1800"/>
+			<Level Index="4" Value="1800"/>
+			<Level Index="5" Value="1800"/>
+			<Level Index="6" Value="1800"/>
+			<Level Index="7" Value="1800"/>
+			<Level Index="8" Value="1800"/>
+			<Level Index="9" Value="1800"/>
+			<Level Index="10" Value="1800"/>
+		</Variation>
+
+		<Variation Id="16">
+			<Level Index="1" Value="1900"/>
+			<Level Index="2" Value="1900"/>
+			<Level Index="3" Value="1900"/>
+			<Level Index="4" Value="1900"/>
+			<Level Index="5" Value="1900"/>
+			<Level Index="6" Value="1900"/>
+			<Level Index="7" Value="1900"/>
+			<Level Index="8" Value="1900"/>
+			<Level Index="9" Value="1900"/>
+			<Level Index="10" Value="1900"/>
+		</Variation>
+
+		<Variation Id="17">
+			<Level Index="1" Value="2000"/>
+			<Level Index="2" Value="2000"/>
+			<Level Index="3" Value="2000"/>
+			<Level Index="4" Value="2000"/>
+			<Level Index="5" Value="2000"/>
+			<Level Index="6" Value="2000"/>
+			<Level Index="7" Value="2000"/>
+			<Level Index="8" Value="2000"/>
+			<Level Index="9" Value="2000"/>
+			<Level Index="10" Value="2000"/>
+		</Variation>
+
+	</Option>
+
+	<!-- Max. SD +N -->
+	<Option Id="6" ItemOptionId="142" TextId="2189">
+		<Variation Id="0">
+			<Level Index="1" Value="700"/>
+			<Level Index="2" Value="700"/>
+			<Level Index="3" Value="700"/>
+			<Level Index="4" Value="700"/>
+			<Level Index="5" Value="700"/>
+			<Level Index="6" Value="700"/>
+			<Level Index="7" Value="700"/>
+			<Level Index="8" Value="700"/>
+			<Level Index="9" Value="700"/>
+			<Level Index="10" Value="700"/>
+		</Variation>
+
+	</Option>
+
+	<!-- SD auto recovery -->
+	<Option Id="7" ItemOptionId="143" TextId="2190">
+		<Variation Id="0">
+			<Level Index="1" Value="1"/>
+			<Level Index="2" Value="1"/>
+			<Level Index="3" Value="1"/>
+			<Level Index="4" Value="1"/>
+			<Level Index="5" Value="1"/>
+			<Level Index="6" Value="1"/>
+			<Level Index="7" Value="1"/>
+			<Level Index="8" Value="1"/>
+			<Level Index="9" Value="1"/>
+			<Level Index="10" Value="1"/>
+		</Variation>
+
+	</Option>
+
+	<!-- SD recovery rate +N% -->
+	<Option Id="8" ItemOptionId="144" TextId="2191">
+		<Variation Id="0">
+			<Level Index="1" Value="100"/>
+			<Level Index="2" Value="100"/>
+			<Level Index="3" Value="100"/>
+			<Level Index="4" Value="100"/>
+			<Level Index="5" Value="100"/>
+			<Level Index="6" Value="100"/>
+			<Level Index="7" Value="100"/>
+			<Level Index="8" Value="100"/>
+			<Level Index="9" Value="100"/>
+			<Level Index="10" Value="100"/>
+		</Variation>
+
+	</Option>
+
+</GuardianItemOption>

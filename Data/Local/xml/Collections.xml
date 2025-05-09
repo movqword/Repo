@@ -1,0 +1,1063 @@
+<?xml version="1.0"?>
+<ItemCollection Enable="0">
+
+    <Collection Id="0">
+        <Recipe> <!-- Bronze Set -->
+            <Item Id="0" Index="7:0"/>
+            <Item Id="1" Index="8:0"/>
+            <Item Id="2" Index="9:0"/>
+            <Item Id="3" Index="10:0"/>
+            <Item Id="4" Index="11:0"/>
+        </Recipe>
+        <Effect>
+            <Option Id="97" Value="15"/> <!-- Increase Attack Speed -->
+        </Effect>
+    </Collection>
+	
+    <Collection Id="1">
+        <Recipe> <!-- Dragon Set -->
+            <Item Id="0" Index="7:1"/>
+            <Item Id="1" Index="8:1"/>
+            <Item Id="2" Index="9:1"/>
+            <Item Id="3" Index="10:1"/>
+            <Item Id="4" Index="11:1"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="1500"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+	
+    <Collection Id="2">
+        <Recipe> <!-- Pad Set -->
+            <Item Id="0" Index="7:2"/>
+            <Item Id="1" Index="8:2"/>
+            <Item Id="2" Index="9:2"/>
+            <Item Id="3" Index="10:2"/>
+            <Item Id="4" Index="11:2"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="1000"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+	
+    <Collection Id="3">
+        <Recipe> <!-- Legendary -->
+            <Item Id="0" Index="7:3"/>
+            <Item Id="1" Index="8:3"/>
+            <Item Id="2" Index="9:3"/>
+            <Item Id="3" Index="10:3"/>
+            <Item Id="4" Index="11:3"/>
+        </Recipe>
+        <Effect>
+            <Option Id="127" Value="3"/> <!-- Mul Defense -->
+        </Effect>
+    </Collection>
+	
+    <Collection Id="4">
+        <Recipe> <!-- Bone Set -->
+            <Item Id="0" Index="7:4"/>
+            <Item Id="1" Index="8:4"/>
+            <Item Id="2" Index="9:4"/>
+            <Item Id="3" Index="10:4"/>
+            <Item Id="4" Index="11:4"/>
+        </Recipe>
+        <Effect>
+            <Option Id="125" Value="2"/> <!-- Mul Damage -->
+        </Effect>
+    </Collection>
+	
+    <Collection Id="5">
+        <Recipe> <!-- Leather Set -->
+            <Item Id="0" Index="7:5"/>
+            <Item Id="1" Index="8:5"/>
+            <Item Id="2" Index="9:5"/>
+            <Item Id="3" Index="10:5"/>
+            <Item Id="4" Index="11:5"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="1000"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+	
+    <Collection Id="6">
+        <Recipe> <!-- Scale Set -->
+            <Item Id="0" Index="7:6"/>
+            <Item Id="1" Index="8:6"/>
+            <Item Id="2" Index="9:6"/>
+            <Item Id="3" Index="10:6"/>
+            <Item Id="4" Index="11:6"/>
+        </Recipe>
+        <Effect>
+            <Option Id="125" Value="4"/> <!-- Mul Damage -->
+        </Effect>
+    </Collection>
+	
+    <Collection Id="7">
+        <Recipe> <!-- Sphinx Set -->
+            <Item Id="0" Index="7:7"/>
+            <Item Id="1" Index="8:7"/>
+            <Item Id="2" Index="9:7"/>
+            <Item Id="3" Index="10:7"/>
+            <Item Id="4" Index="11:7"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="1500"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+
+    <Collection Id="8">
+        <Recipe> <!-- Brass Set -->
+            <Item Id="0" Index="7:8"/>
+            <Item Id="1" Index="8:8"/>
+            <Item Id="2" Index="9:8"/>
+            <Item Id="3" Index="10:8"/>
+            <Item Id="4" Index="11:8"/>
+        </Recipe>
+        <Effect>
+            <Option Id="136" Value="2"/> <!-- Mul SD -->
+        </Effect>
+    </Collection>
+	
+    <Collection Id="9">
+        <Recipe> <!-- Plate Set -->
+            <Item Id="0" Index="7:9"/>
+            <Item Id="1" Index="8:9"/>
+            <Item Id="2" Index="9:9"/>
+            <Item Id="3" Index="10:9"/>
+            <Item Id="4" Index="11:9"/>
+        </Recipe>
+        <Effect>
+            <Option Id="89" Value="1"/> <!-- Add Damage Reduction -->
+        </Effect>
+    </Collection>
+	
+    <Collection Id="10">
+        <Recipe> <!-- Vine Set -->
+            <Item Id="0" Index="7:10"/>
+            <Item Id="1" Index="8:10"/>
+            <Item Id="2" Index="9:10"/>
+            <Item Id="3" Index="10:10"/>
+            <Item Id="4" Index="11:10"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="1000"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="11">
+        <Recipe> <!-- Silk Set -->
+            <Item Id="0" Index="7:11"/>
+            <Item Id="1" Index="8:11"/>
+            <Item Id="2" Index="9:11"/>
+            <Item Id="3" Index="10:11"/>
+            <Item Id="4" Index="11:11"/>
+        </Recipe>
+        <Effect>
+            <Option Id="97" Value="20"/> <!-- Increase Attack Speed -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="12">
+        <Recipe> <!-- Wind Set -->
+            <Item Id="0" Index="7:12"/>
+            <Item Id="1" Index="8:12"/>
+            <Item Id="2" Index="9:12"/>
+            <Item Id="3" Index="10:12"/>
+            <Item Id="4" Index="11:12"/>
+        </Recipe>
+        <Effect>
+            <Option Id="127" Value="2"/> <!-- Mul Defense -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="13">
+        <Recipe> <!-- Spirit Set -->
+            <Item Id="0" Index="7:13"/>
+            <Item Id="1" Index="8:13"/>
+            <Item Id="2" Index="9:13"/>
+            <Item Id="3" Index="10:13"/>
+            <Item Id="4" Index="11:13"/>
+        </Recipe>
+        <Effect>
+            <Option Id="135" Value="3"/> <!-- Excellent Damage Resistance Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="14">
+        <Recipe> <!-- Guardian Set -->
+            <Item Id="0" Index="7:14"/>
+            <Item Id="1" Index="8:14"/>
+            <Item Id="2" Index="9:14"/>
+            <Item Id="3" Index="10:14"/>
+            <Item Id="4" Index="11:14"/>
+        </Recipe>
+        <Effect>
+            <Option Id="97" Value="25"/> <!-- Increase Attack Speed -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="15">
+        <Recipe> <!-- Storm Crow Set -->
+            <Item Id="0" Index="8:15"/>
+            <Item Id="1" Index="9:15"/>
+            <Item Id="2" Index="10:15"/>
+            <Item Id="3" Index="11:15"/>
+        </Recipe>
+        <Effect>
+            <Option Id="92" Value="4"/> <!-- Add Excellent Damage Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="16">
+        <Recipe> <!-- Black Dragon Set -->
+            <Item Id="0" Index="7:16"/>
+            <Item Id="1" Index="8:16"/>
+            <Item Id="2" Index="9:16"/>
+            <Item Id="3" Index="10:16"/>
+            <Item Id="4" Index="11:16"/>
+        </Recipe>
+        <Effect>
+            <Option Id="97" Value="30"/> <!-- Increase Attack Speed -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="17">
+        <Recipe> <!-- Dark Phoenix -->
+            <Item Id="0" Index="7:17"/>
+            <Item Id="1" Index="8:17"/>
+            <Item Id="2" Index="9:17"/>
+            <Item Id="3" Index="10:17"/>
+            <Item Id="4" Index="11:17"/>
+        </Recipe>
+        <Effect>
+            <Option Id="136" Value="6"/> <!-- Mul SD -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="18">
+        <Recipe> <!-- Grand Soul Set -->
+            <Item Id="0" Index="7:18"/>
+            <Item Id="1" Index="8:18"/>
+            <Item Id="2" Index="9:18"/>
+            <Item Id="3" Index="10:18"/>
+            <Item Id="4" Index="11:18"/>
+        </Recipe>
+        <Effect>
+             <Option Id="127" Value="5"/> <!-- Mul Defense -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="19">
+        <Recipe> <!-- Holy Spirit Set -->
+            <Item Id="0" Index="7:19"/>
+            <Item Id="1" Index="8:19"/>
+            <Item Id="2" Index="9:19"/>
+            <Item Id="3" Index="10:19"/>
+            <Item Id="4" Index="11:19"/>
+        </Recipe>
+        <Effect>
+            <Option Id="134" Value="5"/> <!-- Critical Damage Resistance Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="20">
+        <Recipe> <!-- Thunder Hawk Set -->
+            <Item Id="0" Index="8:20"/>
+            <Item Id="1" Index="9:20"/>
+            <Item Id="2" Index="10:20"/>
+            <Item Id="3" Index="11:20"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="2500"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="21">
+        <Recipe> <!-- Great Dragon Set -->
+            <Item Id="0" Index="7:21"/>
+            <Item Id="1" Index="8:21"/>
+            <Item Id="2" Index="9:21"/>
+            <Item Id="3" Index="10:21"/>
+            <Item Id="4" Index="11:21"/>
+        </Recipe>
+        <Effect>
+            <Option Id="92" Value="6"/> <!-- Add Excellent Damage Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="22">
+        <Recipe> <!-- Dark Soul Set -->
+            <Item Id="0" Index="7:22"/>
+            <Item Id="1" Index="8:22"/>
+            <Item Id="2" Index="9:22"/>
+            <Item Id="3" Index="10:22"/>
+            <Item Id="4" Index="11:22"/>
+        </Recipe>
+        <Effect>
+            <Option Id="102" Value="1"/> <!-- Add Ignore Defense Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="23">
+        <Recipe> <!-- Hurricane Set -->
+            <Item Id="0" Index="8:23"/>
+            <Item Id="1" Index="9:23"/>
+            <Item Id="2" Index="10:23"/>
+            <Item Id="3" Index="11:23"/>
+        </Recipe>
+        <Effect>
+            <Option Id="89" Value="3"/> <!-- Add Damage Reduction -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="24">
+        <Recipe> <!-- Red Spirit Set -->
+            <Item Id="0" Index="7:24"/>
+            <Item Id="1" Index="8:24"/>
+            <Item Id="2" Index="9:24"/>
+            <Item Id="3" Index="10:24"/>
+            <Item Id="4" Index="11:24"/>
+        </Recipe>
+        <Effect>
+            <Option Id="134" Value="6"/> <!-- Critical Damage Resistance Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="25">
+        <Recipe> <!-- Light Plate Set -->
+            <Item Id="0" Index="7:25"/>
+            <Item Id="1" Index="8:25"/>
+            <Item Id="2" Index="9:25"/>
+            <Item Id="3" Index="10:25"/>
+            <Item Id="4" Index="11:25"/>
+        </Recipe>
+        <Effect>
+            <Option Id="92" Value="2"/> <!-- Add Excellent Damage Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="26">
+        <Recipe> <!-- Adamantine Set -->
+            <Item Id="0" Index="7:26"/>
+            <Item Id="1" Index="8:26"/>
+            <Item Id="2" Index="9:26"/>
+            <Item Id="3" Index="10:26"/>
+            <Item Id="4" Index="11:26"/>
+        </Recipe>
+        <Effect>
+            <Option Id="134" Value="4"/> <!-- Critical Damage Resistance Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="27">
+        <Recipe> <!-- Dark Steel Set -->
+            <Item Id="0" Index="7:27"/>
+            <Item Id="1" Index="8:27"/>
+            <Item Id="2" Index="9:27"/>
+            <Item Id="3" Index="10:27"/>
+            <Item Id="4" Index="11:27"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="2000"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="28">
+        <Recipe> <!-- Dark Master Set -->
+            <Item Id="0" Index="7:28"/>
+            <Item Id="1" Index="8:28"/>
+            <Item Id="2" Index="9:28"/>
+            <Item Id="3" Index="10:28"/>
+            <Item Id="4" Index="11:28"/>
+        </Recipe>
+        <Effect>
+            <Option Id="125" Value="8"/> <!-- Mul Damage -->
+        </Effect>
+    </Collection>
+
+	<!-- <Collection Id="29"> -->
+        <!-- <Recipe> <!-- Ashcrow Set -->
+            <!-- <Item Id="0" Index="7:34"/> -->
+            <!-- <Item Id="1" Index="8:34"/> -->
+            <!-- <Item Id="2" Index="9:34"/> -->
+            <!-- <Item Id="3" Index="10:34"/> -->
+            <!-- <Item Id="4" Index="11:34"/> -->
+        <!-- </Recipe> -->
+        <!-- <Effect> -->
+            <!-- <Option Id="136" Value="4"/> <!-- Mul SD -->
+        <!-- </Effect> -->
+    <!-- </Collection> -->
+
+	<!-- <Collection Id="30"> -->
+        <!-- <Recipe> <!-- Eclipse Set -->
+            <!-- <Item Id="0" Index="7:35"/> -->
+            <!-- <Item Id="1" Index="8:35"/> -->
+            <!-- <Item Id="2" Index="9:35"/> -->
+            <!-- <Item Id="3" Index="10:35"/> -->
+            <!-- <Item Id="4" Index="11:35"/> -->
+        <!-- </Recipe> -->
+        <!-- <Effect> -->
+            <!-- <Option Id="119" Value="2000"/> <!-- Increase HP -->
+        <!-- </Effect> -->
+    <!-- </Collection> -->
+
+	<!-- <Collection Id="31"> -->
+        <!-- <Recipe> <!-- Iris Set --> 
+            <!-- <Item Id="0" Index="7:36"/> -->
+            <!-- <Item Id="1" Index="8:36"/> -->
+            <!-- <Item Id="2" Index="9:36"/> -->
+            <!-- <Item Id="3" Index="10:36"/> -->
+            <!-- <Item Id="4" Index="11:36"/> -->
+        <!-- </Recipe> -->
+        <!-- <Effect> -->
+            <!-- <Option Id="89" Value="2"/> <!-- Add Damage Reduction --> 
+        <!-- </Effect> -->
+    <!-- </Collection> -->
+
+	<!-- <Collection Id="32"> -->
+        <!-- <Recipe> <!-- Valiant Set --> 
+            <!-- <Item Id="0" Index="8:37"/> -->
+            <!-- <Item Id="1" Index="9:37"/> -->
+            <!-- <Item Id="2" Index="10:37"/> -->
+            <!-- <Item Id="3" Index="11:37"/> -->
+        <!-- </Recipe> -->
+        <!-- <Effect> -->
+            <!-- <Option Id="88" Value="3"/> <!-- Add Damage Reflect -->
+        <!-- </Effect> -->
+    <!-- </Collection> -->
+
+	<!-- <Collection Id="33"> -->
+        <!-- <Recipe> <!-- Glorious Set --> 
+            <!-- <Item Id="0" Index="7:38"/> -->
+            <!-- <Item Id="1" Index="8:38"/> -->
+            <!-- <Item Id="2" Index="9:38"/> -->
+            <!-- <Item Id="3" Index="10:38"/> -->
+            <!-- <Item Id="4" Index="11:38"/> -->
+        <!-- </Recipe> -->
+        <!-- <Effect> -->
+            <!-- <Option Id="116" Value="1"/> <!-- Add Double Damage Rate --> 
+        <!-- </Effect> -->
+    <!-- </Collection> -->
+
+	<Collection Id="29">
+        <Recipe> <!-- Violent Wind Set -->
+            <Item Id="0" Index="7:39"/>
+            <Item Id="1" Index="8:39"/>
+            <Item Id="2" Index="9:39"/>
+            <Item Id="3" Index="10:39"/>
+            <Item Id="4" Index="11:39"/>
+        </Recipe>
+        <Effect>
+            <Option Id="134" Value="3"/> <!-- Critical Damage Resistance Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="30">
+        <Recipe> <!-- Red Winged Set -->
+            <Item Id="0" Index="7:40"/>
+            <Item Id="1" Index="8:40"/>
+            <Item Id="2" Index="9:40"/>
+            <Item Id="3" Index="10:40"/>
+            <Item Id="4" Index="11:40"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="1500"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="31">
+        <Recipe> <!-- Ancient Set -->
+            <Item Id="0" Index="7:41"/>
+            <Item Id="1" Index="8:41"/>
+            <Item Id="2" Index="9:41"/>
+            <Item Id="3" Index="10:41"/>
+            <Item Id="4" Index="11:41"/>
+        </Recipe>
+        <Effect>
+            <Option Id="135" Value="5"/> <!-- Excellent Damage Resistance Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="32">
+        <Recipe> <!-- Demonic Set -->
+            <Item Id="0" Index="7:42"/>
+            <Item Id="1" Index="8:42"/>
+            <Item Id="2" Index="9:42"/>
+            <Item Id="3" Index="10:42"/>
+            <Item Id="4" Index="11:42"/>
+        </Recipe>
+        <Effect>
+           <Option Id="88" Value="2"/> <!-- Add Damage Reflect -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="33">
+        <Recipe> <!-- Sacred Fire Set -->
+            <Item Id="0" Index="7:59"/>
+            <Item Id="1" Index="8:59"/>
+            <Item Id="2" Index="9:59"/>
+            <Item Id="3" Index="11:59"/>
+        </Recipe>
+        <Effect>
+            <Option Id="127" Value="5"/> <!-- Mul Defense -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="34">
+        <Recipe> <!-- Storm Jahad Set -->
+            <Item Id="0" Index="7:60"/>
+            <Item Id="1" Index="8:60"/>
+            <Item Id="2" Index="9:60"/>
+            <Item Id="3" Index="11:60"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="2000"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="35">
+        <Recipe> <!-- Piercing Groove Set -->
+            <Item Id="0" Index="7:61"/>
+            <Item Id="1" Index="8:61"/>
+            <Item Id="2" Index="9:61"/>
+            <Item Id="3" Index="11:61"/>
+        </Recipe>
+        <Effect>
+            <Option Id="97" Value="35"/> <!-- Increase Attack Speed -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="36">
+        <Recipe> <!-- Dragon Knight Set -->
+            <Item Id="0" Index="7:29"/>
+            <Item Id="1" Index="8:29"/>
+            <Item Id="2" Index="9:29"/>
+            <Item Id="3" Index="10:29"/>
+            <Item Id="4" Index="11:29"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="2500"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="37">
+        <Recipe> <!-- Venom Mist Set -->
+            <Item Id="0" Index="7:30"/>
+            <Item Id="1" Index="8:30"/>
+            <Item Id="2" Index="9:30"/>
+            <Item Id="3" Index="10:30"/>
+            <Item Id="4" Index="11:30"/>
+        </Recipe>
+        <Effect>
+            <Option Id="116" Value="1"/> <!-- Add Double Damage Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="38">
+        <Recipe> <!-- Sylphid Ray Set -->
+            <Item Id="0" Index="7:31"/>
+            <Item Id="1" Index="8:31"/>
+            <Item Id="2" Index="9:31"/>
+            <Item Id="3" Index="10:31"/>
+            <Item Id="4" Index="11:31"/>
+        </Recipe>
+        <Effect>
+            <Option Id="88" Value="4"/> <!-- Add Damage Reflect -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="39">
+        <Recipe> <!-- Volcano Set -->
+            <Item Id="0" Index="8:32"/>
+            <Item Id="1" Index="9:32"/>
+            <Item Id="2" Index="10:32"/>
+            <Item Id="3" Index="11:32"/>
+        </Recipe>
+        <Effect>
+            <Option Id="134" Value="7"/> <!-- Critical Damage Resistance Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="40">
+        <Recipe> <!-- Sunlight Set -->
+            <Item Id="0" Index="7:33"/>
+            <Item Id="1" Index="8:33"/>
+            <Item Id="2" Index="9:33"/>
+            <Item Id="3" Index="10:33"/>
+            <Item Id="4" Index="11:33"/>
+        </Recipe>
+        <Effect>
+            <Option Id="136" Value="8"/> <!-- Mul SD -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="41">
+        <Recipe> <!-- Storm Blitz Set -->
+            <Item Id="0" Index="7:43"/>
+            <Item Id="1" Index="8:43"/>
+            <Item Id="2" Index="9:43"/>
+            <Item Id="3" Index="10:43"/>
+            <Item Id="4" Index="11:43"/>
+        </Recipe>
+        <Effect>
+            <Option Id="97" Value="40"/> <!-- Increase Attack Speed -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="42">
+        <Recipe> <!-- Phoenix Soul Set -->
+            <Item Id="0" Index="7:73"/>
+            <Item Id="1" Index="8:73"/>
+            <Item Id="2" Index="9:73"/>
+            <Item Id="3" Index="11:73"/>
+        </Recipe>
+        <Effect>
+            <Option Id="89" Value="4"/> <!-- Add Damage Reduction -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="43">
+        <Recipe> <!-- Eternal Winged Set -->
+            <Item Id="0" Index="7:44"/>
+            <Item Id="1" Index="8:44"/>
+            <Item Id="2" Index="9:44"/>
+            <Item Id="3" Index="10:44"/>
+            <Item Id="4" Index="11:44"/>
+        </Recipe>
+        <Effect>
+            <Option Id="88" Value="5"/> <!-- Add Damage Reflect -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="44">
+        <Recipe> <!-- Brave Set -->
+            <Item Id="0" Index="7:46"/>
+            <Item Id="1" Index="8:46"/>
+            <Item Id="2" Index="9:46"/>
+            <Item Id="3" Index="10:46"/>
+            <Item Id="4" Index="11:46"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="3000"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="45">
+        <Recipe> <!-- Phantom Set -->
+            <Item Id="0" Index="8:47"/>
+            <Item Id="1" Index="9:47"/>
+            <Item Id="2" Index="10:47"/>
+            <Item Id="3" Index="11:47"/>
+        </Recipe>
+        <Effect>
+            <Option Id="102" Value="2"/> <!-- Add Ignore Defense Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="46">
+        <Recipe> <!-- Divine Set -->
+            <Item Id="0" Index="7:50"/>
+            <Item Id="1" Index="8:50"/>
+            <Item Id="2" Index="9:50"/>
+            <Item Id="3" Index="10:50"/>
+            <Item Id="4" Index="11:50"/>
+        </Recipe>
+        <Effect>
+            <Option Id="97" Value="45"/> <!-- Increase Attack Speed -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="47">
+        <Recipe> <!-- Royal Set -->
+            <Item Id="0" Index="7:51"/>
+            <Item Id="1" Index="8:51"/>
+            <Item Id="2" Index="9:51"/>
+            <Item Id="3" Index="10:51"/>
+            <Item Id="4" Index="11:51"/>
+        </Recipe>
+        <Effect>
+            <Option Id="89" Value="5"/> <!-- Add Damage Reduction -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="48">
+        <Recipe> <!-- Hades Set -->
+            <Item Id="0" Index="7:52"/>
+            <Item Id="1" Index="8:52"/>
+            <Item Id="2" Index="9:52"/>
+            <Item Id="3" Index="10:52"/>
+            <Item Id="4" Index="11:52"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="3000"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="49">
+        <Recipe> <!-- Bloody Dragon Set -->
+            <Item Id="0" Index="7:74"/>
+            <Item Id="1" Index="8:74"/>
+            <Item Id="2" Index="9:74"/>
+            <Item Id="3" Index="11:74"/>
+        </Recipe>
+        <Effect>
+            <Option Id="135" Value="8"/> <!-- Excellent Damage Resistance Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="50">
+        <Recipe> <!-- Manticore Summoner Set -->
+            <Item Id="0" Index="7:150"/>
+            <Item Id="1" Index="8:150"/>
+            <Item Id="2" Index="9:150"/>
+            <Item Id="3" Index="10:150"/>
+            <Item Id="4" Index="11:150"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="3500"/> <!-- Inreases HP -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="51">
+        <Recipe> <!-- Manticore Knight Set -->
+            <Item Id="0" Index="7:151"/>
+            <Item Id="1" Index="8:151"/>
+            <Item Id="2" Index="9:151"/>
+            <Item Id="3" Index="10:151"/>
+            <Item Id="4" Index="11:151"/>
+        </Recipe>
+        <Effect>
+            <Option Id="127" Value="6"/> <!-- Mul Defense -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="52">
+        <Recipe> <!-- Manticore Magic Set -->
+            <Item Id="0" Index="8:152"/>
+            <Item Id="1" Index="9:152"/>
+            <Item Id="2" Index="10:152"/>
+            <Item Id="3" Index="11:152"/>
+        </Recipe>
+        <Effect>
+            <Option Id="92" Value="8"/> <!-- Add Excellent Damage Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="53">
+        <Recipe> <!-- Manticore Elf Set -->
+            <Item Id="0" Index="7:154"/>
+            <Item Id="1" Index="8:154"/>
+            <Item Id="2" Index="9:154"/>
+            <Item Id="3" Index="10:154"/>
+            <Item Id="4" Index="11:154"/>
+        </Recipe>
+        <Effect>
+            <Option Id="88" Value="6"/> <!-- Add Damage Reflect -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="54">
+        <Recipe> <!-- Manticore Lord Set -->
+            <Item Id="0" Index="7:156"/>
+            <Item Id="1" Index="8:156"/>
+            <Item Id="2" Index="9:156"/>
+            <Item Id="3" Index="10:156"/>
+            <Item Id="4" Index="11:156"/>
+        </Recipe>
+        <Effect>
+            <Option Id="116" Value="1"/> <!-- Add Double Damage Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="55">
+        <Recipe> <!-- Manticore Wizard Set -->
+            <Item Id="0" Index="7:157"/>
+            <Item Id="1" Index="8:157"/>
+            <Item Id="2" Index="9:157"/>
+            <Item Id="3" Index="10:157"/>
+            <Item Id="4" Index="11:157"/>
+        </Recipe>
+        <Effect>
+            <Option Id="125" Value="10"/> <!-- Mul Damage -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="56">
+        <Recipe> <!-- Manticore Fighter Set -->
+            <Item Id="0" Index="7:158"/>
+            <Item Id="1" Index="8:158"/>
+            <Item Id="2" Index="9:158"/>
+            <Item Id="3" Index="11:158"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="3500"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>	
+	
+	<Collection Id="57">
+        <Recipe> <!-- Brilliant Summoner Set -->
+            <Item Id="0" Index="7:160"/>
+            <Item Id="1" Index="8:160"/>
+            <Item Id="2" Index="9:160"/>
+            <Item Id="3" Index="10:160"/>
+            <Item Id="4" Index="11:160"/>
+        </Recipe>
+        <Effect>
+            <Option Id="88" Value="7"/> <!-- Add Damage Reflect -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="58">
+        <Recipe> <!-- Brilliant Knight Set -->
+            <Item Id="0" Index="7:161"/>
+            <Item Id="1" Index="8:161"/>
+            <Item Id="2" Index="9:161"/>
+            <Item Id="3" Index="10:161"/>
+            <Item Id="4" Index="11:161"/>
+        </Recipe>
+        <Effect>
+            <Option Id="136" Value="10"/> <!-- Mul SD -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="59">
+        <Recipe> <!-- Brilliant Magic Set -->
+            <Item Id="0" Index="8:162"/>
+            <Item Id="1" Index="9:162"/>
+            <Item Id="2" Index="10:162"/>
+            <Item Id="3" Index="11:162"/>
+        </Recipe>
+        <Effect>
+            <Option Id="102" Value="2"/> <!-- Add Ignore Defense Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="60">
+        <Recipe> <!-- Brilliant Elf Set -->
+            <Item Id="0" Index="7:164"/>
+            <Item Id="1" Index="8:164"/>
+            <Item Id="2" Index="9:164"/>
+            <Item Id="3" Index="10:164"/>
+            <Item Id="4" Index="11:164"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="4000"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="61">
+        <Recipe> <!-- Brilliant Lord Set -->
+            <Item Id="0" Index="7:166"/>
+            <Item Id="1" Index="8:166"/>
+            <Item Id="2" Index="9:166"/>
+            <Item Id="3" Index="10:166"/>
+            <Item Id="4" Index="11:166"/>
+        </Recipe>
+        <Effect>
+            <Option Id="125" Value="12"/> <!-- Mul Damage -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="62">
+        <Recipe> <!-- Brilliant Wizard Set -->
+            <Item Id="0" Index="7:167"/>
+            <Item Id="1" Index="8:167"/>
+            <Item Id="2" Index="9:167"/>
+            <Item Id="3" Index="10:167"/>
+            <Item Id="4" Index="11:167"/>
+        </Recipe>
+        <Effect>
+            <Option Id="116" Value="2"/> <!-- Add Double Damage Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="63">
+        <Recipe> <!-- Brilliant Fighter Set -->
+            <Item Id="0" Index="7:168"/>
+            <Item Id="1" Index="8:168"/>
+            <Item Id="2" Index="9:168"/>
+            <Item Id="3" Index="11:168"/>
+        </Recipe>
+        <Effect>
+            <Option Id="97" Value="50"/> <!-- Increase Attack Speed -->
+        </Effect>
+    </Collection>
+	
+	<Collection Id="64">
+        <Recipe> <!-- Apocalypse Summoner Set -->
+            <Item Id="0" Index="7:170"/>
+            <Item Id="1" Index="8:170"/>
+            <Item Id="2" Index="9:170"/>
+            <Item Id="3" Index="10:170"/>
+            <Item Id="4" Index="11:170"/>
+        </Recipe>
+        <Effect>
+            <Option Id="135" Value="11"/> <!-- Excellent Damage Resistance Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="65">
+        <Recipe> <!-- Apocalypse Knight Set -->
+            <Item Id="0" Index="7:171"/>
+            <Item Id="1" Index="8:171"/>
+            <Item Id="2" Index="9:171"/>
+            <Item Id="3" Index="10:171"/>
+            <Item Id="4" Index="11:171"/>
+        </Recipe>
+        <Effect>
+            <Option Id="88" Value="8"/> <!-- Add Damage Reflect -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="66">
+        <Recipe> <!-- Apocalypse Magic Set -->
+            <Item Id="0" Index="8:172"/>
+            <Item Id="1" Index="9:172"/>
+            <Item Id="2" Index="10:172"/>
+            <Item Id="3" Index="11:172"/>
+        </Recipe>
+        <Effect>
+            <Option Id="97" Value="60"/> <!-- Increase Attack Speed -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="67">
+        <Recipe> <!-- Apocalypse Elf Set -->
+            <Item Id="0" Index="7:174"/>
+            <Item Id="1" Index="8:174"/>
+            <Item Id="2" Index="9:174"/>
+            <Item Id="3" Index="10:174"/>
+            <Item Id="4" Index="11:174"/>
+        </Recipe>
+        <Effect>
+            <Option Id="134" Value="10"/> <!-- Critical Damage Resistance Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="68">
+        <Recipe> <!-- Apocalypse Lord Set -->
+            <Item Id="0" Index="7:176"/>
+            <Item Id="1" Index="8:176"/>
+            <Item Id="2" Index="9:176"/>
+            <Item Id="3" Index="10:176"/>
+            <Item Id="4" Index="11:176"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="4500"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="69">
+        <Recipe> <!-- Apocalypse Wizard Set -->
+            <Item Id="0" Index="7:177"/>
+            <Item Id="1" Index="8:177"/>
+            <Item Id="2" Index="9:177"/>
+            <Item Id="3" Index="10:177"/>
+            <Item Id="4" Index="11:177"/>
+        </Recipe>
+        <Effect>
+            <Option Id="92" Value="10"/> <!-- Add Excellent Damage Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="70">
+        <Recipe> <!-- Apocalypse Fighter Set -->
+            <Item Id="0" Index="7:178"/>
+            <Item Id="1" Index="8:178"/>
+            <Item Id="2" Index="9:178"/>
+            <Item Id="3" Index="11:178"/>
+        </Recipe>
+        <Effect>
+            <Option Id="136" Value="12"/> <!-- Mul SD -->
+        </Effect>
+    </Collection>
+	
+	<Collection Id="71">
+        <Recipe> <!-- Lightning Summoner Set -->
+            <Item Id="0" Index="7:180"/>
+            <Item Id="1" Index="8:180"/>
+            <Item Id="2" Index="9:180"/>
+            <Item Id="3" Index="10:180"/>
+            <Item Id="4" Index="11:180"/>
+        </Recipe>
+        <Effect>
+            <Option Id="125" Value="14"/> <!-- Mul Damage -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="72">
+        <Recipe> <!-- Lightning Knight Set -->
+            <Item Id="0" Index="7:181"/>
+            <Item Id="1" Index="8:181"/>
+            <Item Id="2" Index="9:181"/>
+            <Item Id="3" Index="10:181"/>
+            <Item Id="4" Index="11:181"/>
+        </Recipe>
+        <Effect>
+            <Option Id="116" Value="3"/> <!-- Add Double Damage Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="73">
+        <Recipe> <!-- Lightning Magic Set -->
+            <Item Id="0" Index="8:182"/>
+            <Item Id="1" Index="9:182"/>
+            <Item Id="2" Index="10:182"/>
+            <Item Id="3" Index="11:182"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="5000"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="74">
+        <Recipe> <!-- Lightning Elf Set -->
+            <Item Id="0" Index="7:184"/>
+            <Item Id="1" Index="8:184"/>
+            <Item Id="2" Index="9:184"/>
+            <Item Id="3" Index="10:184"/>
+            <Item Id="4" Index="11:184"/>
+        </Recipe>
+        <Effect>
+            <Option Id="89" Value="6"/> <!-- Add Damage Reduction -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="75">
+        <Recipe> <!-- Lightning Lord Set -->
+            <Item Id="0" Index="7:186"/>
+            <Item Id="1" Index="8:186"/>
+            <Item Id="2" Index="9:186"/>
+            <Item Id="3" Index="10:186"/>
+            <Item Id="4" Index="11:186"/>
+        </Recipe>
+        <Effect>
+            <Option Id="119" Value="5000"/> <!-- Increase HP -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="76">
+        <Recipe> <!-- Lightning Wizard Set -->
+            <Item Id="0" Index="7:187"/>
+            <Item Id="1" Index="8:187"/>
+            <Item Id="2" Index="9:187"/>
+            <Item Id="3" Index="10:187"/>
+            <Item Id="4" Index="11:187"/>
+        </Recipe>
+        <Effect>
+            <Option Id="102" Value="3"/> <!-- Add Ignore Defense Rate -->
+        </Effect>
+    </Collection>
+
+	<Collection Id="77">
+        <Recipe> <!-- Lightning Fighter Set -->
+            <Item Id="0" Index="7:188"/>
+            <Item Id="1" Index="8:188"/>
+            <Item Id="2" Index="9:188"/>
+            <Item Id="3" Index="11:188"/>
+        </Recipe>
+        <Effect>
+            <Option Id="127" Value="7"/> <!-- Mul Defense -->
+        </Effect>
+    </Collection>	
+</ItemCollection>

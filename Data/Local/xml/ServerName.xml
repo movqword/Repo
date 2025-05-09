@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<server_names>
+	<server name="Legacy S-1 | Main (PvP)" code="0" red="255" green="153" blue="51" alpha="255"/>
+	<server name="Legacy S-2 | Sub Server (PvP)" code="1" red="255" green="255" blue="0" alpha="200"/>
+	<server name="Legacy S-3 | Sub Server (PvP)" code="2" red="255" green="255" blue="0" alpha="200"/>
+	<server name="Legacy S-4 | Sub Server (PvP)" code="3" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Legacy S-5 | Sub Server (PvP)" code="4" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Legacy S-6 | Sub Server (PvP)" code="5" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Test Server" code="6" red="204" green="255" blue="0" alpha="120"/>
+	<server name="Legacy_CS" code="19" red="255" green="255" blue="0" alpha="255"/>
+	
+	<server name="Guild War S-1 | Main (PvP)" code="20" red="255" green="153" blue="51" alpha="255"/>
+	<server name="Guild War S-2 | Sub Server (PvP)" code="21" red="255" green="255" blue="0" alpha="200"/>
+	<server name="Guild War S-3 | Sub Server (PvP)" code="22" red="255" green="255" blue="0" alpha="200"/>
+	<server name="Guild War S-4 | Sub Server (PvP)" code="23" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Guild War S-5 | Sub Server (PvP)" code="24" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Guild War S-6 | Sub Server (PvP)" code="25" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Guild War S-7 | Sub Server (PvP)" code="26" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Guild War S-8 | Sub Server (PvP)" code="27" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Guild War S-9 | Sub Server (PvP)" code="28" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Guild War S-10 | Sub Server (PvP)" code="29" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Guild War S-11 | Sub Server (PvP)" code="30" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Guild War CS" code="39" red="204" green="255" blue="0" alpha="200"/>
+
+
+	<server name="Classic S-1 | Main (PvP)" code="40" red="255" green="153" blue="51" alpha="255"/>
+	<server name="Classic S-2 | Sub Server (PvP)" code="41" red="255" green="255" blue="0" alpha="200"/>
+	<server name="Classic S-3 | Sub Server (PvP)" code="42" red="255" green="255" blue="0" alpha="200"/>
+	<server name="Classic S-4 | Sub Server (PvP)" code="43" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Classic S-5 | Sub Server (PvP)" code="44" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Classic S-6 | Sub Server (PvP)" code="45" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Classic S-7 | Sub Server (PvP)" code="46" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Classic S-8 | Sub Server (PvP)" code="47" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Classic S-9 | Sub Server (PvP)" code="48" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Classic S-10 | Sub Server (PvP)" code="49" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Classic S-11 | Dungeon (PvP)" code="58" red="204" green="255" blue="0" alpha="200"/>
+	<server name="Classic CS" code="59" red="204" green="255" blue="0" alpha="200"/>
+</server_names>

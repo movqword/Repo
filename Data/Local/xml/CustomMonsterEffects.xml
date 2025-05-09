@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Type 1 = Dynamic -->
+<!-- Type 2 = Static -->
+<CustomMonsterEffects>
+  <Effect MonsterId="588" Type="1" EffectId="32151" EffectValue="4" X="0.0" Y="0.0" Z="0.0" R="0.40" G="0.58" B="1.0" Scale="3.5"/>			<!-- Lord Ferea -->
+  <Effect MonsterId="588" Type="1" EffectId="32394" EffectValue="5" X="0.0" Y="0.0" Z="0.0" R="0.35" G="0.68" B="1.0" Scale="2.0"/>			<!-- Lord Ferea -->
+  <Effect MonsterId="588" Type="2" EffectId="32240" EffectValue="12" X="0.0" Y="0.0" Z="0.0" R="2.55" G="2.55" B="2.55" Scale="0.3"/>		<!-- Lord Ferea -->
+  <Effect MonsterId="588" Type="2" EffectId="32240" EffectValue="13" X="0.0" Y="0.0" Z="0.0" R="2.55" G="2.55" B="2.55" Scale="0.3"/>		<!-- Lord Ferea -->
+  <Effect MonsterId="588" Type="2" EffectId="32240" EffectValue="54" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="0.3"/>		<!-- Lord Ferea -->
+  <Effect MonsterId="588" Type="2" EffectId="32240" EffectValue="55" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="0.3"/>		<!-- Lord Ferea -->
+  
+  
+  <Effect MonsterId="583" Type="2" EffectId="32240" EffectValue="53" X="0.0" Y="0.0" Z="0.0" R="2.55" G="2.55" B="2.55" Scale="0.3"/>		<!-- Lord Silvester -->
+  <Effect MonsterId="583" Type="2" EffectId="32240" EffectValue="54" X="0.0" Y="0.0" Z="0.0" R="2.55" G="2.55" B="2.55" Scale="0.3"/>		<!-- Lord Silvester -->
+  <Effect MonsterId="583" Type="1" EffectId="32392" EffectValue="79" X="0.0" Y="0.0" Z="0.0" R="1.00" G="1.00" B="1.00" Scale="0.5"/>		<!-- Lord Silvester -->
+  
+  <Effect MonsterId="596" Type="2" EffectId="32240" EffectValue="43" X="0.0" Y="0.0" Z="0.0" R="2.55" G="2.55" B="2.55" Scale="0.5"/>		<!-- Monster of Swamp -->
+  <Effect MonsterId="596" Type="2" EffectId="32240" EffectValue="44" X="0.0" Y="0.0" Z="0.0" R="2.55" G="2.55" B="2.55" Scale="0.5"/>		<!-- Monster of Swamp -->
+  <Effect MonsterId="596" Type="1" EffectId="32394" EffectValue="64" X="0.0" Y="0.0" Z="0.0" R="0.35" G="0.68" B="1.00" Scale="1.0"/>		<!-- Monster of Swamp -->
+  <Effect MonsterId="596" Type="1" EffectId="32394" EffectValue="83" X="0.0" Y="0.0" Z="0.0" R="0.35" G="0.68" B="1.00" Scale="1.0"/>		<!-- Monster of Swamp -->
+ 
+  
+  
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="51" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="52" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="53" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="54" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="55" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="56" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="57" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="58" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="59" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="60" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="61" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="62" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="63" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="64" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="65" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="66" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="67" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="68" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="69" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="70" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="75" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="32" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="27" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="28" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="81" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="82" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="83" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="84" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="85" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="86" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="87" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="88" X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.10" B="2.00" Scale="1.0"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="8"  X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.08" B="2.00" Scale="0.5"/>		<!-- Nix -->
+  <Effect MonsterId="592" Type="2" EffectId="32240" EffectValue="9"  X="0.0" Y="0.0" Z="0.0" R="0.08" G="0.08" B="2.00" Scale="0.5"/>		<!-- Nix -->
+  
+  
+</CustomMonsterEffects>

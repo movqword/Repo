@@ -1,0 +1,187 @@
+<EnchantItemOption>
+	<!-- ITEM_OPTION_ADD_EXCELLENT_DAMAGE_RATE -->
+	<Option Id="1" ItemOptionId="92" TextId="966">
+		<Variation Id="0">
+			<Level Index="13~15" Value="5"/>
+		</Variation>
+		<Variation Id="1">
+			<Level Index="13~15" Value="4"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_ADD_IGNORE_DEFENSE_RATE -->
+	<Option Id="2" ItemOptionId="102" TextId="742">
+		<Variation Id="0">
+			<Level Index="14~15" Value="3"/>
+		</Variation>
+		<Variation Id="1">
+			<Level Index="15" Value="1"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_MUL_DAMAGE -->
+	<Option Id="3" ItemOptionId="125" TextId="3888">
+		<Variation Id="0">
+			<Level Index="15" Value="8"/>
+		</Variation>
+		<Variation Id="1">
+			<Level Index="15" Value="4"/>
+		</Variation>
+		<Variation Id="2">
+			<Level Index="14~15" Value="2"/>
+		</Variation>
+		<Variation Id="3">
+			<Level Index="14~15" Value="3"/>
+		</Variation>
+		<Variation Id="4">
+			<Level Index="14~15" Value="4"/>
+		</Variation>
+		<Variation Id="5">
+			<Level Index="14~15" Value="8"/>
+		</Variation>
+		<Variation Id="6">
+			<Level Index="14~15" Value="15"/>
+		</Variation>
+		<Variation Id="7">
+			<Level Index="14~15" Value="5"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_CRITICAL_DAMAGE_RESISTANCE_RATE -->
+	<Option Id="4" ItemOptionId="134" TextId="3951">
+		<Variation Id="0">
+			<Level Index="13~15" Value="10"/>
+		</Variation>
+		<Variation Id="1">
+			<Level Index="13~15" Value="3"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_EXCELLENT_DAMAGE_RESISTANCE_RATE -->
+	<Option Id="5" ItemOptionId="135" TextId="3952">
+		<Variation Id="0">
+			<Level Index="14~15" Value="10"/>
+		</Variation>
+		<Variation Id="1">
+			<Level Index="14~15" Value="3"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_ADD_FULL_DAMAGE_REFLECT_RATE -->
+	<Option Id="6" ItemOptionId="109" TextId="1673">
+		<Variation Id="0">
+			<Level Index="15" Value="2"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_ADD_HP -->
+	<Option Id="7" ItemOptionId="119" TextId="3953">
+		<Variation Id="0">
+			<Level Index="13~15" Value="600"/>
+		</Variation>
+		<Variation Id="1">
+			<Level Index="13~15" Value="1000"/>
+		</Variation>
+		<Variation Id="2">
+			<Level Index="13~15" Value="1500"/>
+		</Variation>
+		<Variation Id="3">
+			<Level Index="13~15" Value="2500"/>
+		</Variation>
+		<Variation Id="4">
+			<Level Index="13~15" Value="4000"/>
+		</Variation>
+		<Variation Id="5">
+			<Level Index="13~15" Value="8000"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_ADD_DEFENSE -->
+	<Option Id="8" ItemOptionId="83" TextId="3954">
+		<Variation Id="0">
+			<Level Index="14~15" Value="500"/>
+		</Variation>
+		<Variation Id="1">
+			<Level Index="13~15" Value="300"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_MUL_SD -->
+	<Option Id="9" ItemOptionId="136" TextId="3817">
+		<Variation Id="0">
+			<Level Index="15" Value="8"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_ADD_SPEED -->
+	<Option Id="10" ItemOptionId="97" TextId="2503">
+		<Variation Id="0">
+			<Level Index="13~15" Value="40"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_ADD_CRITICAL_DAMAGE_RATE -->
+	<Option Id="11" ItemOptionId="84" TextId="7035">
+		<Variation Id="0">
+			<Level Index="14~15" Value="5"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_ADD_DAMAGE_REDUCTION -->
+	<Option Id="12" ItemOptionId="89" TextId="7037">
+		<Variation Id="0">
+			<Level Index="15" Value="2"/>
+		</Variation>
+		<Variation Id="1">
+			<Level Index="15" Value="3"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_ADD_DOUBLE_DAMAGE_RATE -->
+	<Option Id="13" ItemOptionId="116" TextId="1674">
+		<Variation Id="0">
+			<Level Index="14~15" Value="1"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_ADD_DAMAGE_REFLECT -->
+	<Option Id="14" ItemOptionId="88" TextId="3819">
+		<Variation Id="0">
+			<Level Index="15" Value="3"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_ADD_ALL_STATS -->
+	<Option Id="15" ItemOptionId="133" TextId="3950">
+		<Variation Id="0">
+			<Level Index="14~15" Value="200"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_ADD_DAMAGE_PVP -->
+	<Option Id="16" ItemOptionId="138" TextId="2185">
+		<Variation Id="0">
+			<Level Index="15" Value="250"/>
+		</Variation>
+		<Variation Id="1">
+			<Level Index="15" Value="350"/>
+		</Variation>
+		<Variation Id="2">
+			<Level Index="15" Value="500"/>
+		</Variation>
+		<Variation Id="3">
+			<Level Index="15" Value="750"/>
+		</Variation>
+		<Variation Id="4">
+			<Level Index="15" Value="1000"/>
+		</Variation>
+	</Option>
+
+	<!-- ITEM_OPTION_ADD_DEFENSE_PVP -->
+	<Option Id="17" ItemOptionId="137" TextId="959">
+		<Variation Id="0">
+			<Level Index="13~15" Value="300"/>
+		</Variation>
+	</Option>
+
+</EnchantItemOption>

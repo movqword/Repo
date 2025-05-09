@@ -1,0 +1,155 @@
+<!-- 
+Color = RGBA(red, green, blue, opacity).
+Example:
+	#F0F1F2FF:
+		red: F0 (240)
+		green: F1 (241)
+		blue: F2 (242)
+		opacity: FF (255)
+ -->
+
+<QuestSystemText>
+	<Quest Id="1" Title="Wrath of the Demon Bull">
+		<Description Text="Once, Ruined Lorencia was a thriving city, but dark sorcerers, seeking power, performed a forbidden ritual. Instead of a loyal guardian, they summoned a terrifying monster — Demon Bull." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="The beast emerged from fire and ash, slaughtering its summoners and turning the city into ruins. Since then, Demon Bull has roamed the desolate streets, feeding on the souls of those foolish enough to enter its domain." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Many have tried to slay it — none have returned. If you dare face this foe, be prepared — this enemy shows no mercy." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Defeat it and bring proof of your victory — I will reward you generously for it." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	<Quest Id="2" Title="Cerberus Unleashed">
+		<Description Text="In the labyrinths beneath Ruined Lorencia, the monstrous Cerberus was once imprisoned, a guardian of souls that fed on the fear of the living. After the city's fall, it broke free and now roams the ruins, seeking new victims." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Slay Cerberus and put an end to its reign of terror in the ruins." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	<Quest Id="3" Title="Lava Beast's Fury">
+		<Description Text="Deep within the catacombs of the city, the Lava Beast was imprisoned by the ancient mages. Created by fire and dark magic, it was meant to be a force of destruction. When the city fell, it broke free and now burns everything in its path." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Find its lair in the volcanic region and stop the Lava Beast from causing further devastation." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	<Quest Id="4" Title="The Lava Demon’s Pact">
+		<Description Text="The Lava Demon was once a servant of the ancient mages, bound by a dark pact. However, during the fall of Lorencia, he broke his word and sought even greater power. Now, he roams the ruins, trying to complete the dangerous deal he started long ago." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Stop the Lava Demon from fulfilling his pact and unleashing even more destruction upon the land." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	<Quest Id="5" Title="The Red Centurion's Last Stand">
+		<Description Text="When the gates of Lorencia were breached by demon hordes, Red Centurion was the last soldier standing, fighting to protect the city. His spirit still lingers in the ruins, consumed by hatred and sorrow, ready to strike down anyone who dares to enter." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Defeat the Red Centurion and free his soul from eternal torment." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	<Quest Id="6" Title="The Blue Centurion's Honor">
+		<Description Text="Blue Centurion, one of the oldest knights of Lorencia, swore to protect his people to the death. Despite the fall of the city, his spirit still wanders the ruins, guarding the remains of his comrades and stopping anyone who seeks to disturb their rest." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Defeat the Blue Centurion and allow his honorable spirit to find peace." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	<Quest Id="7" Title="The Infernal Hunt">
+		<Description Text="Legends speak of Hell Maine, a monstrous beast born from the very flames that consumed Lorencia. Once a guardian of the city's deepest vaults, Hell Maine was twisted by dark magic and transformed into a relentless force of destruction." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Now it roams Ruined Lorencia, leaving scorched earth and smoldering corpses in its wake." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Many have tried to slay this fiery abomination, but none have returned. Only a true warrior can face Hell Maine and survive." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Find and kill Hell Maine, then bring back Hell Maine's Wing as proof of your victory." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	<Quest Id="8" Title="The Blazing Horror">
+		<Description Text="During the fall of Lorencia, desperate mages attempted to summon a powerful creature from the depths of the Tarkan desert in hopes of saving the city. However, their ritual unleashed a fiery monstrosity known as the Death Beam Knight." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="This blazing creature, resembling a massive firebat, spreads chaos, incinerating everything in its path. It has claimed Ruined Lorencia as its hunting ground, turning the ruins into a smoldering graveyard." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Find and destroy the Death Beam Knight, then bring back its Death Beam Knight Soul as proof of your victory." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	<Quest Id="9" Title="The Curse of the Elite Skeleton">
+		<Description Text="When Lorencia fell, many of the city's warriors were raised from their graves by dark necromancy. Among them emerged one feared above all — the Elite Skeleton, an ancient warrior whose spirit was bound by dark magic, forcing him to guard the ruins for eternity." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="This undead sentinel has become a symbol of fear among survivors, attacking anyone who dares to approach. His strength surpasses that of ordinary undead due to the curse that binds his bones." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Slay the Elite Skeleton and bring back the Skeleton's Bone as proof of your victory." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	<Quest Id="10" Title="Elite Lich’s Curse">
+		<Description Text="When the mages, in an attempt to preserve their knowledge, turned themselves into the undead, one of them — Elite Lich — lost his human form but retained his mastery over dark magic. Now his curse spreads throughout the ruins, and his undead army continues to grow." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Defeat the Elite Lich to ensure his magic no longer threatens the land." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	<Quest Id="11" Title="The Elite Giant’s Awakening">
+		<Description Text="The giant, forgotten and abandoned, once defended the city from external threats. After the destruction of Lorencia, its stone body came to life, and now it wanders the ruins, destroying everything in its path." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Find its lair and defeat it before its steps bring complete destruction to the remaining ruins." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	<Quest Id="12" Title="Alchemical Experiment">
+		<Description Text="An old alchemist, settled in the ruins of Lorencia, is trying to create a powerful potion, but he needs rare magical stones to complete it. He claims that Jewel possess unique properties essential for his experiment." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="These Jewels are the key ingredients for my grand potion! Bring me some, and I will reward you generously!" IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Bring Jewels to the alchemist and receive your reward." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	<Quest Id="13" Title="Energy of Ancient Coins">
+		<Description Text="Do you know what Coin of Zen really is? It’s not just gold. These coins carry the energy of the past, the power that once flowed through the streets of Lorencia when it was still a great city. After its fall, everything changed, but I found a way to extract the remnants of this energy and turn it into something useful." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Bring me Coin of Zen, and I will exchange them for Activity Points—a power that will aid you in your journey. The more you bring, the more you get!" IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Hand over Coin of Zen to the NPC and receive Activity Points in return." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	<Quest Id="14" Title="A Message for Jinn">
+		<Description Text="You, traveler... I need your help. My name is Thomas, and yes, I am a black mage. But I serve neither darkness nor light. I seek only the truth in this shattered world." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Long ago, I had a friend—Jinn. We walked different paths, but I know he is still alive. He has taken refuge in Ruined Devias, far from everyone. I need you to find him and deliver a message." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Tell him that Lorencia has fallen. Tell him that the ruins now belong to monsters. If he still holds true to his oath, he must know the truth." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Find him, speak with him… and perhaps, this will change the course of what is to come." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Travel to Ruined Devias, find Jinn, and inform him of the fall of Ruined Lorencia." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+
+	<Quest Id="15" Title="Wrath of the Dark Mammoth">
+		<Description Text="When Devias fell, magical chaos tore through reality. Someone, perhaps in panic or desperation, summoned creatures from the depths of Raklion. Among them was Dark Mammoth, a towering beast covered in black ice, bringing death and destruction." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="This monstrous creature tramples everything in its path, turning the land into a frozen graveyard. If it is not stopped, there will be nothing left of Devias." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Find it. Kill it. Bring me its Dark Mammoth’s Horn as proof that it no longer threatens this world." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	
+	<Quest Id="16" Title="Fury of the Dark Giant">
+		<Description Text="Among those summoned from Raklion was Dark Giant—a colossal monster, the embodiment of destruction. Even in Raklion, it was feared by the most ferocious predators, and now it roams Devias, crushing everything in its wake." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Every step it takes cracks the earth, every strike reduces walls to rubble. No one can stop it… except you." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="You must destroy it before it wipes Devias off the map." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Bring me its Dark Giant’s Axe to prove that this nightmare has finally ended." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+
+	<Quest Id="17" Title="The Cursed Blood of Dark Coolutin">
+		<Description Text="When Devias fell, a portal to Raklion opened, unleashing Dark Coolutin—an ancient ice beast whose blood is tainted with dark magic. It spreads a chilling horror, freezing those who dare to stand against it." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Its very existence corrupts the land, and if left unchecked, its magic will make Devias uninhabitable forever" IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Find and kill it, then bring me Dark Coolutin's Blood. Perhaps its tainted blood holds the key to sealing this portal once and for all." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Kill Dark Coolutin and bring Dark Coolutin’s Blood." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+
+	<Quest Id="18" Title="The Phantom Knight of Darkness">
+		<Description Text="In Raklion, there was a legend of an immortal warrior known as Dark Iron Knight. He knew no fear, pain, or exhaustion. His armor could withstand the strongest attacks, and his sword could cut through any barrier" IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Now, this phantom knight roams Devias, driven by a single purpose—to destroy all who stand in his way." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Stop him before he turns the land into a bloodbath. Bring me his Dark Iron Knight’s Sword as proof that even legends can be defeated." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Kill Dark Iron Knight and bring Dark Iron Knight’s Sword." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+
+	<Quest Id="19" Title="Venomous Embrace">
+		<Description Text="Queen Vespera weaves her deadly silk within the acidic tunnels of the Karutan hive. Her venom is said to corrode even the strongest soul. Many warriors have entered her lair… none returned whole." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Defeat Queen Vespera in the lower chambers of Karutan Underground." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+
+	<Quest Id="20" Title="The Fallen Flame">
+		<Description Text="Once a guardian of Lorencia, Karion was consumed by the fires of betrayal. Now clad in infernal armor and wielding a cursed blade, he stands as a symbol of what happens when loyalty is twisted by darkness." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Seek out and defeat Karion in the Karutan Underground." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+
+	<Quest Id="21" Title="Echoes of Stone">
+		<Description Text="Deep within the molten caverns, Thargoss slumbers no more. With six limbs of stone and rage, he crushes all intruders who step into his dominion. His roar alone can shake the earth." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Enter the Cracked Depths and defeat Thargoss, Guardian of the Abyss." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+	
+	<Quest Id="22" Title="The Watcher’s Gaze">
+		<Description Text="Doomeye is no ordinary creature — he sees into the minds of all who draw near. His presence distorts reality, turning allies against each other. Only those with true will can resist his gaze." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Survive and defeat Doomeye in the Maze of Illusions." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+
+	<Quest Id="23" Title="Ascension of Chaos">
+		<Description Text="With his generals fallen, Nefarius rises from his infernal throne to face you. He is the root of the corruption in Karutan, the Warden of Flames, the Bringer of Ruin. Only one can leave this chamber alive." IsBold="0" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Objective: Confront and defeat Nefarius in the Core of the Abyss to unlock the path of a Master." IsBold="1" Color="#BABABAFF" BackgroundColor="#FFFFFF00"/>
+		<Description Text="Additional: You can complete this quest in a party or solo." IsBold="0" Color="#f56262" BackgroundColor="#FFFFFF00"/>
+	</Quest>
+
+</QuestSystemText>

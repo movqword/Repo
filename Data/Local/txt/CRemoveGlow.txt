@@ -1,0 +1,645 @@
+//=======================================================
+// Index	= ItemIndex: (Type * 512) + Index;
+// Type		= Disabled ColorGlow in SkinClass;
+// Index	= Disabled Brightness in SkinClass;
+// noOption	= Disabled EffectOption (Exc, anc, lucky) in SkinClass;
+// Comment	= "Name" commnet;
+//=======================================================
+//ItemIndex || 	Texture || 	Comment
+//=======================================================
+3684			0    		// Darkangel Summoner Helm
+4196			0    		// Darkangel Summoner Armor
+4196			2    		// Darkangel Summoner Armor
+4708			0    		// Darkangel Summoner Pants
+4708			2    		// Darkangel Summoner Pants
+4708			4    		// Darkangel Summoner Pants
+5220			0    		// Darkangel Summoner Gloves
+5220			2    		// Darkangel Summoner Gloves
+5732			0    		// Darkangel Summoner Boots
+3685			0    		// Darkangel Knight Helm
+4197			0    		// Darkangel Knight Armor
+4709			0    		// Darkangel Knight Pants
+5221			0    		// Darkangel Knight Gloves
+5733			0    		// Darkangel Knight Boots
+4198			0    		// Darkangel Magic [S] Armor
+4710			0    		// Darkangel Magic [S] Pants
+5222			0    		// Darkangel Magic [S] Gloves
+5734			0    		// Darkangel Magic [S] Boots
+4199			0    		// Darkangel Magic [E] Armor
+4711			0    		// Darkangel Magic [E] Pants
+5223			0    		// Darkangel Magic [E] Gloves
+5735			0    		// Darkangel Magic [E] Boots
+3688			0    		// Darkagenl Elf [A] Helm
+4200			0    		// Darkagenl Elf [A] Armor
+4200			2    		// Darkagenl Elf [A] Armor
+4712			0    		// Darkagenl Elf [A] Pants
+4712			2    		// Darkagenl Elf [A] Pants
+4712			4    		// Darkagenl Elf [A] Pants
+5224			0    		// Darkagenl Elf [A] Gloves
+5224			2    		// Darkagenl Elf [A] Gloves
+5736			0    		// Darkagenl Elf [A] Boots
+3689			0    		// Darkagenl Elf [E] Helm
+4201			0    		// Darkagenl Elf [E] Armor
+4201			2    		// Darkagenl Elf [E] Armor
+4713			0    		// Darkagenl Elf [E] Pants
+4713			2    		// Darkagenl Elf [E] Pants
+4713			4    		// Darkagenl Elf [E] Pants
+5225			0    		// Darkagenl Elf [E] Gloves
+5225			2    		// Darkagenl Elf [E] Gloves
+5737			0    		// Darkagenl Elf [E] Boots
+3690			0    		// Darkangel Lord Helm
+4202			0    		// Darkangel Lord Armor
+4714			0    		// Darkangel Lord Pants
+4714			2    		// Darkangel Lord Pants
+5226			0    		// Darkangel Lord Gloves
+5738			0	 		// Darkangel Lord Boots
+3691			0    		// Darkangel Wizard Helm
+4203			0    		// Darkangel Wizard Armor
+4715			0    		// Darkangel Wizard Pants
+4715			2    		// Darkangel Wizard Pants
+5227			0    		// Darkangel Wizard Gloves
+5739			0	 		// Darkangel Wizard Boots
+3692			0    		// Darkangel Fighter Helm
+4204			0    		// Darkangel Fighter Armor
+4716			0    		// Darkangel Fighter Pants
+5740			0    		// Darkangel Fighter Boots
+3694			0    		// Holyangel Summoner Helm
+3694			1    		// Holyangel Summoner Helm
+3694			2    		// Holyangel Summoner Helm
+3695			0    		// Holyangel Knight Helm
+3698			0    		// Holyangel Elf [A] Helm
+3698			1    		// Holyangel Elf [A] Helm
+3698			2    		// Holyangel Elf [A] Helm
+3699			0    		// Holyangel Elf [E] Helm
+3699			1    		// Holyangel Elf [E] Helm
+3699			2    		// Holyangel Elf [E] Helm
+3700			0    		// Holyangel Lord Helm
+3701			0    		// Holyangel Wizard Helm
+3702			0    		// Holyangel Fighter Helm
+3704			0    		// Awakening Summoner Helm
+4216			0    		// Awakening Summoner Armor
+4216			4    		// Awakening Summoner Armor
+4728			0    		// Awakening Summoner Pants
+5752			0    		// Awakening Summoner Boots
+3705			0    		// Awakening Knight Helm
+4217			0    		// Awakening Knight Armor
+4729			0    		// Awakening Knight Pants
+5241			0    		// Awakening Knight Gloves
+5241			2    		// Awakening Knight Gloves
+5753			0    		// Awakening Knight Boots
+4218			0    		// Awakening Magic [S] Armor
+4730			0    		// Awakening Magic [S] Pants
+5242			0    		// Awakening Magic [S] Gloves
+5242			2    		// Awakening Magic [S] Gloves
+5754			0    		// Awakening Magic [S] Boots
+4219			0    		// Awakening Magic [E] Armor
+4731			0    		// Awakening Magic [E] Pants
+5243			0    		// Awakening Magic [E] Gloves
+5243			2    		// Awakening Magic [E] Gloves
+5755			0    		// Awakening Magic [E] Boots
+3708			0    		// Awakening Elf [A] Helm
+4220			0    		// Awakening Elf [A] Armor
+4220			4    		// Awakening Elf [A] Armor
+4732			0    		// Awakening Elf [A] Pants
+5756			0    		// Awakening Elf [A] Boots
+3709			0    		// Awakening Elf [E] Helm
+4221			0    		// Awakening Elf [E] Armor
+4221			4    		// Awakening Elf [E] Armor
+4733			0    		// Awakening Elf [E] Pants
+5757			0    		// Awakening Elf [E] Boots
+3710			0    		// Awakening Lord Helm
+4222			0    		// Awakening Lord Armor
+4734			0    		// Awakening Lord Pants
+5246			0    		// Awakening Lord Gloves
+5246			3    		// Awakening Lord Gloves
+5758			0    		// Awakening Lord Boots
+3711			0    		// Awakening Wizard Helm
+4223			0    		// Awakening Wizard Armor
+4735			0    		// Awakening Wizard Pants
+5247			0    		// Awakening Wizard Gloves
+5247			3    		// Awakening Wizard Gloves
+5759			0    		// Awakening Wizard Boots
+3712			0    		// Awakening Fighter Helm
+4224			0    		// Awakening Fighter Armor
+4736			0    		// Awakening Fighter Pants
+5760			0    		// Awakening Fighter Boots
+3714			0    		// Blue Eye Summoner Helm
+3714			1    		// Blue Eye Summoner Helm
+4226			0    		// Blue Eye Summoner Armor
+4226			1    		// Blue Eye Summoner Armor
+4738			0    		// Blue Eye Summoner Pants
+4738			1    		// Blue Eye Summoner Pants
+4738			2    		// Blue Eye Summoner Pants
+3715			0    		// Blue Eye Knight Helm
+3715			1    		// Blue Eye Knight Helm
+4227			0    		// Blue Eye Knight Armor
+4227			1    		// Blue Eye Knight Armor
+4739			0    		// Blue Eye Knight Pants
+4739			1    		// Blue Eye Knight Pants
+4739			2    		// Blue Eye Knight Pants
+5251			0    		// Blue Eye Knight Gloves
+5763			0    		// Blue Eye Knight Boots
+5763			1    		// Blue Eye Knight Boots
+4228			0    		// Blue Eye Magic [S] Armor
+4228			1    		// Blue Eye Magic [S] Armor
+4740			0    		// Blue Eye Magic [S] Pants
+4740			1    		// Blue Eye Magic [S] Pants
+4740			2    		// Blue Eye Magic [S] Pants
+5252			0    		// Blue Eye Magic [S] Gloves
+5764			0    		// Blue Eye Magic [S] Boots
+5764			1    		// Blue Eye Magic [S] Boots
+4229			0    		// Blue Eye Magic [E] Armor
+4229			1    		// Blue Eye Magic [E] Armor
+4741			0    		// Blue Eye Magic [E] Pants
+4741			1    		// Blue Eye Magic [E] Pants
+4741			2    		// Blue Eye Magic [E] Pants
+5253			0    		// Blue Eye Magic [E] Gloves
+5765			0    		// Blue Eye Magic [E] Boots
+5765			1    		// Blue Eye Magic [E] Boots
+3718			0    		// Blue Eye Elf [A] Helm
+3718			1    		// Blue Eye Elf [A] Helm
+4230			0    		// Blue Eye Elf [A] Armor
+4230			1    		// Blue Eye Elf [A] Armor
+4742			0    		// Blue Eye Elf [A] Pants
+4742			1    		// Blue Eye Elf [A] Pants
+4742			2    		// Blue Eye Elf [A] Pants
+3719			0    		// Blue Eye Elf [E] Helm
+3719			1    		// Blue Eye Elf [E] Helm
+4231			0    		// Blue Eye Elf [E] Armor
+4231			1    		// Blue Eye Elf [E] Armor
+4743			0    		// Blue Eye Elf [E] Pants
+4743			1    		// Blue Eye Elf [E] Pants
+4743			2    		// Blue Eye Elf [E] Pants
+3720			0    		// Blue Eye Lord Helm
+3720			1    		// Blue Eye Lord Helm
+4232			0    		// Blue Eye Lord Armor
+4232			1    		// Blue Eye Lord Armor
+4744			0    		// Blue Eye Lord Pants
+4744			1    		// Blue Eye Lord Pants
+4744			6    		// Blue Eye Lord Pants
+4744			8    		// Blue Eye Lord Pants
+5256			0    		// Blue Eye Lord Gloves
+5256			1    		// Blue Eye Lord Gloves
+3721			0    		// Blue Eye Wizard Helm
+3721			1    		// Blue Eye Wizard Helm
+4233			0    		// Blue Eye Wizard Armor
+4233			1    		// Blue Eye Wizard Armor
+4745			0    		// Blue Eye Wizard Pants
+4745			1    		// Blue Eye Wizard Pants
+4745			6    		// Blue Eye Wizard Pants
+4745			8    		// Blue Eye Wizard Pants
+5257			0    		// Blue Eye Wizard Gloves
+5257			1    		// Blue Eye Wizard Gloves
+3722			0    		// Blue Eye Fighter Helm
+3722			1    		// Blue Eye Fighter Helm
+4234			0    		// Blue Eye Fighter Armor
+4234			1    		// Blue Eye Fighter Armor
+4746			0    		// Blue Eye Fighter Pants
+4746			1    		// Blue Eye Fighter Pants
+4746			2    		// Blue Eye Fighter Pants
+5770			0    		// Blue Eye Fighter Boots
+5770			1    		// Blue Eye Fighter Boots
+3724			0    		// Silverheart Summoner Helm
+4236			0    		// Silverheart Summoner Armor
+4236			2    		// Silverheart Summoner Armor
+4748			0    		// Silverheart Summoner Pants
+5260			0    		// Silverheart Summoner Gloves
+5772			0    		// Silverheart Summoner Boots
+3725			0    		// Silverheart Knight Helm
+4237			0    		// Silverheart Knight Armor
+4237			2    		// Silverheart Knight Armor
+4749			0    		// Silverheart Knight Pants
+4749			2    		// Silverheart Knight Pants
+4749			0    		// Silverheart Knight Gloves
+5773			0    		// Silverheart Knight Boots
+4238			0    		// Silverheart Magic [S] Armor
+4238			2    		// Silverheart Magic [S] Armor
+4750			0    		// Silverheart Magic [S] Pants
+4750			2    		// Silverheart Magic [S] Pants
+5262			0    		// Silverheart Magic [S] Gloves
+5774			0    		// Silverheart Magic [S] Boots
+4239			0    		// Silverheart Magic [E] Armor
+4239			2    		// Silverheart Magic [E] Armor
+4751			0    		// Silverheart Magic [E] Pants
+4751			2    		// Silverheart Magic [E] Pants
+5263			0    		// Silverheart Magic [E] Gloves
+5775			0    		// Silverheart Magic [E] Boots
+3728			0    		// Silverheart Elf [A] Helm
+4240			0    		// Silverheart Elf [A] Armor
+4240			2    		// Silverheart Elf [A] Armor
+4752			0    		// Silverheart Elf [A] Pants
+5264			0    		// Silverheart Elf [A] Gloves
+5776			0    		// Silverheart Elf [A] Boots
+3729			0    		// Silverheart Elf [E] Helm
+4241			0    		// Silverheart Elf [E] Armor
+4241			2    		// Silverheart Elf [E] Armor
+4753			0    		// Silverheart Elf [E] Pants
+5265			0    		// Silverheart Elf [E] Gloves
+5777			0    		// Silverheart Elf [E] Boots
+3730			0    		// Silverheart Lord Helm
+4242			0    		// Silverheart Lord Armor
+4242			2    		// Silverheart Lord Armor
+4754			0    		// Silverheart Lord Pants
+4754			2    		// Silverheart Lord Pants
+5266			0    		// Silverheart Lord Gloves
+5778			0    		// Silverheart Lord Boots
+3731			0    		// Silverheart Wizard Helm
+4243			0    		// Silverheart Wizard Armor
+4243			2    		// Silverheart Wizard Armor
+4755			0    		// Silverheart Wizard Pants
+4755			2    		// Silverheart Wizard Pants
+5267			0    		// Silverheart Wizard Gloves
+5779			0    		// Silverheart Wizard Boots
+3732			0    		// Silverheart Fighter Helm
+4244			0    		// Silverheart Fighter Armor
+4244			2    		// Silverheart Fighter Armor
+4756			0    		// Silverheart Fighter Pants
+4756			2    		// Silverheart Fighter Pants
+5780			0    		// Silverheart Fighter Boots
+3734			0    		// Manticore Smmoner Helm
+4246			0    		// Manticore Smmoner Armor
+4246			2    		// Manticore Smmoner Armor
+4246			4    		// Manticore Smmoner Armor
+4758			0    		// Manticore Smmoner Pants
+4758			1    		// Manticore Smmoner Pants
+5270			0    		// Manticore Smmoner Gloves
+5782			0    		// Manticore Smmoner Boots
+3735			0    		// Manticore Knight Helm
+4247			0    		// Manticore Knight Armor
+4247			2    		// Manticore Knight Armor
+4759			0    		// Manticore Knight Pants
+5271			0    		// Manticore Knight Gloves
+5783			0    		// Manticore Knight Boots
+4248			0    		// Manticore Magic [S] Armor
+4248			2    		// Manticore Magic [S] Armor
+4760			0    		// Manticore Magic [S] Pants
+5272			0    		// Manticore Magic [S] Gloves
+5784			0    		// Manticore Magic [S] Boots
+4249			0    		// Manticore Magic [E] Armor
+4248			2    		// Manticore Magic [E] Armor
+4761			0    		// Manticore Magic [E] Pants
+5273			0    		// Manticore Magic [E] Gloves
+5785			0    		// Manticore Magic [E] Boots
+3738			0    		// Manticore Elf [A] Helm
+4250			0    		// Manticore Elf [A] Armor
+4250			2    		// Manticore Elf [A] Armor
+4250			4    		// Manticore Elf [A] Armor
+4762			0    		// Manticore Elf [A] Pants
+4762			1    		// Manticore Elf [A] Pants
+5274			0    		// Manticore Elf [A] Gloves
+5786			0    		// Manticore Elf [A] Boots
+3739			0    		// Manticore Elf [E] Helm
+4251			0    		// Manticore Elf [E] Armor
+4251			2    		// Manticore Elf [E] Armor
+4251			4    		// Manticore Elf [E] Armor
+4763			0    		// Manticore Elf [E] Pants
+4763			1    		// Manticore Elf [E] Pants
+5275			0    		// Manticore Elf [E] Gloves
+5787			0    		// Manticore Elf [E] Boots
+3740			0    		// Manticore Lord Helm
+4252			0    		// Manticore Lord Armor
+4252			2    		// Manticore Lord Armor
+4252			4    		// Manticore Lord Armor
+4764			0    		// Manticore Lord Pants
+4764			1    		// Manticore Lord Pants
+5276			0    		// Manticore Lord Gloves
+5788			0    		// Manticore Lord Boots
+3741			0    		// Manticore Wizard Helm
+4253			0    		// Manticore Wizard Armor
+4253			2    		// Manticore Wizard Armor
+4253			4    		// Manticore Wizard Armor
+4765			0    		// Manticore Wizard Pants
+4765			1    		// Manticore Wizard Pants
+5277			0    		// Manticore Wizard Gloves
+5789			0    		// Manticore Wizard Boots
+3742			0    		// Manticore Fighter Helm
+4254			0    		// Manticore Fighter Armor
+4254			2    		// Manticore Fighter Armor
+4766			0    		// Manticore Fighter Pants
+5790			0    		// Manticore Fighter Boots
+3744			0    		// Brilliant Summoner Helm
+4256			0    		// Brilliant Summoner Armor
+4768			0    		// Brilliant Summoner Pants
+3745			0    		// Brilliant Knight Helm
+4257			0    		// Brilliant Knight Armor
+4257			1    		// Brilliant Knight Armor
+4769			0    		// Brilliant Knight Pants
+4769			1    		// Brilliant Knight Pants
+5281			0    		// Brilliant Knight Gloves
+5793			0    		// Brilliant Knight Boots
+4258			0    		// Brilliant Magic [S] Armor
+4258			1    		// Brilliant Magic [S] Armor
+4770			0    		// Brilliant Magic [S] Pants
+4770			1    		// Brilliant Magic [S] Pants
+5282			0    		// Brilliant Magic [S] Gloves
+5794			0    		// Brilliant Magic [S] Boots
+4259			0    		// Brilliant Magic [E] Armor
+4259			1    		// Brilliant Magic [E] Armor
+4771			0    		// Brilliant Magic [E] Pants
+4771			1    		// Brilliant Magic [E] Pants
+5283			0    		// Brilliant Magic [E] Gloves
+5795			0    		// Brilliant Magic [E] Boots
+3748			0    		// Brilliant Elf [A] Helm
+4260			0    		// Brilliant Elf [A] Armor
+4772			0    		// Brilliant Elf [A] Pants
+3749			0    		// Brilliant Elf [E] Helm
+4261			0    		// Brilliant Elf [E] Armor
+4773			0    		// Brilliant Elf [E] Pants
+3750			0    		// Brilliant Lord Helm
+4262			0    		// Brilliant Lord Armor
+4262			1    		// Brilliant Lord Armor
+4774			0    		// Brilliant Lord Pants
+5286			0    		// Brilliant Lord Gloves
+5798			0    		// Brilliant Lord Boots
+3751			0    		// Brilliant Wizard Helm
+4263			0    		// Brilliant Wizard Armor
+4263			1    		// Brilliant Wizard Armor
+4775			0    		// Brilliant Wizard Pants
+5287			0    		// Brilliant Wizard Gloves
+5799			0    		// Brilliant Wizard Boots
+3752			0    		// Brilliant Fighter Helm
+4264			0    		// Brilliant Fighter Armor
+4264			1    		// Brilliant Fighter Armor
+4776			0    		// Brilliant Fighter Pants
+4776			1    		// Brilliant Fighter Pants
+5800			0    		// Brilliant Fighter Boots
+3754			0			// Apocalypse Summoner Helm
+4266			0			// Apocalypse Summoner Armor
+4778			0			// Apocalypse Summoner Pants
+4778			2			// Apocalypse Summoner Pants
+5802			0			// Apocalypse Summoner Gloves
+3755			0			// Apocalypse Knight Helm
+4267			0			// Apocalypse Knight Armor
+4779			0			// Apocalypse Knight Pants
+4779			2			// Apocalypse Knight Pants
+5291			0			// Apocalypse Knight Gloves
+4268			0			// Apocalypse Maigc [S] Armor
+4780			0			// Apocalypse Maigc [S] Pants
+4780			2			// Apocalypse Maigc [S] Pants
+5292			0			// Apocalypse Maigc [S] Gloves
+4269			0			// Apocalypse Maigc [E] Armor
+4781			0			// Apocalypse Maigc [E] Pants
+4781			2			// Apocalypse Maigc [E] Pants
+5293			0			// Apocalypse Maigc [E] Gloves
+3758			1			// Apocalypse Elf [A] Helm
+4270			0			// Apocalypse Elf [A] Armor
+4782			0			// Apocalypse Elf [A] Pants
+4782			2			// Apocalypse Elf [A] Pants
+5294			0			// Apocalypse Elf [A] Gloves
+3759			1			// Apocalypse Elf [E] Helm
+4271			0			// Apocalypse Elf [E] Armor
+4783			0			// Apocalypse Elf [E] Pants
+4783			2			// Apocalypse Elf [E] Pants
+5295			0			// Apocalypse Elf [E] Gloves
+3760			0			// Apocalypse Lord Helm
+4272			0			// Apocalypse Lord Armor
+4784			0			// Apocalypse Lord Pants
+4784			2			// Apocalypse Lord Pants
+5296			0			// Apocalypse Lord Gloves
+3761			0			// Apocalypse Wizard Helm
+4273			0			// Apocalypse Wizard Armor
+4785			0			// Apocalypse Wizard Pants
+4785			2			// Apocalypse Wizard Pants
+5297			0			// Apocalypse Wizard Gloves
+3762			0			// Apocalypse Fighter Helm
+4274			0			// Apocalypse Fighter Armor
+4786			0			// Apocalypse Fighter Pants
+4786			2			// Apocalypse Fighter Pants
+3764			0			// Skyward Summoner Helm
+3764			3			// Skyward Summoner Helm
+4276			0			// Skyward Summoner Armor
+4276			4			// Skyward Summoner Armor
+4788			0			// Skyward Summoner Pants
+4788			3			// Skyward Summoner Pants
+4788			5			// Skyward Summoner Pants
+5300			0			// Skyward Summoner Gloves
+5812			0			// Skyward Summoner Boots
+3765			0			// Skyward Knight Helm	
+4277			0			// Skyward Knight Armor
+4789			0			// Skyward Knight Pants
+4789			3			// Skyward Knight Pants
+5301			0			// Skyward Knight Gloves
+5813			0			// Skyward Knight Boots
+4278			0			// Skyward Magic [S] Armor
+4790			0			// Skyward Magic [S] Pants
+4790			3			// Skyward Magic [S] Pants
+5302			0			// Skyward Magic [S] Gloves
+5814			0			// Skyward Magic [S] Boots
+4279			0			// Skyward Magic [E] Armor
+4791			0			// Skyward Magic [E] Pants
+4791			3			// Skyward Magic [E] Pants
+5303			0			// Skyward Magic [E] Gloves
+5815			0			// Skyward Magic [E] Boots
+3768			0			// Skyward Elf [A] Helm
+3768			3			// Skyward Elf [A] Helm
+4280			0			// Skyward Elf [A] Armor
+4280			4			// Skyward Elf [A] Armor
+4792			0			// Skyward Elf [A] Pants
+4792			3			// Skyward Elf [A] Pants
+4792			5			// Skyward Elf [A] Pants
+5304			0			// Skyward Elf [A] Gloves
+5816			0			// Skyward Elf [A] Boots
+3769			0			// Skyward Elf [A] Helm
+3769			3			// Skyward Elf [A] Helm
+4281			0			// Skyward Elf [A] Armor
+4281			4			// Skyward Elf [A] Armor
+4793			0			// Skyward Elf [A] Pants
+4793			3			// Skyward Elf [A] Pants
+4793			5			// Skyward Elf [A] Pants
+5305			0			// Skyward Elf [A] Gloves
+5817			0			// Skyward Elf [A] Boots
+3770			0			// Skyward Lord Helm
+4282			0			// Skyward Lord Armor
+4794			0			// Skyward Lord Pants
+4794			3			// Skyward Lord Pants
+5306			0			// Skyward Lord Gloves
+5818			0			// Skyward Lord Boots
+3771			0			// Skyward Wizard Helm
+4283			0			// Skyward Wizard Armor
+4795			0			// Skyward Wizard Pants
+4795			3			// Skyward Wizard Pants
+5307			0			// Skyward Wizard Gloves
+5819			0			// Skyward Wizard Boots
+3772			0			// Skyward Fighter Helm	
+4284			0			// Skyward Fighter Armor
+4796			0			// Skyward Fighter Pants
+4796			3			// Skyward Fighter Pants
+5308			0			// Skyward Fighter Boots
+100				0			// DarkangelSword
+100         	1			// DarkangelSword
+101				0			// DarkangelMagicsword
+101         	1			// DarkangelMagicsword
+102				0			// DarkangelMagicsword
+102         	1			// master_twohandsword2
+102         	2			// master_twohandsword2
+1124			0			// Darkangel_Scepter
+1124			1			// Darkangel_Scepter
+2148			0			// Darkangel_Bow
+2148			1			// Darkangel_Bow
+2660			0			// Darkangel_Staff
+2660			1			// Darkangel_Staff
+2661			0			// DarkangelStick
+2661        	1			// DarkangelStick
+108				0			// MDHsword4b
+108				1			// MDHsword4b
+2665			0			// sd_soulsummoner
+2665			1			// sd_soulsummoner
+2664			0			// sd_SoulWizardStaff01_max7
+2664			1			// sd_SoulWizardStaff01_max7
+2664			2			// sd_SoulWizardStaff01_max7
+1126			0			// seoulRoad_septer
+106				0			// soulknightsword
+106				1			// soulknightsword
+107				0			// SoulmagicSword
+107				1			// SoulmagicSword
+2151        	0			// hs_soularcherbow_s
+2151        	1			// hs_soularcherbow_s
+110				0			// blue_eye_magicsword01
+110				1			// blue_eye_magicsword01
+1127			0			// Blue_eye_road_secpter
+2666			0			// blue_eye_ws
+2151			0			// blue_eyebow_stand
+2667			0			// blueeye_summoner
+109				0			// hs_blueeyeknightA
+111				0			// master_double05
+2671			0			// hs_7MasteryStick
+2671			1			// hs_7MasteryStick
+117				0			// master_twohandsw7
+117				1			// master_twohandsw7
+2670			0			// master7_staff
+2670			1			// master7_staff
+2153			2			// mastery_bow07
+2153			3			// mastery_bow07
+1129			0			// mastery_darkoad7
+1129			1			// mastery_darkoad7
+116				0			// mastery7_maigcswrod
+116				2			// mastery7_maigcswrod
+115				0			// masteryknsw_7cha
+115				2			// masteryknsw_7cha
+1130			0			// 8cha_mastery_septer
+1130			1			// 8cha_mastery_septer
+119				0			// maigic_swordmaster08
+119				1			// maigic_swordmaster08
+119				2			// maigic_swordmaster08
+2673			0			// mastery_stikc8
+2673			1			// mastery_stikc8
+2673			2			// mastery_stikc8
+120				0			// matery_twohandsword
+120				1			// matery_twohandsword
+120				2			// matery_twohandsword
+2672			0			// staff_effect_8cha
+2672			1			// staff_effect_8cha
+118				0			// swrod_8cah
+118				1			// swrod_8cah
+118				2			// swrod_8cah
+2154			0			// brilliantbow
+2154			1			// brilliantbow
+2154			2			// brilliantbow
+122				0			// apocalypse__msword
+122				1			// apocalypse__msword
+122				2			// apocalypse__msword
+2155			0			// apocalypse_bow
+2155			1			// apocalypse_bow
+1131        	0			// apocalypse_cepter
+1131        	1			// apocalypse_cepter
+2674        	0			// apocalypse_staff
+2674        	1			// apocalypse_staff
+2675			0			// apocalypse_stick
+2675			1			// apocalypse_stick
+121				0			// apocalypse_sword
+121				1			// apocalypse_sword
+123				0			// apocalypse_twohand
+121				1			// apocalypse_twohand
+3177			0			// blakcNightshild_7
+3177			1			// blakcNightshild_7
+3178			0			// matery_8chashild
+3178			1			// matery_8chashild
+3179			0			// apocalypse_shield
+3179			1			// apocalypse_shield
+3179			2			// apocalypse_shield
+151				0			// Sword39
+151				1			// Sword39
+671				0			// Sword39
+671				1			// Sword39
+672				0			// Sword39			
+672				1			// Sword39			
+153             0			// Sword43
+153             1			// Sword43
+675             0			// Sword43
+675             1			// Sword43
+676             0			// Sword43
+676             1			// Sword43
+154				0			// sword44
+154				1			// sword44
+677				0			// sword44	
+677				1			// sword44
+678				0			// sword44
+678				1			// sword44
+156				0			// Sword46
+156				1			// Sword46
+156				2			// Sword46
+681				0			// Sword46
+681				1			// Sword46
+681				2			// Sword46
+682				0			// Sword46
+682				1			// Sword46
+682				2			// Sword46
+157				0			// sword47
+157				1			// sword47
+683            	0			// sword47
+683            	1			// sword47
+684            	0			// sword47
+684            	1			// sword47
+158				0			// sword48
+158				1			// sword48
+158				2			// sword48
+685				0			// sword48
+685				1			// sword48
+685				2			// sword48
+686				0			// sword48
+686				1			// sword48
+686				2			// sword48
+171				0			// lightning_sword
+171				1			// lightning_sword
+172				0			// lightning_magicsword
+173				1			// lightning_twohandsword
+1133			0			// lightning_scepter
+2157			0			// lightning_bow
+2678			0			// lightning_staff
+2679			0			// lightning_stick
+2679			1			// lightning_stick
+2679			2			// lightning_stick
+3180			2			// lightning_shield
+3180			3			// lightning_shield
+2171			0			// lightning_quiver
+2599			0			// lightning_book
+161				0			// sword49
+687				0			// sword49_L
+688				0			// sword49_R
+3659			1			//
+3665			1			//
+3671			0			//
+3660			0			//
+3660			2			//
+3663			0			//
+3664			0			//
+3669			1			//
+3670			1			//
+
+3598			0			//
+3585			0			//
+3587			0			//
+3588			0			//
+3589			0			//
+3590			0			//
+3591			0			//
+3592			0			//
+3600			0			//
+3601			0			//
+3602			0			//
+3603			0			//
+3605			0			//
+3606			0			//
+3608			0			//
+3619			1			//
+

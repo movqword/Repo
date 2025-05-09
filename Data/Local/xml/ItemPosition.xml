@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ItemPosition>
+  <Item type="0" index="150" translate_x="-0.02" translate_y="0.08" rotate_x="-90.0" rotate_y="-30.0" rotate_z="0.0" scale="0.0026" />	    		<!-- Bloody Dragon Claw -->
+  <Item type="0" index="151" translate_x="-0.02" translate_y="0.08" rotate_x="-90.0" rotate_y="-30.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Darkangel Claw -->
+  <Item type="0" index="152" translate_x="-0.02" translate_y="0.08" rotate_x="-90.0" rotate_y="-30.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Holyangel Claw -->
+  <Item type="0" index="153" translate_x="-0.02" translate_y="0.08" rotate_x="-90.0" rotate_y="-30.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Awakening Claw -->
+  <Item type="0" index="154" translate_x="-0.02" translate_y="0.08" rotate_x="-90.0" rotate_y="-30.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Blue Eye Claw -->
+  <Item type="0" index="155" translate_x="-0.02" translate_y="0.08" rotate_x="-90.0" rotate_y="-30.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Silverheart Claw -->
+  <Item type="0" index="156" translate_x="-0.02" translate_y="0.06" rotate_x="-90.0" rotate_y="-30.0" rotate_z="0.0" scale="0.0028" />	    		<!-- Manticore Claw -->
+  <Item type="0" index="157" translate_x="-0.04" translate_y="0.05" rotate_x="-90.0" rotate_y="-30.0" rotate_z="0.0" scale="0.0025" />	    		<!-- Brilliant Claw -->
+  <Item type="0" index="158" translate_x="-0.02" translate_y="0.05" rotate_x="-90.0" rotate_y="-30.0" rotate_z="0.0" scale="0.0025" />	    		<!-- Apocalypse Claw -->
+  <Item type="0" index="159" translate_x="-0.02" translate_y="0.08" rotate_x="-90.0" rotate_y="-30.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Divine Claw of Archangel -->
+  <Item type="0" index="160" translate_x="-0.04" translate_y="0.08" rotate_x="-90.0" rotate_y="-30.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Blessed Claw of Archangel -->
+  <Item type="0" index="161" translate_x="-0.02" translate_y="0.08" rotate_x="-90.0" rotate_y="-30.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Lightning Claw -->
+  <Item type="0" index="162" translate_x="-0.06" translate_y="0.12" rotate_x="-90.0" rotate_y="-30.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Temple Guard Claw -->
+  
+  <Item type="0" index="163" translate_x="-0.010" translate_y="0.050" rotate_x="0.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Drakzar Claw -->
+  <Item type="0" index="164" translate_x="-0.040" translate_y="0.100" rotate_x="0.0" rotate_y="-20.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Bloodgrin Claw -->
+  <Item type="0" index="165" translate_x="-0.040" translate_y="0.100" rotate_x="0.0" rotate_y="-20.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Carnavor Claw -->
+
+  
+  <Item type="4" index="100" translate_x="-0.08" translate_y="0.11" rotate_x="-180.0" rotate_y="-90.00" rotate_z="20.00" scale="0.0025" />	    	<!-- Darkangel Bow -->
+  <Item type="4" index="101" translate_x="-0.08" translate_y="0.11" rotate_x="-180.0" rotate_y="-90.00" rotate_z="20.00" scale="0.0025" />	    	<!-- Holyangel Bow -->
+  <Item type="4" index="102" translate_x="-0.08" translate_y="0.11" rotate_x="-180.0" rotate_y="-90.00" rotate_z="20.00" scale="0.0025" />	    	<!-- Awakening Bow -->
+  <Item type="4" index="103" translate_x="-0.08" translate_y="0.11" rotate_x="-180.0" rotate_y="-90.00" rotate_z="20.00" scale="0.0025" />	    	<!-- Blue Eye Bow -->
+  <Item type="4" index="104" translate_x="-0.08" translate_y="0.11" rotate_x="-180.0" rotate_y="-90.00" rotate_z="20.00" scale="0.0025" />	    	<!-- Silverheart Bow -->
+  <Item type="4" index="105" translate_x="-0.08" translate_y="0.11" rotate_x="-180.0" rotate_y="-90.00" rotate_z="20.00" scale="0.0025" />	    	<!-- Manticore Bow -->
+  <Item type="4" index="106" translate_x="-0.08" translate_y="0.11" rotate_x="-180.0" rotate_y="-90.00" rotate_z="20.00" scale="0.0025" />	    	<!-- Brilliant Bow -->
+  <Item type="4" index="107" translate_x="-0.08" translate_y="0.11" rotate_x="-180.0" rotate_y="-90.00" rotate_z="20.00" scale="0.0025" />	    	<!-- Apocalypse Bow -->
+  
+  
+  <Item type="0" index="171" translate_x="-0.02" translate_y="0.0" rotate_x="180.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0030" />	    	<!-- Lightning Knight Sword -->
+  <Item type="0" index="172" translate_x="-0.02" translate_y="0.0" rotate_x="175.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0028" />	    	<!-- Lightning Magic Sword -->
+  <Item type="0" index="173" translate_x="-0.05" translate_y="0.0" rotate_x="180.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0030" />	    	<!-- Lightning Magic Blade -->
+  <Item type="2" index="109" translate_x="-0.02" translate_y="0.10" rotate_x="180.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0030" />	    	<!-- Lightning Scepter -->
+  <Item type="4" index="109" translate_x="-0.09" translate_y="0.11" rotate_x="180.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0020" />	    	<!-- Lightning Bow -->
+  <Item type="5" index="118" translate_x="0.00" translate_y="0.0" rotate_x="180.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0030" />	    		<!-- Lightning Staff -->
+  <Item type="5" index="119" translate_x="0.00" translate_y="-0.05" rotate_x="180.0" rotate_y="-90.00" rotate_z="5.00" scale="0.0025" />	    	<!-- Lightning Stick -->
+
+
+  <Item type="0" index="174" translate_x="-0.02" translate_y="0.0" rotate_x="180.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0030" />	    	<!-- Temple Guard Knight Sword -->
+  <Item type="0" index="175" translate_x="-0.02" translate_y="0.0" rotate_x="175.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0028" />	    	<!-- Temple Guard Magic Sword -->
+  <Item type="0" index="176" translate_x="-0.05" translate_y="0.0" rotate_x="180.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0030" />	    	<!-- Temple Guard Magic Blade -->
+  <Item type="2" index="110" translate_x="-0.02" translate_y="0.0" rotate_x="180.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0030" />	    	<!-- Temple Guard Scepter -->
+  <Item type="4" index="110" translate_x="-0.09" translate_y="0.11" rotate_x="180.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0025" />	    	<!-- Temple Guard Bow -->
+  
+  
+  <Item type="4" index="25" translate_x="-0.09" translate_y="0.11" rotate_x="180.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0025" />	    	<!-- Epic Silver Bow -->
+  <Item type="4" index="26" translate_x="-0.09" translate_y="0.11" rotate_x="180.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0025" />	    	<!-- Starlight Bow -->
+
+  <Item type="5" index="120" translate_x="0.00" translate_y="0.0" rotate_x="180.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0030" />	    		<!-- Temple Guard Staff -->
+  <Item type="5" index="121" translate_x="0.00" translate_y="0.0" rotate_x="180.0" rotate_y="-90.00" rotate_z="10.00" scale="0.0025" />	    		<!-- Temple Guard Stick -->
+  <Item type="5" index="42" translate_x="0.00" translate_y="0.0" rotate_x="180.0" rotate_y="0.0" rotate_z="15.00" scale="0.0020" />	    			<!-- Crystal Two-Hand Staff -->
+  <Item type="5" index="43" translate_x="0.00" translate_y="0.0" rotate_x="180.0" rotate_y="0.0" rotate_z="15.00" scale="0.0020" />	    			<!-- Eternal Two-Hand Staff -->
+  <Item type="6" index="22" translate_x="0.0" translate_y="0.0" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0020" />	    				<!-- Big Shield -->
+  <Item type="6" index="30" translate_x="0.0" translate_y="0.05" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0020" />	    				<!-- Phoenix Shield -->
+  <Item type="6" index="31" translate_x="0.0" translate_y="0.05" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0020" />	    				<!-- Darkreaver Shield -->
+  <Item type="6" index="32" translate_x="0.0" translate_y="0.0" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0020" />	    				<!-- Ethereal Aegis Shield -->
+  <Item type="6" index="34" translate_x="0.0" translate_y="0.05" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0020" />	    				<!-- Pyroguard Shield -->
+  <Item type="6" index="35" translate_x="0.0" translate_y="0.05" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0020" />	    				<!-- Nether Core Shield -->
+  
+  <Item type="6" index="36" translate_x="0.0" translate_y="0.05" rotate_x="250" rotate_y="270" rotate_z="0.0" scale="0.0025" />	    				<!-- Spectral Shield -->
+  <Item type="6" index="37" translate_x="0.0" translate_y="0.05" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0025" />	    				<!-- Wraithguard Shield -->
+  <Item type="6" index="38" translate_x="0.0" translate_y="0.05" rotate_x="250" rotate_y="270" rotate_z="0.0" scale="0.0025" />	    				<!-- Radiant Shield -->
+  <Item type="6" index="39" translate_x="0.0" translate_y="0.05" rotate_x="250" rotate_y="270" rotate_z="0.0" scale="0.0025" />	    				<!-- Arcane Shield -->
+  <Item type="6" index="40" translate_x="0.0" translate_y="0.05" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0025" />	    				<!-- Doomforged Shield -->
+  <Item type="6" index="41" translate_x="0.0" translate_y="0.05" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0025" />	    				<!-- Lightforged Shield -->
+  <Item type="6" index="42" translate_x="0.0" translate_y="0.05" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0025" />	    				<!-- Quantum Shield -->
+  
+  
+  <Item type="4" index="115" translate_x="-0.029" translate_y="0.09" rotate_x="0.0" rotate_y="100.00" rotate_z="0.0" scale="0.0025" />	    		<!-- Darkangel Quiver -->
+  <Item type="4" index="116" translate_x="-0.029" translate_y="0.09" rotate_x="0.0" rotate_y="100.00" rotate_z="0.0" scale="0.0025" />	    		<!-- Holyangel Quiver -->
+  <Item type="4" index="117" translate_x="-0.029" translate_y="0.09" rotate_x="0.0" rotate_y="100.00" rotate_z="0.0" scale="0.0025" />	    		<!-- Awakening Quiver -->
+  <Item type="4" index="118" translate_x="-0.029" translate_y="0.09" rotate_x="0.0" rotate_y="100.00" rotate_z="0.0" scale="0.0025" />	    		<!-- Blue Eye Quiver -->
+  <Item type="4" index="119" translate_x="-0.029" translate_y="0.09" rotate_x="0.0" rotate_y="100.00" rotate_z="0.0" scale="0.0025" />	    		<!-- Silverheart Quiver -->
+  <Item type="4" index="120" translate_x="-0.029" translate_y="0.09" rotate_x="0.0" rotate_y="100.00" rotate_z="0.0" scale="0.0025" />	    		<!-- Manticore Quiver -->
+  <Item type="4" index="121" translate_x="-0.029" translate_y="0.09" rotate_x="0.0" rotate_y="100.00" rotate_z="0.0" scale="0.0025" />	    		<!-- Brilliant Quiver -->
+  <Item type="4" index="122" translate_x="-0.029" translate_y="0.09" rotate_x="0.0" rotate_y="100.00" rotate_z="0.0" scale="0.0025" />	    		<!-- Apocalypse Quiver -->
+  <Item type="4" index="123" translate_x="-0.029" translate_y="0.09" rotate_x="0.0" rotate_y="100.00" rotate_z="0.0" scale="0.0025" />	    		<!-- Lightning Quiver -->
+  <Item type="4" index="124" translate_x="-0.029" translate_y="0.09" rotate_x="0.0" rotate_y="100.00" rotate_z="0.0" scale="0.0025" />	    		<!-- Temple Guard Quiver -->
+  <Item type="5" index="24" translate_x="-0.01" translate_y="0.0" rotate_x="-90.0" rotate_y="-35.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Darkangel Book -->
+  <Item type="5" index="25" translate_x="-0.01" translate_y="0.0" rotate_x="-90.0" rotate_y="-35.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Holyangel Book -->
+  <Item type="5" index="26" translate_x="-0.01" translate_y="0.0" rotate_x="-90.0" rotate_y="-35.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Awakening Book -->
+  <Item type="5" index="27" translate_x="-0.01" translate_y="0.0" rotate_x="-90.0" rotate_y="-35.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Blue Eye Book -->
+  <Item type="5" index="28" translate_x="-0.01" translate_y="0.0" rotate_x="-90.0" rotate_y="-35.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Silverheart Book -->
+  <Item type="5" index="29" translate_x="-0.01" translate_y="0.0" rotate_x="-90.0" rotate_y="-35.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Manticore Book -->
+  <Item type="5" index="37" translate_x="-0.01" translate_y="0.0" rotate_x="-90.0" rotate_y="-35.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Brilliant Book -->
+  <Item type="5" index="38" translate_x="-0.01" translate_y="0.0" rotate_x="-90.0" rotate_y="-35.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Apocalypse Book -->
+  <Item type="5" index="39" translate_x="-0.01" translate_y="0.02" rotate_x="-90.0" rotate_y="-35.0" rotate_z="0.0" scale="0.0035" />	    		<!-- Lightning Book -->
+  <Item type="5" index="40" translate_x="-0.01" translate_y="-0.02" rotate_x="-90.0" rotate_y="-35.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Temple Guard Book -->
+  <Item type="6" index="105" translate_x="0.0" translate_y="-0.05" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0025" />	    			<!-- Manticore Shield -->
+  <Item type="6" index="107" translate_x="0.0" translate_y="-0.09" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0025" />	    			<!-- Apocalypse Shield -->
+  <Item type="6" index="106" translate_x="0.0" translate_y="-0.05" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0025" />	    			<!-- Brilliant Shield -->
+  <Item type="6" index="108" translate_x="0.0" translate_y="-0.05" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0025" />	    			<!-- Lightning Shield -->
+  <Item type="6" index="109" translate_x="0.0" translate_y="-0.05" rotate_x="270" rotate_y="270" rotate_z="0.0" scale="0.0025" />	    			<!-- Temple Guard Shield -->
+  <Item type="8" index="15" translate_x="0.0" translate_y="0.05" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.004" />	    			<!-- Storm Crow Armor -->
+  <Item type="13" index="150" translate_x="0.0" translate_y="0.03" rotate_x="-90.0" rotate_y="-90.0" rotate_z="0.0" scale="0.003" />				<!-- Earring of Wrath (Left) -->
+  <Item type="13" index="151" translate_x="0.0" translate_y="0.03" rotate_x="-90.0" rotate_y="-90.0" rotate_z="0.0" scale="0.003" />				<!-- Earring of Wrath (Right) -->
+  <Item type="13" index="152" translate_x="0.0" translate_y="0.03" rotate_x="-90.0" rotate_y="-90.0" rotate_z="0.0" scale="0.003" />				<!-- Earring of Ancestral (Left) -->
+  <Item type="13" index="153" translate_x="0.0" translate_y="0.03" rotate_x="-90.0" rotate_y="-90.0" rotate_z="0.0" scale="0.003" />				<!-- Earring of Ancestral (Right) -->
+  <Item type="13" index="154" translate_x="0.0" translate_y="0.03" rotate_x="-90.0" rotate_y="-90.0" rotate_z="0.0" scale="0.003" />				<!-- Earring of Glory (Left) -->
+  <Item type="13" index="155" translate_x="0.0" translate_y="0.03" rotate_x="-90.0" rotate_y="-90.0" rotate_z="0.0" scale="0.003" />				<!-- Earring of Glory (Right) -->
+  <Item type="13" index="156" translate_x="0.0" translate_y="0.03" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.003" />	    			<!-- Earring of Blood (Left) -->
+  <Item type="13" index="157" translate_x="0.0" translate_y="0.03" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.003" />	    			<!-- Earring of Blood (Right) -->
+  <Item type="13" index="158" translate_x="0.0" translate_y="0.03" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.003" />	    			<!-- Earring of Daze (Left) -->
+  <Item type="13" index="159" translate_x="0.0" translate_y="0.03" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.003" />	    			<!-- Earring of Daze (Right) -->
+  <Item type="13" index="160" translate_x="0.0" translate_y="0.03" rotate_x="-90.0" rotate_y="-50.0" rotate_z="0.0" scale="0.0035" />				<!-- Garuda Feather -->
+  <Item type="13" index="161" translate_x="0.01" translate_y="0.045" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0032" />				<!-- Garuda Flame -->
+  <Item type="13" index="162" translate_x="0.01" translate_y="0.020" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.002" />				<!-- Golden Sentence -->
+  <Item type="13" index="163" translate_x="0.01" translate_y="0.020" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.002" />				<!-- Lesser Spirit Stone -->
+  <Item type="13" index="164" translate_x="0.01" translate_y="0.020" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.002" />				<!-- Intermediate Spirit Stone -->
+  <Item type="13" index="165" translate_x="0.01" translate_y="0.020" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.002" />				<!-- Greater Spirit Stone -->
+  <Item type="13" index="166" translate_x="0.006" translate_y="-0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.003" />				<!-- Coin Zen - 100kk -->
+  <Item type="13" index="167" translate_x="0.006" translate_y="-0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.003" />				<!-- Coin Zen - 500kk -->
+  <Item type="13" index="168" translate_x="0.006" translate_y="-0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.003" />				<!-- Coin Zen - 999kk -->
+  <Item type="13" index="169" translate_x="0.0" translate_y="0.03" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.003" />	    			<!-- Earring of Unity (Left) -->
+  <Item type="13" index="170" translate_x="0.0" translate_y="0.03" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.003" />	    			<!-- Earring of Unity (Right) -->
+  <Item type="13" index="171" translate_x="0.0" translate_y="-0.055" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    		<!-- Darkangel Soul -->
+  <Item type="13" index="172" translate_x="0.0" translate_y="-0.035" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0045" />	    		<!-- Holyangel Soul -->
+  <Item type="13" index="173" translate_x="0.0" translate_y="-0.065" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.003" />	    		<!-- Awakening Soul -->
+  <Item type="13" index="174" translate_x="0.0" translate_y="0.065" rotate_x="0.0" rotate_y="0.0" rotate_z="0.0" scale="0.0055" />	    			<!-- Blue Eye Soul -->
+  <Item type="13" index="175" translate_x="0.0" translate_y="0.065" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0100" />	    		<!-- Silverheart Soul -->
+  <Item type="13" index="176" translate_x="0.0" translate_y="0.065" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0034" />	    		<!-- Manticore Soul -->
+  <Item type="13" index="177" translate_x="0.0" translate_y="0.065" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />	    		<!-- Brilliant Soul -->
+  <Item type="13" index="178" translate_x="0.0" translate_y="0.065" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Apocalypse Soul -->
+  <Item type="13" index="179" translate_x="0.0" translate_y="-0.020" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />	    		<!-- Darkangel Anvil -->
+  <Item type="13" index="180" translate_x="0.0" translate_y="-0.025" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />	    		<!-- Holyangel Anvil -->
+  <Item type="13" index="181" translate_x="0.0" translate_y="-0.025" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />	    		<!-- Awakening Anvil -->
+  <Item type="13" index="182" translate_x="0.0" translate_y="0.065" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />	    		<!-- Blue Eye Anvil -->
+  <Item type="13" index="183" translate_x="0.0" translate_y="-0.040" rotate_x="-90.0" rotate_y="-180.0" rotate_z="0.0" scale="0.0050" />	    	<!-- Silverheart Anvil -->
+  <Item type="13" index="184" translate_x="0.0" translate_y="0.070" rotate_x="-90.0" rotate_y="-180.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Manticore Anvil -->
+  <Item type="13" index="185" translate_x="0.0" translate_y="0.060" rotate_x="-90.0" rotate_y="-180.0" rotate_z="0.0" scale="0.0035" />	    		<!-- Brilliant Anvil -->
+  <Item type="13" index="186" translate_x="0.0" translate_y="0.060" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0032" />	    		<!-- Apocalypse Anvil -->
+  
+  <Item type="13" index="187" translate_x="0.0" translate_y="0.054" rotate_x="0.0" rotate_y="10.0" rotate_z="0.0" scale="0.0050" />	    	        <!-- Ancestral Frame -->
+  <Item type="13" index="188" translate_x="0.0" translate_y="0.054" rotate_x="0.0" rotate_y="10.0" rotate_z="0.0" scale="0.0050" />	    	        <!-- Honor Frame -->
+  <Item type="13" index="189" translate_x="0.0" translate_y="0.054" rotate_x="0.0" rotate_y="10.0" rotate_z="0.0" scale="0.0050" />	    	        <!-- Blood Frame -->
+  <Item type="13" index="190" translate_x="0.0" translate_y="0.054" rotate_x="0.0" rotate_y="10.0" rotate_z="0.0" scale="0.0050" />	    	        <!-- Deception Frame -->
+  <Item type="13" index="191" translate_x="0.0" translate_y="0.054" rotate_x="0.0" rotate_y="10.0" rotate_z="0.0" scale="0.0050" />	    	        <!-- Unity Frame -->
+  
+  <Item type="13" index="192" translate_x="0.0" translate_y="0.060" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.00065" />	    		<!-- Shining Tail Seal -->
+  <Item type="13" index="193" translate_x="0.0" translate_y="0.060" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0040" />	    		<!-- Ur Seal -->
+  <Item type="13" index="194" translate_x="0.0" translate_y="0.060" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0050" />	    		<!-- Fierce Lion Seal -->
+  <Item type="13" index="195" translate_x="0.0" translate_y="0.060" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0050" />	    		<!-- Ice Dragon Seal -->
+  <Item type="13" index="196" translate_x="0.0" translate_y="0.060" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Ghost Horse Seal -->
+  <Item type="13" index="201" translate_x="0.0" translate_y="-0.060" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0060" />	    		<!-- Phoenix Feather -->
+  <Item type="13" index="202" translate_x="0.0" translate_y="0.025" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0140" />	    		<!-- Condor Shard -->
+  
+  <Item type="13" index="197" translate_x="0.0" translate_y="0.060" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0032" />	    		<!-- Lightning Anvil -->
+  <Item type="13" index="198" translate_x="0.0" translate_y="0.065" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Lightning Soul -->
+  <Item type="13" index="199" translate_x="0.0" translate_y="0.060" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0032" />	    		<!-- Temple Guard Anvil -->
+  <Item type="13" index="200" translate_x="0.0" translate_y="0.065" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />	    		<!-- Temple Guard Soul -->
+
+  
+  
+  <Item type="13" index="256" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ice Dragon -->
+  <Item type="13" index="257" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ice Dragon Rare -->
+  <Item type="13" index="258" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Shining Tails -->
+  <Item type="13" index="259" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Shining Tails Rare -->
+  <Item type="13" index="260" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Fierce Lion -->
+  <Item type="13" index="261" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Fierce Lion Rare -->
+  <Item type="13" index="262" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ur -->
+  <Item type="13" index="263" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ur Rare -->
+  <Item type="13" index="264" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Red -->
+  <Item type="13" index="265" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Yellow -->
+  <Item type="13" index="266" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Gray -->
+  <Item type="13" index="267" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Brown -->
+  <Item type="13" index="268" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Purple -->
+  <Item type="13" index="269" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Black -->
+  <Item type="13" index="270" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Gold -->
+  <Item type="13" index="271" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Blue -->
+  
+  <Item type="13" index="274" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Blue -->
+  <Item type="13" index="275" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Blue -->
+  <Item type="13" index="276" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Blue -->
+  <Item type="13" index="277" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Blue -->
+  <Item type="13" index="278" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Blue -->
+  <Item type="13" index="279" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Blue -->
+  <Item type="13" index="280" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Blue -->
+  <Item type="13" index="281" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Blue -->
+  
+  <Item type="13" index="282" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Blue -->
+  <Item type="13" index="283" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Blue -->
+  <Item type="13" index="284" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Blue -->
+  <Item type="13" index="285" translate_x="0.0" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />	    			<!-- Ghost Horse Blue -->
+  
+  
+  <Item type="14" index="53" translate_x="0.005" translate_y="0.06" rotate_x="0.0" rotate_y="0.0" rotate_z="0.0" scale="0.0008" />				    <!-- Talisman of Luck -->
+  <Item type="14" index="180" translate_x="0.007" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.004" />				<!-- Custom Jewel -->
+  <Item type="14" index="181" translate_x="0.007" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.004" />				<!-- Custom Jewel -->
+  <Item type="14" index="182" translate_x="0.007" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.004" />				<!-- Custom Jewel -->
+  <Item type="14" index="183" translate_x="0.007" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.004" />				<!-- Custom Jewel -->
+  <Item type="14" index="184" translate_x="0.007" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.004" />				<!-- Custom Jewel -->
+  <Item type="14" index="185" translate_x="0.007" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.004" />				<!-- Custom Jewel -->
+  <Item type="14" index="186" translate_x="0.007" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.004" />				<!-- Custom Jewel -->
+  <Item type="14" index="187" translate_x="0.007" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.004" />				<!-- Custom Jewel -->
+  <Item type="14" index="188" translate_x="0.007" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.004" />				<!-- Custom Jewel -->
+  <Item type="14" index="189" translate_x="0.007" translate_y="0.02" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.004" />				<!-- Custom Jewel -->
+  <Item type="14" index="190" translate_x="0.0" translate_y="0.035" rotate_x="0.0" rotate_y="0.0" rotate_z="0.0" scale="0.0014" />					<!-- Reward Box Of Stage -->
+  <Item type="14" index="191" translate_x="0.0" translate_y="0.035" rotate_x="0.0" rotate_y="0.0" rotate_z="0.0" scale="0.0014" />					<!-- Reward Box Of Stage -->
+  <Item type="14" index="192" translate_x="0.0" translate_y="0.035" rotate_x="0.0" rotate_y="0.0" rotate_z="0.0" scale="0.0014" />					<!-- Reward Box Of Stage -->
+  <Item type="14" index="193" translate_x="0.0" translate_y="0.035" rotate_x="0.0" rotate_y="0.0" rotate_z="0.0" scale="0.0014" />					<!-- Reward Box Of Stage -->
+  <Item type="14" index="194" translate_x="0.0" translate_y="0.035" rotate_x="0.0" rotate_y="0.0" rotate_z="0.0" scale="0.0014" />					<!-- Reward Box Of Stage -->
+  <Item type="14" index="195" translate_x="0.0" translate_y="0.035" rotate_x="0.0" rotate_y="0.0" rotate_z="0.0" scale="0.0014" />					<!-- Reward Box Of Stage -->
+  
+  <Item type="14" index="196" translate_x="0.0" translate_y="0.0" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />					<!-- Minor Box -->
+  <Item type="14" index="197" translate_x="0.0" translate_y="0.0" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />					<!-- Standart Box -->
+  <Item type="14" index="198" translate_x="0.0" translate_y="0.0" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />					<!-- Greater Box -->
+  <Item type="14" index="199" translate_x="0.0" translate_y="0.0" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />					<!-- Luxurious Box -->
+  <Item type="14" index="200" translate_x="0.0" translate_y="0.0" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />					<!-- Magnificent Box -->
+  <Item type="14" index="201" translate_x="0.0" translate_y="0.0" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />					<!-- Necklace Box -->
+  <Item type="14" index="248" translate_x="0.0" translate_y="0.040" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0055" />			    <!-- Archangel Box -->
+  <Item type="14" index="249" translate_x="0.003" translate_y="0.0" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0023" />			    <!-- Steel of Heaven -->
+  
+  
+  <Item type="14" index="202" translate_x="0.05" translate_y="0.009" rotate_x="-90.0" rotate_y="180.0" rotate_z="45.0" scale="0.0035" />			<!-- Kardamahal's Key -->
+  <Item type="14" index="261" translate_x="0.0" translate_y="0.13" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />					<!-- Kanturu's Key -->
+  <Item type="14" index="262" translate_x="0.0" translate_y="0.13" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />					<!-- Nightmare's Key -->
+  <Item type="14" index="263" translate_x="0.0" translate_y="0.13" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />					<!-- Cry Wolf's Key -->
+  <Item type="14" index="264" translate_x="0.0" translate_y="0.13" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />					<!-- Key 1 -->
+  <Item type="14" index="265" translate_x="0.0" translate_y="0.13" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />					<!-- Key 2 -->
+  <Item type="14" index="266" translate_x="0.0" translate_y="0.13" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />					<!-- Key 3 -->
+  <Item type="14" index="267" translate_x="0.0" translate_y="0.13" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />					<!-- Key 4 -->
+  <Item type="14" index="268" translate_x="0.0" translate_y="0.13" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />					<!-- Key 5 -->
+  <Item type="14" index="269" translate_x="0.0" translate_y="0.13" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />					<!-- Key 6 -->
+  <Item type="14" index="270" translate_x="0.0" translate_y="0.13" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />					<!-- Key 7 -->
+
+  <Item type="14" index="203" translate_x="0.0" translate_y="0.08" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0015" />					<!-- Artifact of Blue Eye (A) -->
+  <Item type="14" index="204" translate_x="0.0" translate_y="0.08" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0015" />					<!-- Artifact of Silverheart (A) -->
+  <Item type="14" index="205" translate_x="0.0" translate_y="0.08" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0015" />					<!-- Artifact of Manticore (A) -->
+  <Item type="14" index="206" translate_x="0.0" translate_y="0.08" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0015" />					<!-- Artifact of Brilliant (A) -->
+  <Item type="14" index="207" translate_x="0.0" translate_y="0.08" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0015" />					<!-- Artifact of Apocalypse (A) -->
+
+  <Item type="14" index="208" translate_x="0.0" translate_y="0.04" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />					<!-- Talisman of Blue Eye (W) -->
+  <Item type="14" index="209" translate_x="0.0" translate_y="0.04" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />					<!-- Talisman of Silverheart (W) -->
+  <Item type="14" index="210" translate_x="0.0" translate_y="0.04" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />					<!-- Talisman of Manticore (W) -->
+  <Item type="14" index="211" translate_x="0.0" translate_y="0.04" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />					<!-- Talisman of Brilliant (W) -->
+  <Item type="14" index="212" translate_x="0.0" translate_y="0.04" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />					<!-- Talisman of Apocalypse (W) -->
+  
+  <Item type="14" index="214" translate_x="0.0" translate_y="0.08" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0015" />					<!-- Artifact of Lightning (A) -->
+  <Item type="14" index="242" translate_x="0.0" translate_y="0.04" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />					<!-- Talisman of Lightning (W) -->
+  
+  <Item type="14" index="213" translate_x="0.0" translate_y="0.0" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />			        <!-- Hammer of the Archangel -->
+  
+  <Item type="14" index="215" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter D -->
+  <Item type="14" index="216" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter R -->
+  <Item type="14" index="217" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter E -->
+  <Item type="14" index="218" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter A -->
+  <Item type="14" index="219" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter M -->
+  <Item type="14" index="221" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter B -->
+  <Item type="14" index="222" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter C -->
+  <Item type="14" index="223" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter F -->
+  <Item type="14" index="224" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter G -->
+  <Item type="14" index="225" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter H -->
+  <Item type="14" index="226" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter I -->
+  <Item type="14" index="227" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter J -->
+  <Item type="14" index="228" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter K -->
+  <Item type="14" index="229" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter L -->
+  <Item type="14" index="230" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter N -->
+  <Item type="14" index="231" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter O -->
+  <Item type="14" index="232" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter P -->
+  <Item type="14" index="233" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter Q -->
+  <Item type="14" index="234" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter S -->
+  <Item type="14" index="235" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter T -->
+  <Item type="14" index="236" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter U -->
+  <Item type="14" index="237" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter V -->
+  <Item type="14" index="238" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter W -->
+  <Item type="14" index="239" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter X -->
+  <Item type="14" index="240" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter Y -->
+  <Item type="14" index="241" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0033" />					<!-- Letter Z -->
+  
+  <!-- <Item type="14" index="244" translate_x="0.0" translate_y="0.06" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0045" />					<!-- Halloween Candy -->
+  <Item type="14" index="244" translate_x="0.0" translate_y="0.0" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0030" />					<!-- Chistmas Star -->
+  <Item type="14" index="245" translate_x="0.0" translate_y="0.00" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0050" />					<!-- Halloween Box -->
+  <Item type="14" index="246" translate_x="0.0" translate_y="0.00" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0025" />					<!-- Chistmas Box -->
+
+
+  <Item type="14" index="250" translate_x="0.002" translate_y="0.085" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0035" />
+  <Item type="14" index="251" translate_x="0.002" translate_y="0.125" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0055" />
+  <Item type="14" index="252" translate_x="0.002" translate_y="0.125" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0055" />
+  <Item type="14" index="253" translate_x="0.002" translate_y="0.125" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0055" />
+  <Item type="14" index="254" translate_x="0.002" translate_y="0.125" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0055" />
+  <Item type="14" index="255" translate_x="0.002" translate_y="0.125" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0055" />
+  <Item type="14" index="256" translate_x="0.002" translate_y="0.125" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0055" />
+  <Item type="14" index="257" translate_x="0.002" translate_y="0.125" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0055" />
+  <Item type="14" index="260" translate_x="0.002" translate_y="0.065" rotate_x="-90.0" rotate_y="0.0" rotate_z="0.0" scale="0.0028" />
+  
+</ItemPosition>

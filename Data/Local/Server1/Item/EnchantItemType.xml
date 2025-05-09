@@ -1,0 +1,142 @@
+<EnchantItemType>
+	<!-- Weapon -->
+	<Item ItemId="0:0~5:512">
+		<Option Id="1" Variation="0"/>
+		<Option Id="2" Variation="0"/>
+		<Option Id="3" Variation="0"/>
+	</Item>
+
+	<!-- Shield -->
+	<Item ItemId="6:0~6:512">
+		<Option Id="4" Variation="0"/>
+		<Option Id="5" Variation="0"/>
+		<Option Id="6" Variation="0"/>
+	</Item>
+
+	<!-- Helm -->
+	<Item ItemId="7:0~7:512">
+		<Option Id="7" Variation="0"/>
+		<Option Id="8" Variation="0"/>
+		<Option Id="9" Variation="0"/>
+	</Item>
+
+	<!-- Armor -->
+	<Item ItemId="8:0~8:512">
+		<Option Id="10" Variation="0"/>
+		<Option Id="11" Variation="0"/>
+		<Option Id="12" Variation="0"/>
+	</Item>
+
+	<!-- Pants -->
+	<Item ItemId="9:0~9:512">
+		<Option Id="1" Variation="1"/>
+		<Option Id="13" Variation="0"/>
+		<Option Id="2" Variation="1"/>
+	</Item>
+
+	<!-- Gloves -->
+	<Item ItemId="10:0~10:512">
+		<Option Id="7" Variation="0"/>
+		<Option Id="8" Variation="0"/>
+		<Option Id="14" Variation="0"/>
+	</Item>
+
+	<!-- Boots -->
+	<Item ItemId="11:0~11:512">
+		<Option Id="8" Variation="1"/>
+		<Option Id="14" Variation="0"/>
+		<Option Id="3" Variation="1"/>
+	</Item>
+
+	<!-- Wings lvl 2 -->
+	<Item ItemId="12:3~12:6">
+		<Option Id="7" Variation="1"/>
+		<Option Id="3" Variation="2"/>
+		<Option Id="15" Variation="0"/>
+	</Item>
+
+	<Item ItemId="12:42">
+		<Option Id="7" Variation="1"/>
+		<Option Id="3" Variation="2"/>
+		<Option Id="15" Variation="0"/>
+	</Item>
+
+	<Item ItemId="12:49">
+		<Option Id="7" Variation="1"/>
+		<Option Id="3" Variation="2"/>
+		<Option Id="15" Variation="0"/>
+	</Item>
+
+	<!-- Wings lvl 2.5 -->
+	<Item ItemId="12:214~12:220">
+		<Option Id="7" Variation="2"/>
+		<Option Id="3" Variation="3"/>
+		<Option Id="15" Variation="1"/>
+	</Item>
+
+	<!-- Wings lvl 3 -->
+	<Item ItemId="12:36~12:40">
+		<Option Id="7" Variation="3"/>
+		<Option Id="3" Variation="4"/>
+		<Option Id="15" Variation="2"/>
+	</Item>
+
+	<Item ItemId="12:43">
+		<Option Id="7" Variation="3"/>
+		<Option Id="3" Variation="4"/>
+		<Option Id="15" Variation="2"/>
+	</Item>
+
+	<Item ItemId="12:50">
+		<Option Id="7" Variation="3"/>
+		<Option Id="3" Variation="4"/>
+		<Option Id="15" Variation="2"/>
+	</Item>
+
+	<!-- Wings lvl 4 -->
+	<Item ItemId="12:200~12:201">
+		<Option Id="7" Variation="4"/>
+		<Option Id="3" Variation="5"/>
+		<Option Id="15" Variation="3"/>
+	</Item>
+
+	<Item ItemId="12:209~12:213">
+		<Option Id="7" Variation="4"/>
+		<Option Id="3" Variation="5"/>
+		<Option Id="15" Variation="3"/>
+	</Item>
+
+	<!-- Wings lvl 5 -->
+	<Item ItemId="12:202~12:208">
+		<Option Id="7" Variation="5"/>
+		<Option Id="3" Variation="6"/>
+		<Option Id="15" Variation="4"/>
+	</Item>
+
+	<!-- Earring Left -->
+	<Item ItemId="13:150">
+		<Option Id="16" Variation="0"/>
+		<Option Id="5" Variation="1"/>
+		<Option Id="12" Variation="1"/>
+	</Item>
+
+	<Item ItemId="13:152">
+		<Option Id="16" Variation="0"/>
+		<Option Id="5" Variation="1"/>
+		<Option Id="12" Variation="1"/>
+	</Item>
+
+	<!-- Earring Right -->
+	<Item ItemId="13:151">
+		<Option Id="4" Variation="1"/>
+		<Option Id="3" Variation="7"/>
+		<Option Id="12" Variation="1"/>
+	</Item>
+
+	<Item ItemId="13:153">
+		<Option Id="4" Variation="1"/>
+		<Option Id="3" Variation="7"/>
+		<Option Id="12" Variation="1"/>
+	</Item>
+
+</EnchantItemType>
