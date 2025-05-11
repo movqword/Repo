@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemLevelTooltip>
+	<Item Index="0" Name="Scroll of Emperor" Color="0" IsBold="1">
+		<Text TextIndex="195" Color="0" IsBold="0" />
+		<Text TextIndex="196" Color="2" IsBold="0" />
+		<Text TextIndex="197" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="1" Name="Ring of Honor" Color="0" IsBold="1" />
+	<Item Index="2" Name="Broken Sword" Color="3" IsBold="1">
+		<Text TextIndex="195" Color="0" IsBold="0" />
+		<Text TextIndex="196" Color="2" IsBold="0" />
+		<Text TextIndex="197" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="3" Name="Dark Stone" Color="3" IsBold="1" />
+	<Item Index="4" Name="Box of Luck" Color="3" IsBold="1">
+		<Text TextIndex="800" Color="5" IsBold="0" />
+		<Text TextIndex="801" Color="3" IsBold="0" />
+	</Item>
+	<Item Index="5" Name="Star of the Sacred Birth" Color="3" IsBold="1">
+		<Text TextIndex="800" Color="5" IsBold="0" />
+		<Text TextIndex="802" Color="1" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="804" Color="3" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="805" Color="6" IsBold="0" />
+	</Item>
+	<Item Index="6" Name="Firecracker" Color="3" IsBold="1">
+		<Text TextIndex="40" Color="0" IsBold="0" />
+		<Text TextIndex="286" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="7" Name="TikTok Heart of Love" Color="3" IsBold="1">
+		<Text TextIndex="800" Color="5" IsBold="0" />
+		<Text TextIndex="806" Color="1" IsBold="0" />
+		<Text TextIndex="807" Color="1" IsBold="0" />
+		<Text TextIndex="808" Color="1" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="804" Color="3" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="809" Color="6" IsBold="0" />
+	</Item>
+	<Item Index="8" Name="Olive of Love" Color="3" IsBold="1">
+		<Text TextIndex="40" Color="0" IsBold="0" />
+		<Text TextIndex="286" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="9" Name="Silver Medal" Color="3" IsBold="1">
+		<Text TextIndex="800" Color="5" IsBold="0" />
+		<Text TextIndex="810" Color="1" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="811" Color="1" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="804" Color="3" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="812" Color="6" IsBold="0" />
+	</Item>
+	<Item Index="10" Name="Gold Medal" Color="3" IsBold="1">
+		<Text TextIndex="800" Color="5" IsBold="0" />
+		<Text TextIndex="813" Color="1" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="814" Color="1" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="804" Color="3" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="815" Color="6" IsBold="0" />
+	</Item>
+	<Item Index="11" Name="Box of Heaven" Color="3" IsBold="1">
+		<Text TextIndex="287" Color="0" IsBold="0" />
+		<Text TextIndex="288" Color="0" IsBold="0" />
+		<Text TextIndex="289" Color="0" IsBold="0" />
+		<Text TextIndex="286" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="12" Name="Box of Kundun +1" Color="3" IsBold="1">
+		<Text TextIndex="800" Color="5" IsBold="0" />
+		<Text TextIndex="818" Color="4" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="819" Color="4" IsBold="0" />
+	</Item>
+	<Item Index="13" Name="Box of Kundun +2" Color="3" IsBold="1">
+		<Text TextIndex="800" Color="5" IsBold="0" />
+		<Text TextIndex="820" Color="4" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="821" Color="4" IsBold="0" />
+	</Item>
+	<Item Index="14" Name="Box of Kundun +3" Color="3" IsBold="1">
+		<Text TextIndex="800" Color="5" IsBold="0" />
+		<Text TextIndex="822" Color="4" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="823" Color="4" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="824" Color="4" IsBold="0" />
+	</Item>
+	<Item Index="15" Name="Box of Kundun +4" Color="3" IsBold="1">
+		<Text TextIndex="800" Color="5" IsBold="0" />
+		<Text TextIndex="825" Color="4" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="826" Color="4" IsBold="0" />
+		<Text TextIndex="827" Color="4" IsBold="0" />
+	</Item>
+	<Item Index="16" Name="Box of Kundun +5" Color="3" IsBold="1">
+		<Text TextIndex="800" Color="5" IsBold="0" />
+		<Text TextIndex="828" Color="4" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="829" Color="4" IsBold="0" />
+	</Item>
+	<Item Index="17" Name="Heart of Dark Lord" Color="3" IsBold="1">
+		<Text TextIndex="40" Color="0" IsBold="0" />
+		<Text TextIndex="286" Color="2" IsBold="0" />
+		<Text TextIndex="196" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="18" Name="Lucky Blue Pouch" Color="3" IsBold="1">
+		<Text TextIndex="290" Color="0" IsBold="0" />
+		<Text TextIndex="291" Color="0" IsBold="0" />
+		<Text TextIndex="286" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="19" Name="Lucky Red Pouch" Color="3" IsBold="1">
+		<Text TextIndex="40" Color="0" IsBold="0" />
+		<Text TextIndex="286" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="20" Name="Town Portal Scroll" Color="0" IsBold="1" />
+	<Item Index="21" Name="Lorencia Warp Scroll" Color="0" IsBold="1">
+		<Text TextIndex="292" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="22" Name="Noria Warp Scroll" Color="0" IsBold="1">
+		<Text TextIndex="292" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="23" Name="Devias Warp Scroll" Color="0" IsBold="1">
+		<Text TextIndex="292" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="24" Name="Dungeon Warp Scroll" Color="0" IsBold="1">
+		<Text TextIndex="292" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="25" Name="Atlans Warp Scroll" Color="0" IsBold="1">
+		<Text TextIndex="292" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="26" Name="Lost tower Warp Scroll" Color="0" IsBold="1">
+		<Text TextIndex="292" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="27" Name="Tarkan Warp Scroll" Color="0" IsBold="1">
+		<Text TextIndex="292" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="28" Name="Icarus Warp Scroll" Color="0" IsBold="1">
+		<Text TextIndex="292" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="29" Name="Zen" Color="0" IsBold="1">
+		<Text TextIndex="188" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="30" Name="Heart" Color="0" IsBold="1">
+		<Text TextIndex="188" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="31" Name="Energy Fruit" Color="3" IsBold="1">
+		<Text TextIndex="293" Color="0" IsBold="0" />
+		<!-- <Text TextIndex="298" Color="0" IsBold="0" /> -->
+		<Text TextIndex="96" Color="5" IsBold="0" />
+	</Item>
+	<Item Index="32" Name="Vitality Fruit" Color="3" IsBold="1">
+		<Text TextIndex="294" Color="0" IsBold="0" />
+		<!-- <Text TextIndex="299" Color="0" IsBold="0" /> -->
+		<Text TextIndex="96" Color="5" IsBold="0" />
+	</Item>
+	<Item Index="33" Name="Agility Fruit" Color="3" IsBold="1">
+		<Text TextIndex="295" Color="0" IsBold="0" />
+		<!-- <Text TextIndex="300" Color="0" IsBold="0" /> -->
+		<Text TextIndex="96" Color="5" IsBold="0" />
+	</Item>
+	<Item Index="34" Name="Strength Fruit" Color="3" IsBold="1">
+		<Text TextIndex="296" Color="0" IsBold="0" />
+		<!-- <Text TextIndex="301" Color="0" IsBold="0" /> -->
+		<Text TextIndex="96" Color="5" IsBold="0" />
+	</Item>
+	<Item Index="35" Name="Command Fruit" Color="3" IsBold="1">
+		<Text TextIndex="297" Color="0" IsBold="0" />
+		<!-- <Text TextIndex="302" Color="0" IsBold="0" /> -->
+		<Text TextIndex="96" Color="5" IsBold="0" />
+	</Item>
+	<Item Index="36" Name="Loch's Feather" Color="3" IsBold="1">
+		<Text TextIndex="303" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="37" Name="Monarch's Crest" Color="3" IsBold="1">
+		<Text TextIndex="304" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="38" Name="Rena" Color="3" IsBold="1">
+		<Text TextIndex="349" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="39" Name="Stone" Color="3" IsBold="1">
+		<Text TextIndex="305" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="40" Name="Stone of Friendship" Color="3" IsBold="1">
+		<Text TextIndex="306" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="41" Name="Sign of the Lord" Color="3" IsBold="1">
+		<Text TextIndex="307" Color="0" IsBold="0" />
+		<Text TextIndex="2" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="42" Name="Absolute Staff of the Archangel" Color="0" IsBold="1">
+		<Text TextIndex="195" Color="0" IsBold="0" />
+		<Text TextIndex="344" Color="5" IsBold="0" />
+	</Item>
+	<Item Index="43" Name="Absolute Sword of the Archangel" Color="0" IsBold="1">
+		<Text TextIndex="195" Color="0" IsBold="0" />
+		<Text TextIndex="344" Color="5" IsBold="0" />
+	</Item>
+	<Item Index="44" Name="Absolute Crossbow of the Archangel" Color="0" IsBold="1">
+		<Text TextIndex="195" Color="0" IsBold="0" />
+		<Text TextIndex="344" Color="5" IsBold="0" />
+	</Item>
+	<Item Index="45" Name="Wizard's Ring" Color="3" IsBold="1">
+		<Text TextIndex="8" Color="0" IsBold="0" />
+		<Text TextIndex="68" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="46" Name="Ring of Warrior" Color="3" IsBold="1">
+		<Text TextIndex="308" Color="0" IsBold="0" />
+		<Text TextIndex="196" Color="2" IsBold="0" />
+		<Text TextIndex="197" Color="2" IsBold="0" />
+		<Text TextIndex="286" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="47" Name="Ring of Warrior" Color="3" IsBold="1">
+		<Text TextIndex="309" Color="0" IsBold="0" />
+		<Text TextIndex="196" Color="2" IsBold="0" />
+		<Text TextIndex="197" Color="2" IsBold="0" />
+		<Text TextIndex="286" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="48" Name="Ring of Glory" Color="3" IsBold="1">
+		<Text TextIndex="8" Color="0" IsBold="0" />
+		<Text TextIndex="68" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="49" Name="Blessing Potion" Color="0" IsBold="1">
+		<Text TextIndex="310" Color="5" IsBold="0" />
+		<Text TextIndex="311" Color="5" IsBold="0" />
+		<Text TextIndex="312" Color="5" IsBold="0" />
+	</Item>
+	<Item Index="50" Name="Potion of Soul" Color="0" IsBold="1">
+		<Text TextIndex="313" Color="5" IsBold="0" />
+		<Text TextIndex="314" Color="5" IsBold="0" />
+		<Text TextIndex="348" Color="5" IsBold="0" />
+	</Item>
+	<Item Index="51" Name="Archer" Color="0" IsBold="1">
+		<Text TextIndex="346" Color="3" IsBold="0" />
+	</Item>
+	<Item Index="52" Name="Spearman" Color="0" IsBold="1">
+		<Text TextIndex="347" Color="3" IsBold="0" />
+	</Item>
+	<Item Index="53" Name="Scroll of Guardian" Color="0" IsBold="1">
+		<Text TextIndex="315" Color="3" IsBold="0" />
+	</Item>
+	<Item Index="54" Name="Place Life Stone" Color="0" IsBold="1">
+		<Text TextIndex="316" Color="3" IsBold="0" />
+	</Item>
+	<Item Index="55" Name="Ale" Color="0" IsBold="1" />
+	<Item Index="56" Name="Olive of Love" Color="0" IsBold="1" />
+	<Item Index="57" Name="Dark Horse Soul" Color="0" IsBold="1">
+		<Text TextIndex="317" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="58" Name="Dark Spirit Soul" Color="0" IsBold="1">
+		<Text TextIndex="318" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="59" Name="Gem of Secret" Color="3" IsBold="1">
+		<Text TextIndex="287" Color="0" IsBold="0" />
+		<Text TextIndex="319" Color="0" IsBold="0" />
+		<Text TextIndex="289" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="60" Name="Red Crystal" Color="3" IsBold="1">
+		<Text TextIndex="320" Color="0" IsBold="0" />
+		<Text TextIndex="197" Color="2" IsBold="0" />
+		<Text TextIndex="286" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="61" Name="Blue Crystal" Color="3" IsBold="1">
+		<Text TextIndex="320" Color="0" IsBold="0" />
+		<Text TextIndex="197" Color="2" IsBold="0" />
+		<Text TextIndex="286" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="62" Name="Black Crystal" Color="3" IsBold="1">
+		<Text TextIndex="320" Color="0" IsBold="0" />
+		<Text TextIndex="197" Color="2" IsBold="0" />
+		<Text TextIndex="286" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="63" Name="Treasure Box" Color="3" IsBold="1">
+		<Text TextIndex="40" Color="0" IsBold="0" />
+		<Text TextIndex="197" Color="2" IsBold="0" />
+		<Text TextIndex="286" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="64" Name="Surprise Gift" Color="3" IsBold="1">
+		<Text TextIndex="40" Color="0" IsBold="0" />
+		<Text TextIndex="197" Color="2" IsBold="0" />
+		<Text TextIndex="286" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="65" Name="Pink Chocolate Box" Color="0" IsBold="1">
+		<Text TextIndex="800" Color="5" IsBold="0" />
+		<Text TextIndex="816" Color="1" IsBold="0" />
+		<Text TextIndex="803" Color="0" IsBold="0" />
+		<Text TextIndex="817" Color="1" IsBold="0" />
+	</Item>
+	<Item Index="66" Name="Lilac Candy Box" Color="0" IsBold="1">
+		<Text TextIndex="205" Color="6" IsBold="0" />
+	</Item>
+	<Item Index="67" Name="Red Chocolate Box" Color="0" IsBold="1">
+		<Text TextIndex="205" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="68" Name="Orange Candy Box" Color="0" IsBold="1">
+		<Text TextIndex="205" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="69" Name="Blue Chocolate Box" Color="0" IsBold="1">
+		<Text TextIndex="205" Color="1" IsBold="0" />
+	</Item>
+	<Item Index="70" Name="Navy Candy Box" Color="0" IsBold="1">
+		<Text TextIndex="205" Color="1" IsBold="0" />
+	</Item>
+	<Item Index="71" Name="Love Remedy" Color="0" IsBold="1" />
+	<Item Index="72" Name="Anniversary Box +1" Color="0" IsBold="1">
+		<Text TextIndex="40" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="73" Name="Anniversary Box +2" Color="0" IsBold="1">
+		<Text TextIndex="40" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="74" Name="Anniversary Box +3" Color="0" IsBold="1">
+		<Text TextIndex="40" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="75" Name="Anniversary Box +4" Color="0" IsBold="1">
+		<Text TextIndex="40" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="76" Name="Anniversary Box +5" Color="0" IsBold="1">
+		<Text TextIndex="40" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="77" Name="Talisman of Mobility" Color="0" IsBold="1">
+		<Text TextIndex="115" Color="1" IsBold="0" />
+		<Text TextIndex="328" Color="1" IsBold="0" />
+	</Item>
+	<Item Index="78" Name="Talisman of Mobility +1" Color="0" IsBold="1">
+		<Text TextIndex="115" Color="1" IsBold="0" />
+	</Item>
+	<Item Index="79" Name="Talisman of Mobility +2" Color="0" IsBold="1">
+		<Text TextIndex="115" Color="1" IsBold="0" />
+	</Item>
+	<Item Index="80" Name="Bolt" Color="0" IsBold="1">
+		<Text TextIndex="2" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="81" Name="Bolt +1" Color="0" IsBold="1">
+		<Text TextIndex="2" Color="0" IsBold="0" />
+		<Text TextIndex="324" Color="1" IsBold="0" />
+		<Text TextIndex="327" Color="1" IsBold="0" />
+	</Item>
+	<Item Index="82" Name="Bolt +2" Color="0" IsBold="1">
+		<Text TextIndex="2" Color="0" IsBold="0" />
+		<Text TextIndex="325" Color="1" IsBold="0" />
+		<Text TextIndex="327" Color="1" IsBold="0" />
+	</Item>
+	<Item Index="83" Name="Bolt +3" Color="0" IsBold="1">
+		<Text TextIndex="2" Color="0" IsBold="0" />
+		<Text TextIndex="326" Color="1" IsBold="0" />
+		<Text TextIndex="327" Color="1" IsBold="0" />
+	</Item>
+	<Item Index="84" Name="Arrow" Color="0" IsBold="1">
+		<Text TextIndex="2" Color="0" IsBold="0" />
+	</Item>
+	<Item Index="85" Name="Arrow +1" Color="0" IsBold="1">
+		<Text TextIndex="2" Color="0" IsBold="0" />
+		<Text TextIndex="324" Color="1" IsBold="0" />
+		<Text TextIndex="327" Color="1" IsBold="0" />
+	</Item>
+	<Item Index="86" Name="Arrow +2" Color="0" IsBold="1">
+		<Text TextIndex="2" Color="0" IsBold="0" />
+		<Text TextIndex="325" Color="1" IsBold="0" />
+		<Text TextIndex="327" Color="1" IsBold="0" />
+	</Item>
+	<Item Index="87" Name="Arrow +3" Color="0" IsBold="1">
+		<Text TextIndex="2" Color="0" IsBold="0" />
+		<Text TextIndex="326" Color="1" IsBold="0" />
+		<Text TextIndex="327" Color="1" IsBold="0" />
+	</Item>
+	<Item Index="88" Name="Horn of Fenrir (Red)" Color="0" IsBold="1">
+		<Text TextIndex="56" Color="0" IsBold="0" />
+		<Text TextIndex="329" Color="1" IsBold="0" />
+		<Text TextIndex="714" Color="1" IsBold="0" />
+		<Text TextIndex="715" Color="1" IsBold="0" />
+		<Text TextIndex="716" Color="1" IsBold="0" />
+		<Text TextIndex="717" Color="1" IsBold="0" />
+		<Text TextIndex="330" Color="3" IsBold="0" />
+	</Item>
+	<Item Index="89" Name="Horn of Fenrir (Black)" Color="0" IsBold="1">
+		<Text TextIndex="56" Color="0" IsBold="0" />
+		<Text TextIndex="329" Color="1" IsBold="0" />
+		<Text TextIndex="719" Color="1" IsBold="0" />
+		<Text TextIndex="720" Color="1" IsBold="0" />
+		<Text TextIndex="716" Color="1" IsBold="0" />
+		<Text TextIndex="717" Color="1" IsBold="0" />
+		<Text TextIndex="721" Color="1" IsBold="0" />
+		<Text TextIndex="330" Color="3" IsBold="0" />
+	</Item>
+	<Item Index="90" Name="Horn of Fenrir (Blue)" Color="0" IsBold="1">
+		<Text TextIndex="56" Color="0" IsBold="0" />
+		<Text TextIndex="329" Color="1" IsBold="0" />
+		<Text TextIndex="714" Color="1" IsBold="0" />
+		<Text TextIndex="715" Color="1" IsBold="0" />
+		<Text TextIndex="716" Color="1" IsBold="0" />
+		<Text TextIndex="723" Color="1" IsBold="0" />
+		<Text TextIndex="718" Color="1" IsBold="0" />
+		<Text TextIndex="330" Color="3" IsBold="0" />
+	</Item>
+	<Item Index="91" Name="Horn of Fenrir (Golden)" Color="0" IsBold="1">
+		<Text TextIndex="56" Color="0" IsBold="0" />
+		<Text TextIndex="329" Color="1" IsBold="0" />
+		<Text TextIndex="719" Color="1" IsBold="0" />
+		<Text TextIndex="720" Color="1" IsBold="0" />
+		<Text TextIndex="724" Color="1" IsBold="0" />
+		<Text TextIndex="723" Color="1" IsBold="0" />
+		<Text TextIndex="721" Color="1" IsBold="0" />
+		<Text TextIndex="330" Color="3" IsBold="0" />
+	</Item>
+	<Item Index="92" Name="Budge Dragon Transformation Ring" Color="0" IsBold="1">
+		<Text TextIndex="61" Color="0" IsBold="0" />
+		<Text TextIndex="9" Color="0" IsBold="0" />
+		<Text TextIndex="10" Color="2" IsBold="0" />
+		<Text TextIndex="60" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="93" Name="Giant Transformation Ring" Color="0" IsBold="1">
+		<Text TextIndex="61" Color="0" IsBold="0" />
+		<Text TextIndex="9" Color="0" IsBold="0" />
+		<Text TextIndex="10" Color="2" IsBold="0" />
+		<Text TextIndex="60" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="94" Name="Skeleton Warrior Transformation Ring" Color="0" IsBold="1">
+		<Text TextIndex="61" Color="0" IsBold="0" />
+		<Text TextIndex="9" Color="0" IsBold="0" />
+		<Text TextIndex="10" Color="2" IsBold="0" />
+		<Text TextIndex="60" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="95" Name="Poison Bull Fighter Transformation Ring" Color="0" IsBold="1">
+		<Text TextIndex="61" Color="0" IsBold="0" />
+		<Text TextIndex="9" Color="0" IsBold="0" />
+		<Text TextIndex="10" Color="2" IsBold="0" />
+		<Text TextIndex="60" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="96" Name="Thunder Lich Transformation Ring" Color="0" IsBold="1">
+		<Text TextIndex="61" Color="0" IsBold="0" />
+		<Text TextIndex="9" Color="0" IsBold="0" />
+		<Text TextIndex="10" Color="2" IsBold="0" />
+		<Text TextIndex="60" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="97" Name="Death cow Transformation Ring" Color="0" IsBold="1">
+		<Text TextIndex="61" Color="0" IsBold="0" />
+		<Text TextIndex="9" Color="0" IsBold="0" />
+		<Text TextIndex="10" Color="2" IsBold="0" />
+		<Text TextIndex="60" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="98" Name="Summon Goblin Orb" Color="0" IsBold="1">
+		<Text TextIndex="17" Color="0" IsBold="0" />
+		<Text TextIndex="18" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="99" Name="Summon Stone Golem Orb" Color="0" IsBold="1">
+		<Text TextIndex="17" Color="0" IsBold="0" />
+		<Text TextIndex="18" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="100" Name="Summon Assassin Orb" Color="0" IsBold="1">
+		<Text TextIndex="17" Color="0" IsBold="0" />
+		<Text TextIndex="18" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="101" Name="Summon Elite Yeti Orb" Color="0" IsBold="1">
+		<Text TextIndex="17" Color="0" IsBold="0" />
+		<Text TextIndex="18" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="102" Name="Summon Dark Knight Orb" Color="0" IsBold="1">
+		<Text TextIndex="17" Color="0" IsBold="0" />
+		<Text TextIndex="18" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="103" Name="Summon Bali Orb" Color="0" IsBold="1">
+		<Text TextIndex="17" Color="0" IsBold="0" />
+		<Text TextIndex="18" Color="2" IsBold="0" />
+	</Item>
+	<Item Index="104" Name="Summon Soldier Orb" Color="0" IsBold="1">
+		<Text TextIndex="17" Color="0" IsBold="0" />
+		<Text TextIndex="18" Color="2" IsBold="0" />
+	</Item>
+</ItemLevelTooltip>

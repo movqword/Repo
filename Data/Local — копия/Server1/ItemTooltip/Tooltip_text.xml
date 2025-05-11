@@ -1,0 +1,684 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemTooltipText>
+	<Item Index="0" Type="0" Text="One handed attack power: %d~%d" />
+	<Item Index="1" Type="0" Text="Two handed attack power: %d~%d" />
+	<Item Index="2" Type="1" Text="Number of items: %d" />
+	<Item Index="3" Type="2" Text="Armor: %d" />
+	<Item Index="4" Type="3" Text="Magic resistance: %d" />
+	<Item Index="5" Type="15" Text="Defense rate: %d" />
+	<Item Index="6" Type="101" Text="Attack speed: %d" />
+	<Item Index="7" Type="102" Text="Movement speed: %d" />
+	<Item Index="8" Type="4" Text="Durability: [%d/%d]" />
+	<Item Index="9" Type="5" Text="Minimum level required: %d" />
+	<Item Index="10" Type="201" Text="(Lacking %d levels)" />
+	<Item Index="11" Type="6" Text="Strength available: %d" />
+	<Item Index="12" Type="202" Text="(Lacking %d strength)" />
+	<Item Index="13" Type="7" Text="Agility available: %d" />
+	<Item Index="14" Type="203" Text="(Lacking: %d agility)" />
+	<Item Index="15" Type="8" Text="Vitality available: %d" />
+	<Item Index="16" Type="204" Text="(Lacking %d vitality)" />
+	<Item Index="17" Type="9" Text="Energy available: %d" />
+	<Item Index="18" Type="205" Text="(Lacking %d energy)" />
+	<Item Index="19" Type="10" Text="Command available: %d" />
+	<Item Index="20" Type="206" Text="(Lacking %d command)" />
+	<Item Index="21" Type="11" Text="Increases pet attack power by %d%%" />
+	<Item Index="22" Type="11" Text="Increases wizardry by %d%%" />
+	<Item Index="23" Type="11" Text="Increases curse spell by %d%%" />
+	<Item Index="24" Type="13" Text="Increases swimming speed" />
+	<Item Index="25" Type="13" Text="Increases movement speed" />
+	<Item Index="26" Type="207" Text="Increases %d%% of damage" />
+	<Item Index="27" Type="208" Text="Increases %d%% of damage" />
+	<Item Index="28" Type="209" Text="Increases %d%% of damage" />
+	<Item Index="29" Type="210" Text="Increases %d%% of damage" />
+	<Item Index="30" Type="208" Text="Absorb %d%% of damage" />
+	<Item Index="31" Type="209" Text="Absorb %d%% of damage" />
+	<Item Index="32" Type="210" Text="Absorb %d%% of damage" />
+	<Item Index="33" Type="211" Text="Absorb %d%% of damage" />
+	<Item Index="34" Type="212" Text="Absorb %d%% of damage" />
+	<Item Index="35" Type="213" Text="Absorb %d%% of damage" />
+	<Item Index="36" Type="214" Text="Absorb %d%% of damage" />
+	<Item Index="37" Type="215" Text="Combines %d %s" />
+	<Item Index="38" Type="-1" Text="Available after dismantling" />
+	<Item Index="39" Type="-1" Text="It is used to combine chaos items" />
+	<Item Index="40" Type="-1" Text="Throw it on the ground to make money and items appear." />
+	<Item Index="41" Type="-1" Text="Fire attribute" />
+	<Item Index="42" Type="-1" Text="Water attribute" />
+	<Item Index="43" Type="-1" Text="Ice attribute" />
+	<Item Index="44" Type="-1" Text="Wind attribute" />
+	<Item Index="45" Type="-1" Text="Lightning attribute" />
+	<Item Index="46" Type="-1" Text="Earth attribute" />
+	<Item Index="47" Type="216" Text="Element: %s" />
+	<Item Index="48" Type="-1" Text="Level: 1" />
+	<Item Index="49" Type="-1" Text="Level: 2" />
+	<Item Index="50" Type="-1" Text="Level: 3" />
+	<Item Index="51" Type="-1" Text="Level: 4" />
+	<Item Index="52" Type="-1" Text="Level: 5" />
+	<Item Index="53" Type="217" Text="by %s" />
+	<Item Index="54" Type="-1" Text="Absorb 20%% of damage" />
+	<Item Index="55" Type="-1" Text="Increases maximum life by +50" />
+	<Item Index="56" Type="1" Text="Life: %d" />
+	<Item Index="57" Type="-1" Text="Increases attack power and wizardry by 30%%" />
+	<Item Index="58" Type="-1" Text="Increases damage by 15%%" />
+	<Item Index="59" Type="-1" Text="Absorb 10%% of damage" />
+	<Item Index="60" Type="-1" Text="Unable to equip while wearing a different transformation ring" />
+	<Item Index="61" Type="1" Text="Durability: [%d]" />
+	<Item Index="62" Type="-1" Text="Used when creating a Cloak of Invisibility" />
+	<Item Index="63" Type="-1" Text="Used when entering the Blood Castle." />
+	<Item Index="64" Type="-1" Text="Right click to see how much time is left." />
+	<Item Index="65" Type="-1" Text="A Horn Fragment can be made # by combining the Divine Protection #of the Goddess and an Armor Fragment." />
+	<Item Index="66" Type="-1" Text="A Broken Horn can be made by combining #a Beastly Claw and a Horn Fragment." />
+	<Item Index="67" Type="-1" Text="Horn of Fenrir can be #made by combining items." />
+	<Item Index="68" Type="-1" Text="Cannot be repaired" />
+	<Item Index="69" Type="-1" Text="Elite Centaur researcher's I.D." />
+	<Item Index="70" Type="-1" Text="You can enter the refinery tower." />
+	<Item Index="71" Type="1" Text="%d number/20" />
+	<Item Index="72" Type="1" Text="%d number/10" />
+	<Item Index="73" Type="-1" Text="Increases defense by 10%%" />
+	<Item Index="74" Type="218" Text="Increases Life by %d" />
+	<Item Index="75" Type="-1" Text="Enjoy the Halloween festivities." />
+	<Item Index="76" Type="-1" Text="Unable to equip while wearing a different transformation ring" />
+	<Item Index="77" Type="-1" Text="Increases attack power by 20" />
+	<Item Index="78" Type="-1" Text="Increases wizardry by 20" />
+	<Item Index="79" Type="-1" Text="Merry Christmas." />
+	<Item Index="80" Type="-1" Text="Increases ice, poison, lighting, fire, earth, and fire skill attack power by 255" />
+	<Item Index="81" Type="-1" Text="Increases Exp gain rate." />
+	<Item Index="82" Type="-1" Text="Increases Exp gain rate and item drop rate." />
+	<Item Index="83" Type="-1" Text="Prevents Exp from being gained." />
+	<Item Index="84" Type="-1" Text="This entrance to Devil Square can only be used a specified number of times." />
+	<Item Index="85" Type="-1" Text="You will be assigned to a stage according to your level." />
+	<Item Index="86" Type="1" Text="Usable %dtimes" />
+	<Item Index="87" Type="-1" Text="This entrance to the Blood Castle can only be used a specified number of times." />
+	<Item Index="88" Type="-1" Text="This entrance to Kalima can only be used a specified number of times." />
+	<Item Index="89" Type="-1" Text="Assemble the Scroll of Blood with the contract from the Illusion Sorcery." />
+	<Item Index="90" Type="-1" Text="Combine the Scroll of Blood with the Old Scroll." />
+	<Item Index="91" Type="-1" Text="Evidence which makes the Illusion Sorcerer appear." />
+	<Item Index="92" Type="-1" Text="Required to enter the temple." />
+	<Item Index="93" Type="-1" Text="Ingredients for the 3rd wing assembly" />
+	<Item Index="94" Type="1" Text="Reset point: %d0" />
+	<Item Index="95" Type="-1" Text="Resets the status." />
+	<Item Index="96" Type="-1" Text="This can be used on unequipped items" />
+	<Item Index="97" Type="-1" Text="You are free to move on." />
+	<Item Index="98" Type="-1" Text="Downloadable" />
+	<Item Index="99" Type="-1" Text="This reduces your kill rate." />
+	<Item Index="100" Type="-1" Text="This entrance to the Illusion Temple can only be used a specified number of times." />
+	<Item Index="101" Type="219" Text="Exp gain rate is Increasesd by %d%%" />
+	<Item Index="102" Type="220" Text="Automatic Life recovery rate Increasesd by %d%%" />
+	<Item Index="103" Type="-1" Text="Increases your Exp gain rate and Life recovery rate." />
+	<Item Index="104" Type="219" Text="Increases item drop rate by %d%%" />
+	<Item Index="105" Type="220" Text="Increases automatic Mana recovery rate by %d%%" />
+	<Item Index="106" Type="-1" Text="Automatic Mana recovery " />
+	<Item Index="107" Type="-1" Text="Increases Damage, Wizardry and Curse by 40%%" />
+	<Item Index="108" Type="-1" Text="Increases attack speed by 10" />
+	<Item Index="109" Type="-1" Text="Reduces damage from monsters by 30%%" />
+	<Item Index="110" Type="-1" Text="Increases maximum Life by 50" />
+	<Item Index="111" Type="-1" Text="Right click to warp to Santa's Village." />
+	<Item Index="112" Type="-1" Text="Auto-collects zen around you." />
+	<Item Index="113" Type="-1" Text="Remember where you die." />
+	<Item Index="114" Type="224" Text="Move by clicking the right mouse button." />
+	<Item Index="115" Type="-1" Text="You can save your location." />
+	<Item Index="116" Type="-1" Text="Items/Skills/Luck/Options will be randomly generated." />
+	<Item Index="117" Type="-1" Text="Transforms you into a Panda." />
+	<Item Index="118" Type="-1" Text="Increases Zen by 25%% " />
+	<Item Index="119" Type="-1" Text="Attack/Wizardry/Curse +30" />
+	<Item Index="120" Type="-1" Text="Increases Exp gain rate by 10%%" />
+	<Item Index="121" Type="-1" Text="Increases Defensive Skill +50" />
+	<Item Index="122" Type="-1" Text="Exp and items are preserved when a character dies." />
+	<Item Index="123" Type="-1" Text="There is no penalty for dying." />
+	<Item Index="124" Type="-1" Text="Right click to use." />
+	<Item Index="125" Type="-1" Text="Items will not lose durability points for a certain amount of time." />
+	<Item Index="126" Type="-1" Text="Maintains item durability" />
+	<Item Index="127" Type="-1" Text="Applies only to equippable items and pets." />
+	<Item Index="128" Type="-1" Text="Increases your chance of creating the wings you desire." />
+	<Item Index="129" Type="-1" Text="Increases your chance of creating Wings of Satan." />
+	<Item Index="130" Type="-1" Text="Increases your chance of creating Wings of Heaven." />
+	<Item Index="131" Type="-1" Text="Increases your chance of creating the wings you desire." />
+	<Item Index="132" Type="-1" Text="Increases your chance of creating Wing of Curse." />
+	<Item Index="133" Type="-1" Text="Increases your chance of creating the Emperor's Cape." />
+	<Item Index="134" Type="-1" Text="Increases your chance of creating Wings of Dragon." />
+	<Item Index="135" Type="-1" Text="Increases your chance of creating Wings of Soul." />
+	<Item Index="136" Type="-1" Text="Increases your chance of creating Wings of Spirits." />
+	<Item Index="137" Type="-1" Text="Increases your chance of creating Wind of Despair." />
+	<Item Index="138" Type="-1" Text="Increases your chance of creating Darkness Wings." />
+	<Item Index="139" Type="-1" Text="Increases Exp gain rate." />
+	<Item Index="140" Type="-1" Text="Warp map window available." />
+	<Item Index="141" Type="-1" Text="Increases Exp gain rate and item drop rate." />
+	<Item Index="142" Type="-1" Text="Increases attack rate and defense rate." />
+	<Item Index="143" Type="-1" Text="Increases Exp gain rate by up to 170%%, depending on the number of people in your party" />
+	<Item Index="144" Type="-1" Text="Increases maximum AG + level" />
+	<Item Index="145" Type="-1" Text="Increases maximum SD + level by 10x" />
+	<Item Index="146" Type="-1" Text="Increases automatic Life recovery rate by 3%%" />
+	<Item Index="147" Type="-1" Text="Increases maximum Mana by 4%%" />
+	<Item Index="148" Type="-1" Text="Increases maximum Life by 4%%" />
+	<Item Index="149" Type="-1" Text="Increases the amount of Zen received for killing monsters by 30%%" />
+	<Item Index="150" Type="-1" Text="Decreases damage received by 4%%" />
+	<Item Index="151" Type="-1" Text="Increases your chance of doing Excellent damage by 10%%" />
+	<Item Index="152" Type="-1" Text="Increases attack speed by 7" />
+	<Item Index="153" Type="-1" Text="Increases Mana received from killing monsters by Mana/8" />
+	<Item Index="154" Type="-1" Text="Increases item drop rate." />
+	<Item Index="155" Type="-1" Text="Temporarily maintains Life." />
+	<Item Index="156" Type="-1" Text="Duration: 6 hours" />
+	<Item Index="157" Type="-1" Text="Duration: 24 hours" />
+	<Item Index="158" Type="-1" Text="Duration: 7 days" />
+	<Item Index="159" Type="-1" Text="Duration: 30 days" />
+	<Item Index="160" Type="-1" Text="This entrance to the Chaos Castle can only be used a specified number of times." />
+	<Item Index="161" Type="-1" Text="Equip this to transform into a Skeleton Warrior." />
+	<Item Index="162" Type="-1" Text="Attack/Wizardry/Curse +40" />
+	<Item Index="163" Type="-1" Text="Increases Exp gain rate by 30%% when equipped along with a pet skeleton." />
+	<Item Index="164" Type="-1" Text="Increases attack, wizardry and curse damage by 20%%" />
+	<Item Index="165" Type="-1" Text="Increases Exp gain rate by 30%%" />
+	<Item Index="166" Type="-1" Text="Increases Exp gain rate by 30%% when equipped along with a Skeleton Transformation Ring." />
+	<Item Index="167" Type="-1" Text="You can enter to Paid Channel Channel." />
+	<Item Index="168" Type="-1" Text="Expires in 7 days" />
+	<Item Index="169" Type="-1" Text="This entrance to Doppelganger can only be used a specified number of times." />
+	<Item Index="170" Type="-1" Text="This entrance to the Varka can only be used a specified number of times." />
+	<Item Index="171" Type="-1" Text="This map can be entered from Monday - Saturday." />
+	<Item Index="172" Type="-1" Text="This entrance to the Varka map 7 can only be used a specified number of times." />
+	<Item Index="173" Type="-1" Text="This map can be entered on Sunday." />
+	<Item Index="174" Type="222" Text="(in use)" />
+	<Item Index="175" Type="-1" Text="Idol" />
+	<Item Index="176" Type="-1" Text="Increases critical damage by 10" />
+	<Item Index="177" Type="-1" Text="Right click on this item in your inventory to use it." />
+	<Item Index="178" Type="-1" Text="Charm" />
+	<Item Index="179" Type="-1" Text="Increases maximum Life by 50" />
+	<Item Index="180" Type="-1" Text="Increases maximum MP by 50" />
+	<Item Index="181" Type="-1" Text="Increases maximum Life by 100" />
+	<Item Index="182" Type="-1" Text="Increases maximum SD by 500" />
+	<Item Index="183" Type="-1" Text="Increases maximum MP by 150" />
+	<Item Index="184" Type="-1" Text="Increases maximum AG by 50" />
+	<Item Index="185" Type="-1" Text="Relic" />
+	<Item Index="186" Type="-1" Text="Increases item drop rate by 20%%" />
+	<Item Index="187" Type="-1" Text="You can make special items by combining chaos cards." />
+	<Item Index="188" Type="-1" Text="You can register an item by giving it to an NPC." />
+	<Item Index="189" Type="-1" Text="It is used to Increases your item level up to 6" />
+	<Item Index="190" Type="-1" Text="This is used to Increases your item level to 7,8,or 9" />
+	<Item Index="191" Type="-1" Text="Increases item by 4 add opt" />
+	<Item Index="192" Type="-1" Text="This is used to combine items to create a Devil Square Invitation" />
+	<Item Index="193" Type="-1" Text="Right click to see how much time is left." />
+	<Item Index="194" Type="-1" Text="Use this to create fruits that Increases your stats" />
+	<Item Index="195" Type="-1" Text="Quest Item" />
+	<Item Index="196" Type="-1" Text="Cannot be stored in a warehouse." />
+	<Item Index="197" Type="-1" Text="Cannot be traded" />
+	<Item Index="198" Type="1" Text="%d / 5" />
+	<Item Index="199" Type="-1" Text="Can create the lost map." />
+	<Item Index="200" Type="223" Text="%d is needed to create the lost map." />
+	<Item Index="201" Type="-1" Text="Create and improve siege items" />
+	<Item Index="202" Type="-1" Text="Impure Jewel" />
+	<Item Index="203" Type="-1" Text="Item Enhancement Jewel" />
+	<Item Index="204" Type="-1" Text="Used to upgrade enhanced items" />
+	<Item Index="205" Type="-1" Text="Drop this to receive a gift." />
+	<Item Index="206" Type="219" Text="Increases attack speed by %d" />
+	<Item Index="207" Type="219" Text="Increases attack power by %d" />
+	<Item Index="208" Type="219" Text="Increases defense power by %d" />
+	<Item Index="209" Type="219" Text="Increases maximum Life by %d" />
+	<Item Index="210" Type="219" Text="Increases maximum Mana by %d" />
+	<Item Index="211" Type="-1" Text="Throw this on the ground to produce Fireworks." />
+	<Item Index="212" Type="-1" Text="The GM has given you this special gift." />
+	<Item Index="213" Type="-1" Text="Increases the combination rate, but only up to the maximum rate." />
+	<Item Index="214" Type="1" Text="%d%% Increases in combination success rate" />
+	<Item Index="215" Type="-1" Text="Throw this item on the ground to get money or a piece of armor." />
+	<Item Index="216" Type="-1" Text="Congratulations!!#Item exchange is only possible after contacting our CS team." />
+	<Item Index="217" Type="-1" Text="Movement speed reduced when acquired" />
+	<Item Index="218" Type="-1" Text="Restores Stamina by 100%% immediately." />
+	<Item Index="219" Type="-1" Text="Immediately restores 100%% Mana." />
+	<Item Index="220" Type="219" Text="Increases attack speed by %d" />
+	<Item Index="221" Type="219" Text="Increases defense rate by %d" />
+	<Item Index="222" Type="219" Text="Increases attack power by %d" />
+	<Item Index="223" Type="219" Text="Increases wizardry by %d" />
+	<Item Index="224" Type="219" Text="Increases Life by %d" />
+	<Item Index="225" Type="219" Text="Increases Mana by %d" />
+	<Item Index="226" Type="219" Text="Increases strength by %d" />
+	<Item Index="227" Type="219" Text="Increases agility by %d" />
+	<Item Index="228" Type="219" Text="Increases Life by %d" />
+	<Item Index="229" Type="219" Text="Increases energy by %d" />
+	<Item Index="230" Type="219" Text="Increases Command by %d" />
+	<Item Index="231" Type="-1" Text="#Increases stats for a set time period." />
+	<Item Index="232" Type="221" Text="Can be equipped by %s" />
+	<Item Index="233" Type="-1" Text="Increases maximum Mana by 700" />
+	<Item Index="234" Type="-1" Text="Increases maximum Life by 700" />
+	<Item Index="235" Type="-1" Text="Increases attack and wizardry power by 40" />
+	<Item Index="236" Type="-1" Text="Collect and take them to the Cherry Blossom Spirit for compensation." />
+	<Item Index="237" Type="-1" Text="Reward for 10 pieces" />
+	<Item Index="238" Type="-1" Text="Reward for 30 pieces" />
+	<Item Index="239" Type="-1" Text="Reward for 50 pieces" />
+	<Item Index="240" Type="-1" Text="Reward for 50 pieces" />
+	<Item Index="241" Type="-1" Text="You can create a Summoner." />
+	<Item Index="242" Type="-1" Text="Produce Normal or High Level Items" />
+	<Item Index="243" Type="-1" Text="Produce Event Items" />
+	<Item Index="244" Type="-1" Text="Immediately restores Stamina by 65%%." />
+	<Item Index="245" Type="-1" Text="Produce Beginner Items" />
+	<Item Index="246" Type="-1" Text="You need at least a +10~+15 item level upgrade to prevent this item from disappearing." />
+	<Item Index="247" Type="-1" Text="Use this after putting it into the combination window" />
+	<Item Index="248" Type="-1" Text="Increases Critical Damage by 20%%" />
+	<Item Index="249" Type="-1" Text="Increases Excellent Damage by 20%%" />
+	<Item Index="250" Type="-1" Text="You may continue to use the strengthener." />
+	<Item Index="251" Type="-1" Text="Register with the NPC to receive gifts." />
+	<Item Index="252" Type="-1" Text="This is a worn piece of paper containing #incomprehensible text." />
+	<Item Index="253" Type="-1" Text="This is the plan to destroy the Gaion empire and the Command of Empire Guardians." />
+	<Item Index="254" Type="-1" Text="You may enter the Fortress of Empire Guardians." />
+	<Item Index="255" Type="-1" Text="It's part of a Complete Secromicon." />
+	<Item Index="256" Type="-1" Text="Indestructible Metal Secromicon" />
+	<Item Index="257" Type="-1" Text="Contains information about Grand Wizard Etramu Lenos's research." />
+	<Item Index="258" Type="-1" Text="This is a sign infused with dimensional traces." />
+	<Item Index="259" Type="-1" Text="Collecting 5 of these automatically produces a Dimensional Mirror." />
+	<Item Index="260" Type="223" Text="You need %d more to create a Dimensional Mirror." />
+	<Item Index="261" Type="-1" Text="This is a key that can only be used to teleport to Doppelganger through NPC Lugard." />
+	<Item Index="262" Type="-1" Text="Combining a Goblin # with a sealed Silver Box creates a Silver Box." />
+	<Item Index="263" Type="-1" Text="Combining a Goblin # with a sealed Gold Box creates a Golden Box." />
+	<Item Index="264" Type="-1" Text="You can acquire Goblin Points by using storage from MU's in-game item shop." />
+	<Item Index="265" Type="-1" Text="Combining a Goblin # with a Golden Key creates a Golden Box." />
+	<Item Index="266" Type="-1" Text="Combining a Goblin # with a Silver Key creates a Silver Box." />
+	<Item Index="267" Type="-1" Text="This item has a fixed probability of turning into a rare item when dropped." />
+	<Item Index="268" Type="-1" Text="Immediately restores SD by 65%%." />
+	<Item Index="269" Type="-1" Text="This box contains various items." />
+	<Item Index="270" Type="-1" Text="Increases maximum Life by 100" />
+	<Item Index="271" Type="-1" Text="Click this item to see information about the quest." />
+	<Item Index="272" Type="-1" Text="Lv. 350 - 400" />
+	<Item Index="273" Type="-1" Text="Bring this to Tercia to refund your deposit." />
+	<Item Index="274" Type="-1" Text="You can obtain the powder from Queen Rainier." />
+	<Item Index="275" Type="-1" Text="A rare jewel possessed by the Bloody Witch Queen." />
+	<Item Index="276" Type="-1" Text="A suit of armor once worn by Tantalos." />
+	<Item Index="277" Type="-1" Text="A mace once wielded by the Burnt Murderer." />
+	<Item Index="278" Type="-1" Text="Throw this item on the ground to receive money or a weapon." />
+	<Item Index="279" Type="-1" Text="Throw this item on the ground to receive money or a piece of armor." />
+	<Item Index="280" Type="-1" Text="Throw this item on the ground to receive money, a jewel, or a ticket." />
+	<Item Index="281" Type="-1" Text="This Jewel is used to repair Lucky Items" />
+	<Item Index="282" Type="-1" Text="Item Enhancement Jewel" />
+	<Item Index="283" Type="-1" Text="This item expands your inventory." />
+	<Item Index="284" Type="-1" Text="After use, it will become active the next time you connect." />
+	<Item Index="285" Type="12" Text="Wizardry damage: %d - %d" />
+	<Item Index="286" Type="-1" Text="Cannot be sold." />
+	<Item Index="287" Type="-1" Text="When you drop it on the ground, " />
+	<Item Index="288" Type="-1" Text="[Sign of lord/Zen/Jewel/Item]" />
+	<Item Index="289" Type="-1" Text="and you will receive one of the above items." />
+	<Item Index="290" Type="-1" Text="Free entrance to Kalima" />
+	<Item Index="291" Type="-1" Text="Increases Life" />
+	<Item Index="292" Type="-1" Text="Moves to the corresponding area in 3 seconds" />
+	<Item Index="293" Type="-1" Text="Increases 5-10 Energy stat points" />
+	<Item Index="294" Type="-1" Text="Increases 5-10 Vitality stat points" />
+	<Item Index="295" Type="-1" Text="Increases 5-10 Agility stat points" />
+	<Item Index="296" Type="-1" Text="Increases 5-10 Strength stat points" />
+	<Item Index="297" Type="-1" Text="Increases 5-10 Command stat points" />
+	<Item Index="298" Type="-1" Text="Can decrease Energy by 1~9 points" />
+	<Item Index="299" Type="-1" Text="Can decrease Vitality by 1~9 points" />
+	<Item Index="300" Type="-1" Text="Can decrease Agility by 1~9 points" />
+	<Item Index="301" Type="-1" Text="Can decrease Strength by 1~9 points" />
+	<Item Index="302" Type="-1" Text="Can decrease Command by 1~9 points" />
+	<Item Index="303" Type="-1" Text="Used to upgrade wings" />
+	<Item Index="304" Type="-1" Text="Used to make the Cape of the Lord" />
+	<Item Index="305" Type="-1" Text="Used in online events." />
+	<Item Index="306" Type="-1" Text="Used in My Friend events." />
+	<Item Index="307" Type="-1" Text="Used for siege registration." />
+	<Item Index="308" Type="-1" Text="You can throw if you are at least level 40" />
+	<Item Index="309" Type="-1" Text="Requires level 80 to throw." />
+	<Item Index="310" Type="-1" Text="Increases damage by 20%%" />
+	<Item Index="311" Type="-1" Text="Duration: 120 seconds" />
+	<Item Index="312" Type="-1" Text="Only applicable to the castle gate and statue" />
+	<Item Index="313" Type="-1" Text="Increases AG recovery speed by 8" />
+	<Item Index="314" Type="-1" Text="Increases resistance to Lightning and Ice" />
+	<Item Index="315" Type="-1" Text="Scroll of guardian" />
+	<Item Index="316" Type="-1" Text="Place Life Stone" />
+	<Item Index="317" Type="-1" Text="Used in Dark Horse resurrection." />
+	<Item Index="318" Type="-1" Text="Used in Dark Spirit resurrection." />
+	<Item Index="319" Type="-1" Text="[Blue Crystal/Red Crystal/Black Crystal]" />
+	<Item Index="320" Type="-1" Text="If this is used on an event combination or thrown on the floor, it will explode and disappear." />
+	<Item Index="321" Type="-1" Text="Throw this to receive money or items." />
+	<Item Index="322" Type="-1" Text="Click to return to your save location." />
+	<Item Index="323" Type="-1" Text="Right click to save your location." />
+	<Item Index="324" Type="-1" Text="Increases damage by 3%%" />
+	<Item Index="325" Type="-1" Text="Increases damage by 5%%" />
+	<Item Index="326" Type="-1" Text="Increases damage by 7%%" />
+	<Item Index="327" Type="-1" Text="Increases attack power by 1" />
+	<Item Index="328" Type="224" Text="Storage area: %s/location: (%d,%d)" />
+	<Item Index="329" Type="-1" Text="Plasma Storm (Mana:50)" />
+	<Item Index="330" Type="-1" Text="With this equipped, you can summons Fenrir." />
+	<Item Index="331" Type="-1" Text="Skills improve through upgrades." />
+	<Item Index="332" Type="-1" Text="Increases final damage by 10%%" />
+	<Item Index="333" Type="-1" Text="With this equipped, you can summons Fenrir." />
+	<Item Index="334" Type="225" Text="%d Life Increases#%d Mana Increases" />
+	<Item Index="335" Type="226" Text="%d attack power Increases# %d wizardry Increases" />
+	<Item Index="336" Type="-1" Text="This is specially designed for heroes who have triumphed in the Illusion Temple." />
+	<Item Index="337" Type="14" Text="Ice resistance: %d" />
+	<Item Index="338" Type="14" Text="Poison resistance: %d" />
+	<Item Index="339" Type="14" Text="Lightning resistance: %d" />
+	<Item Index="340" Type="14" Text="Fire resistance: %d" />
+	<Item Index="341" Type="14" Text="Earth resistance: %d" />
+	<Item Index="342" Type="14" Text="Wind resistance: %d" />
+	<Item Index="343" Type="14" Text="Water resistance: %d" />
+	<Item Index="344" Type="-1" Text="Receive a reward for returning this to the Archangel." />
+	<Item Index="345" Type="-1" Text="Increases excellent damage by +10" />
+	<Item Index="346" Type="-1" Text="Archer" />
+	<Item Index="347" Type="-1" Text="Spearman" />
+	<Item Index="348" Type="-1" Text="Increases attack speed by 20" />
+	<Item Index="349" Type="-1" Text="Rena" />
+	<Item Index="350" Type="-1" Text="Absorbs 10%% of final damage" />
+	<Item Index="351" Type="0" Text="Enables entrance into Kalima" />
+	<Item Index="352" Type="0" Text="Enables entrance into Doppelganger" />
+	<Item Index="353" Type="0" Text="Enables entrance into Varka" />
+	<Item Index="354" Type="0" Text="Enables entrance into Varka Map 7" />
+	<Item Index="355" Type="0" Text="Increases your luck to create wing of your wish." />
+	<Item Index="356" Type="0" Text="Increases your luck to create Wings of Satan." />
+	<Item Index="357" Type="0" Text="Increases your luck to create Wings of Heaven." />
+	<Item Index="358" Type="0" Text="Increases your luck to create Wings of Elf." />
+	<Item Index="359" Type="0" Text="Increases your luck to create Wing of Curse." />
+	<Item Index="360" Type="0" Text="Increases your luck to create Cape of Emperor." />
+	<Item Index="361" Type="0" Text="Increases your luck to create Wings of Dragon." />
+	<Item Index="362" Type="0" Text="Increases your luck to create Wings of Soul." />
+	<Item Index="363" Type="0" Text="Increases your luck to create Wings of Spirits." />
+	<Item Index="364" Type="0" Text="Increases your luck to create Wing of Despair." />
+	<Item Index="365" Type="0" Text="Increases your luck to create Wings of Darkness." />
+	<Item Index="366" Type="0" Text="Up to 170 %% EXP gain Increases, depending on the number of members in your party." />
+	<Item Index="367" Type="0" Text="Increases Max. AG + Level" />
+	<Item Index="368" Type="0" Text="Increases Max. SD + Levelx10" />
+	<Item Index="369" Type="0" Text="You can enter to Gold Channel." />
+	<Item Index="370" Type="0" Text="Congratulations. Please contact CS team and change it to item." />
+	<Item Index="371" Type="0" Text="Restores Life by 65 %% immediately." />
+	<Item Index="372" Type="0" Text="Strength increment +50" />
+	<Item Index="373" Type="0" Text="Agility increment +50" />
+	<Item Index="374" Type="0" Text="Vitality increment +50" />
+	<Item Index="375" Type="0" Text="Energy increment +50" />
+	<Item Index="376" Type="0" Text="Command increment +50" />
+	<Item Index="377" Type="0" Text="Collect Cherry Blossoms and take it to the spirit for item compensation." />
+	<Item Index="378" Type="0" Text="Summoner Character Card" />
+	<Item Index="379" Type="0" Text="You can achieve special items with combinations." />
+	<Item Index="600" Type="300" Text="Increases %d%% of damage" />
+	<Item Index="601" Type="301" Text="Absorb %d%% of damage" />
+	<Item Index="602" Type="-1" Text="Used to upgrade wings" />
+	<Item Index="603" Type="-1" Text="Used as a combination material" />
+	<Item Index="604" Type="-1" Text="Coin of Zen can be sold at any store for # 100,000,000 ZEN." />
+	<Item Index="605" Type="-1" Text="Coin of Zen can be sold at any store for # 500,000,000 ZEN." />
+	<Item Index="606" Type="-1" Text="Coin of Zen can be sold at any store for # 999,999,999 ZEN." />
+	<Item Index="607" Type="-1" Text="Successful rate - 100%%" />
+	<Item Index="608" Type="-1" Text="Adds maximum additional defense option to item" />
+	<Item Index="609" Type="-1" Text="Adds skill to weapon, shield" />
+	<Item Index="610" Type="-1" Text="Adds Luck option to item" />
+	<Item Index="611" Type="-1" Text="Adds socket slot to item" />
+	<Item Index="612" Type="-1" Text="Adds random excellent option with random rank on excellent item # (max excellent options - 4)" />
+	<Item Index="613" Type="-1" Text="Increase Level of item from 13 to 14, 15" />
+	<Item Index="614" Type="-1" Text="Adds random excellent option to wing # (max excellent options - 2)" />
+	<Item Index="615" Type="-1" Text="Adds random maximum Harmony option to item" />
+	<Item Index="616" Type="-1" Text="Adds 380 PvP option to item" />
+	<Item Index="617" Type="-1" Text="Increases Level of Ring, Pendant and Earrings by 1" />
+	<Item Index="618" Type="-1" Text="55%% - Loch's Feather # Monarch's Crest # Kalima Ticket x2 # Luxurious Box # Red Cherry Blossom Branch 5x # Gold Cherry Blossom Branch 5x # White Cherry Blossom Branch 5x" />
+	<Item Index="619" Type="-1" Text="30%% - Box of Kundun +1 # Box of Kundun +2 # Box of Luck # Blood Castle Ticket (3) # Devil Square Ticket (3)" />
+	<Item Index="620" Type="-1" Text="10%% - Box of Kundun +4 # Coin of Zen - 100kk # Box of Jewel 10 # Jewel of Harmony 3x" />
+	<Item Index="621" Type="-1" Text="5%% - Box of Kundun +3 # Box of Kundun +5 # Wings Lvl 2 +9 +1 Excellent Option" />
+	<Item Index="622" Type="-1" Text="55%% - Reward Box of 1st Stage # Red Cherry Blossom Branch 7x # Gold Cherry Blossom Branch 7x # Armor of Splinter" />
+	<Item Index="623" Type="-1" Text="30%% - Jewel of Luck # Jewel of Additional # Jewel of Brilliance # Claw of Beast # Coin of Zen - 100kk" />
+	<Item Index="624" Type="-1" Text="10%% - Talisman of Chaos Assembly # Box of Kundun +5 # Jewel of Soul (20)" />
+	<Item Index="625" Type="-1" Text="5%% - Coin of Zen - 500kk # Condor Feather # Wings Lvl 2 +13 +2 Excellent Option" />
+	<Item Index="626" Type="-1" Text="50%% - Reward Box of 2nd Stage # Greater Spirit Stone # Jewel of Brilliance # Box of Kundun +3" />
+	<Item Index="627" Type="-1" Text="30%% - Talisman of Chaos Assembly # Magic Backpack # Gaion's Order # Jewel of Socket" />
+	<Item Index="628" Type="-1" Text="13%% - Coin Zen - 500kk # Jewel of Excellent" />
+	<Item Index="629" Type="-1" Text="6%% - Fragment of Horn # Condor Feather #" />
+	<Item Index="630" Type="-1" Text="50%% - Reward Box of 3rd Stage # 3x Greater Spirit Stone # 5x Golden Sentence # Condor Flame" />
+	<Item Index="631" Type="-1" Text="30%% - Talisman of Chaos Assembly # Mirror of Dimensions # Box of Jewel 20 # Sphere (Lvl 3)" />
+	<Item Index="632" Type="-1" Text="13%% - Coin of Zen - 999kk # Fragment of Horn # Excellent Manticore  Armor (2-3 Option)" />
+	<Item Index="633" Type="-1" Text="6%% - Garuda Flame # Broken Horn # Excellent Brilliant Weapon (2 Option)" />
+	<Item Index="634" Type="-1" Text="55%% - Jewel of Chaos (10) # Jewel of Bless (10) # Jewel of Soul (10) # Greater Spirit Stone (3) # Golden Sentence (3) # Reward Box of 4th Stage # Talisman of Сhaos Assembly" />
+	<Item Index="635" Type="-1" Text="25%% - Broken Horn # Garuda Flame # Box of Jewel (30) # Feather of Condor # Excellent Blue Eye Armor (1-2 Option)" />
+	<Item Index="636" Type="-1" Text="15%% - Garuda Feather # Unity Frame # Wing of Storm # Wing of Eternal # Wing of Illusion # Wing of Ruin # Wing of Dimension # Cloak of Emperor # Cloak of Overrule (0-1 Option) # Excellent Blue Eye Weapon (1-2 Option)" />
+	<Item Index="637" Type="-1" Text="5%% - Brilliant Soul # Brilliant Anvil # Wing of Conqueror # Wing of Devil Angel # Wing of Moon # Wing of Butterfly # Wing of Hunter # Cloak of Fallen Angel # Cloak of Blood (0-1 Option)" />
+	<Item Index="638" Type="-1" Text="100%% - Wing of Conqueror # Wing of Devil Angel # Wing of Moon # Wing of Butterfly # Wing of Hunter # Cloak of Fallen Angel # Cloak of Blood (1-2 Option)" />
+	<Item Index="639" Type="-1" Text="Artifact of Brilliant # Talisman of Brilliant # Ice Dragon Defense # Ice Dragon Damage # Ghost Horse Blue # Shining Tails Damage # Shining Tails Defense # Ghost Horse Black" />
+	<Item Index="640" Type="-1" Text="Used for Awakening Armor# Item level will be lost after use" />
+	<Item Index="641" Type="-1" Text="Used for Blue Eye Armor# Item level will be lost after use" />
+	<Item Index="642" Type="-1" Text="100%% - Random Ancient Item" />
+	<Item Index="643" Type="-1" Text="100%% - Jewel of Bless (10) # Jewel of Soul (10) # Jewel of Life (10) # Jewel of Chaos (10) # Jewel of Creation (10) # Gemstone (10) # Jewel of Harmony (10)" />
+	<Item Index="644" Type="-1" Text="100%% - Jewel of Bless (20) # Jewel of Soul (20) # Jewel of Life (20) # Jewel of Chaos (20) # Jewel of Creation (20) # Gemstone (20) # Jewel of Harmony (20)" />
+	<Item Index="645" Type="-1" Text="100%% - Jewel of Bless (30) # Jewel of Soul (30) # Jewel of Life (30) # Jewel of Chaos (30) # Jewel of Creation (30) # Gemstone (30) # Jewel of Harmony (30)" />
+	<Item Index="646" Type="-1" Text="Used for Silverheart Armor# Item level will be lost after use" />
+	<Item Index="647" Type="-1" Text="Increases Experience Rate +15%%" />
+	<Item Index="648" Type="-1" Text="Successful rate - 75%%" />
+	<Item Index="649" Type="-1" Text="Successful rate - 70%%" />
+	<Item Index="650" Type="-1" Text="Successful rate - 65%%" />
+	<Item Index="651" Type="-1" Text="Successful rate - 90%%" />
+	<Item Index="652" Type="-1" Text="Used to upgrade Manticore Armor # transforming it into Brilliant Armor." />
+	<Item Index="653" Type="-1" Text="Used to upgrade Brilliant Armor # transforming it into Apocalypse Armor." />
+	
+
+	
+	
+	
+	
+	<Item Index="654" Type="-1" Text="Used for Awakening Weapon# Item level will be lost after use!" />
+	<Item Index="655" Type="-1" Text="Used for Blue Eye Weapon# Item level will be lost after use" />
+	<Item Index="656" Type="-1" Text="Used for Silverheart Weapon# Item level will be lost after use" />
+	
+	<Item Index="657" Type="-1" Text="Used to upgrade Manticore Weapon # transforming it into Brilliant Weapon." />
+	<Item Index="658" Type="-1" Text="Used to upgrade Brilliant Weapon # transforming it into Apocalypse Weapon." />
+	
+	<Item Index="659" Type="-1" Text="Used for Divine Archangel Weapon" />
+	<Item Index="660" Type="-1" Text="Used to create Artifac of Silverheart (A)" />
+	<Item Index="661" Type="-1" Text="Dropped from: # Lord Ferea, Golden Hell Maine" />
+	<Item Index="662" Type="-1" Text="Craft Mix ~ Artifac of Silverheart (A): # 1x Silverheart Soul # x10 Greater Spirit Stone # x10 Golden Sentence # x20 Jewel of Bless # x20 Jewel of Soul # x20 Jewel of Life # x20 Jewel of Creation # x20 Jewel of Chaos # 500,000,000 Zen" />
+	<Item Index="663" Type="-1" Text="Craft Mix: # x5 Greater Spirit Stone # x5 Golden Sentence # x10 Jewel of Bless # x10 Jewel of Soul # x10 Jewel of Life # x10 Jewel of Creation # x10 Jewel of Chaos # 500,000,000 Zen" />
+	<Item Index="664" Type="-1" Text="Craft Mix: # 1x Silverheart Soul # x10 Greater Spirit Stone # x10 Golden Sentence # x20 Jewel of Bless # x20 Jewel of Soul # x20 Jewel of Life # x20 Jewel of Creation # x20 Jewel of Chaos # 500,000,000 Zen" />
+	<Item Index="665" Type="-1" Text="Craft Mix: # x15 Greater Spirit Stone # x15 Golden Sentence # x30 Jewel of Bless # x30 Jewel of Soul # x30 Jewel of Life # x30 Jewel of Creation # x30 Jewel of Chaos # 500,000,000 Zen" />
+	<Item Index="666" Type="-1" Text="Craft Mix: # 1x Brilliant Soul # x20 Greater Spirit Stone # x20 Golden Sentence # x40 Jewel of Bless # x40 Jewel of Soul # x40 Jewel of Life # x40 Jewel of Creation # x40 Jewel of Chaos # 500,000,000 Zen" />
+	<Item Index="667" Type="-1" Text="Craft Mix: # x25 Greater Spirit Stone # x25 Golden Sentence # x50 Jewel of Bless # x50 Jewel of Soul # x50 Jewel of Life # x50 Jewel of Creation # x50 Jewel of Chaos # 500,000,000 Zen" />
+	<Item Index="668" Type="-1" Text="Craft Mix: # x10 Greater Spirit Stone # x10 Golden Sentence # x30 Jewel of Bless # x30 Jewel of Soul # x30 Jewel of Life # x30 Jewel of Creation # x30 Jewel of Chaos # 1,500,000,000 Zen" />
+	<Item Index="669" Type="-1" Text="Craft Mix: # 1x Silverheart Anvil # x15 Greater Spirit Stone # x15 Golden Sentence # x40 Jewel of Bless # x40 Jewel of Soul # x40 Jewel of Life # x40 Jewel of Creation # x40 Jewel of Chaos # 1,500,000,000 Zen" />
+	<Item Index="670" Type="-1" Text="Craft Mix: # x20 Greater Spirit Stone # x20 Golden Sentence # x50 Jewel of Bless # x50 Jewel of Soul # x50 Jewel of Life # x50 Jewel of Creation # x50 Jewel of Chaos # 1,500,000,000 Zen" />
+	<Item Index="671" Type="-1" Text="Craft Mix: # 1x Brilliant Anvil # x25 Greater Spirit Stone # x25 Golden Sentence # x60 Jewel of Bless # x60 Jewel of Soul # x60 Jewel of Life # x60 Jewel of Creation # x60 Jewel of Chaos # 1,500,000,000 Zen" />
+	<Item Index="672" Type="-1" Text="Craft Mix: # x30 Greater Spirit Stone # x30 Golden Sentence # x70 Jewel of Bless # x70 Jewel of Soul # x70 Jewel of Life # x70 Jewel of Creation # x70 Jewel of Chaos # 1,500,000,000 Zen" />
+	<Item Index="673" Type="-1" Text="Craft Mix: # 1x Ancient Weapon +4 +4 Add # x30 Jewel of Bless # x30 Jewel of Soul # x30 Jewel of Life # x30 Jewel of Chaos # 250,000,000 Zen" />
+	<Item Index="674" Type="-1" Text="Used to create Artifact of Brilliant (A)" />
+	<Item Index="675" Type="-1" Text="Dropped from: #Golden Erohim" />
+	<Item Index="676" Type="-1" Text="Craft Mix ~ Artifact of Brilliant (A): # 1x Brilliant Soul # x20 Greater Spirit Stone # x20 Golden Sentence # x40 Jewel of Bless # x40 Jewel of Soul # x40 Jewel of Life # x40 Jewel of Creation # x40 Jewel of Chaos # 500,000,000 Zen" />
+	<Item Index="677" Type="-1" Text="Used to create Talisman of Silverheart (W)" />
+	<Item Index="678" Type="-1" Text="Dropped from: #Golden Kundun, Golden Hell Maine" />
+	<Item Index="679" Type="-1" Text="Craft Mix ~ Talisman of Silverheart (W): # 1x Silverheart Anvil # x15 Greater Spirit Stone # x15 Golden Sentence # x40 Jewel of Bless # x40 Jewel of Soul # x40 Jewel of Life # x40 Jewel of Creation # x40 Jewel of Chaos # 1,500,000,000 Zen" />
+	<Item Index="680" Type="-1" Text="Used to create Talisman of Brilliant (W)" />
+	<Item Index="681" Type="-1" Text="Dropped from: #Nix" />
+	<Item Index="682" Type="-1" Text="Craft Mix ~ Talisman of Brilliant (W): # 1x Brilliant Anvil # x25 Greater Spirit Stone # x25 Golden Sentence # x60 Jewel of Bless # x60 Jewel of Soul # x60 Jewel of Life # x60 Jewel of Creation # x60 Jewel of Chaos # 1,500,000,000 Zen" />
+	<Item Index="683" Type="-1" Text="Craft Mix: # Ancient Items +4 +4 Add # 1x Jewel of Chaos # 10,000,000 Zen" />
+	<Item Index="684" Type="-1" Text="Craft Mix: # Excellent Items +4 +4 Add # 1x Jewel of Chaos # 10,000,000 Zen" />
+	<Item Index="685" Type="-1" Text="Successful rate - 80%%" />
+	<Item Index="686" Type="-1" Text="Used to create Earring of Ancestral" />
+	<Item Index="687" Type="-1" Text="Dropped from: #Ruined Lorencia" />
+	<Item Index="688" Type="-1" Text="Craft Mix ~ Earring of Ancestral: # 1x Earring of Wrath # 1x Ancestral Frame # x5 Greater Spirit Stone # x20 Jewel of Bless # x20 Jewel of Soul # x20 Jewel of Life # x20 Jewel of Creation # x20 Jewel of Chaos # 500,000,000 Zen" />
+	<Item Index="689" Type="-1" Text="Used to create Earring of Honor" />
+	<Item Index="690" Type="-1" Text="Dropped from: #Ruined Noria" />
+	<Item Index="691" Type="-1" Text="Craft Mix ~ Earring of Honor: # 1x Earring of Ancestral # 1x Honor Frame # x5 Greater Spirit Stone # x30 Jewel of Bless # x30 Jewel of Soul # x30 Jewel of Life # x30 Jewel of Creation # x30 Jewel of Chaos # 500,000,000 Zen" />
+	<Item Index="692" Type="-1" Text="Used to create Earring of Blood" />
+	<Item Index="693" Type="-1" Text="Dropped from: #Kalima 5" />
+	<Item Index="694" Type="-1" Text="Craft Mix ~ Earring of Blood: # 1x Earring of Honor # 1x Blood Frame # x5 Greater Spirit Stone # x40 Jewel of Bless # x40 Jewel of Soul # x40 Jewel of Life # x40 Jewel of Creation # x40 Jewel of Chaos # 500,000,000 Zen" />
+	<Item Index="695" Type="-1" Text="Used to create Earring of Deception" />
+	<Item Index="696" Type="-1" Text="Dropped from: #Kalima 6" />
+	<Item Index="697" Type="-1" Text="Craft Mix ~ Earring of Deception: # 1x Earring of Blood # 1x Deception Frame # x5 Greater Spirit Stone # x50 Jewel of Bless # x50 Jewel of Soul # x50 Jewel of Life # x50 Jewel of Creation # x50 Jewel of Chaos # 500,000,000 Zen" />
+	<Item Index="698" Type="-1" Text="Used to create Earring of Unity" />
+	<Item Index="699" Type="-1" Text="Dropped from: #Kalima 7" />
+	<Item Index="700" Type="-1" Text="Standard Dark Horse stats" />
+	<Item Index="701" Type="-1" Text="Increases damage +5%%" />
+	<Item Index="702" Type="-1" Text="Increases maximum life +5000" />
+	<Item Index="703" Type="-1" Text="Increases maximum defense +2000" />
+	<Item Index="704" Type="-1" Text="Enemy's defense ignore rate +1%%" />
+	<Item Index="705" Type="-1" Text="  " />
+	<Item Index="706" Type="-1" Text="With this equipped, you can summons Mount." />
+	<Item Index="707" Type="-1" Text="Increases damage +10%%" />
+	<Item Index="708" Type="-1" Text="Increases maximum life +10000" />
+	<Item Index="709" Type="-1" Text="Increases maximum defense +5%%" />
+	<Item Index="710" Type="-1" Text="Enemy's attack return rate +2%%" />
+	<Item Index="711" Type="-1" Text="Increases damage +20%%" />
+	<Item Index="712" Type="-1" Text="Increases maximum life +20000" />
+	<Item Index="713" Type="-1" Text="Increases maximum defense +10%%" />
+	<Item Index="714" Type="-1" Text="Enemy's defense ignore rate +2%%" />
+	<Item Index="715" Type="-1" Text="Enemy's attack return rate +2%%" />
+	<Item Index="716" Type="-1" Text="Increases damage +25%%" />
+	<Item Index="717" Type="-1" Text="Increases maximum life +15000" />
+	<Item Index="718" Type="-1" Text="Increases maximum defense +20%%" />
+	<Item Index="719" Type="-1" Text="Enemy's defense ignore rate +3%%" />
+	<Item Index="720" Type="-1" Text="Enemy's attack return rate +3%%" />
+	<Item Index="721" Type="-1" Text="Increases maximum defense +25%%" />
+	<Item Index="722" Type="-1" Text="Increases maximum defense +30%%" />
+	<Item Index="723" Type="-1" Text="Enemy's defense ignore rate +4%%" />
+	<Item Index="724" Type="-1" Text="Enemy's attack return rate +8%%" />
+	<Item Index="725" Type="-1" Text="Increases damage +30%%" />
+	<Item Index="726" Type="-1" Text="Increases Life +2500" />
+	<Item Index="727" Type="-1" Text="Increases Life +8%%" />
+	<Item Index="728" Type="-1" Text="Increases Defense +200" />
+	<Item Index="729" Type="-1" Text="Increases Attack Speed +50" />
+	<Item Index="730" Type="-1" Text="Increases Maximum Drop Zen +15%%" />
+	<Item Index="731" Type="-1" Text="Increases Excellent Damage Rate +15%%" />
+	<Item Index="732" Type="-1" Text="Increases Defense Success Rate +15%%" />
+	<Item Index="733" Type="-1" Text="Increases Physical Attack +10%%" />
+	<Item Index="734" Type="-1" Text="Increases Wizardry Attack +10%%" />
+	<Item Index="735" Type="-1" Text="Increases Maximum Mana +7500" />
+	<Item Index="736" Type="-1" Text="Increases Defense +6%%" />
+	<Item Index="737" Type="-1" Text="Increases Critical Damage +20%%" />
+	<Item Index="738" Type="-1" Text="Used when entering the Kardamahal Dungeon" />
+	<Item Index="739" Type="-1" Text="Increases Damage +15%%" />
+	<Item Index="740" Type="-1" Text="Increases Damage +20%%" />
+	<Item Index="741" Type="-1" Text="Increases Damage +25%%" />
+	<Item Index="742" Type="-1" Text="Increases Physical Damage +25%%" />
+	<Item Index="743" Type="-1" Text="Increases Wizardry Damage +15%%" />
+	<Item Index="744" Type="-1" Text="Increases 3%% of double damage" />
+	<Item Index="745" Type="-1" Text="Increases 5%% of double damage" />
+	<Item Index="746" Type="-1" Text="Increases Life +400" />
+	<Item Index="747" Type="-1" Text="Increases Physical Damage +150" />
+	<Item Index="748" Type="-1" Text="Increases Defense +100" />
+	<Item Index="749" Type="-1" Text="Increases HP Recovery Rate +1%%" />
+	<Item Index="750" Type="-1" Text="Increases Mana +400" />
+	<Item Index="751" Type="-1" Text="Increases Wizardry Damage +150" />
+	<Item Index="752" Type="-1" Text="Increases Attack Speed +10" />
+	<Item Index="753" Type="-1" Text="Increases Excellent Damage Rate +1%%" />
+	<Item Index="754" Type="-1" Text="Increases Life +600" />
+	<Item Index="755" Type="-1" Text="Increases Physical Damage +200" />
+	<Item Index="756" Type="-1" Text="Increases Defense +150" />
+	<Item Index="757" Type="-1" Text="Increases HP Recovery Rate +2%%" />
+	<Item Index="758" Type="-1" Text="Increases Mana +600" />
+	<Item Index="759" Type="-1" Text="Increases Wizardry Damage +200" />
+	<Item Index="760" Type="-1" Text="Increases Attack Speed +15" />
+	<Item Index="761" Type="-1" Text="Increases Excellent Damage Rate +2%%" />
+	<Item Index="762" Type="-1" Text="Increases Life +800" />
+	<Item Index="763" Type="-1" Text="Increases Physical Damage +250" />
+	<Item Index="764" Type="-1" Text="Increases Defense +200" />
+	<Item Index="765" Type="-1" Text="Increases HP Recovery Rate +3%%" />
+	<Item Index="766" Type="-1" Text="Increases Mana +800" />
+	<Item Index="767" Type="-1" Text="Increases Wizardry Damage +250" />
+	<Item Index="768" Type="-1" Text="Increases Attack Speed +20" />
+	<Item Index="769" Type="-1" Text="Increases Excellent Damage Rate +3%%" />
+	<Item Index="770" Type="-1" Text="Increases Life +1000" />
+	<Item Index="771" Type="-1" Text="Increases Physical Damage +300" />
+	<Item Index="772" Type="-1" Text="Increases Defense +250" />
+	<Item Index="773" Type="-1" Text="Increases HP Recovery Rate +4%%" />
+	<Item Index="774" Type="-1" Text="Increases Mana +1000" />
+	<Item Index="775" Type="-1" Text="Increases Wizardry Damage +300" />
+	<Item Index="776" Type="-1" Text="Increases Attack Speed +25" />
+	<Item Index="777" Type="-1" Text="Increases Excellent Damage Rate +4%%" />
+	<Item Index="778" Type="-1" Text="Increases Life +1200" />
+	<Item Index="779" Type="-1" Text="Increases Physical Damage +350" />
+	<Item Index="780" Type="-1" Text="Increases Defense +300" />
+	<Item Index="781" Type="-1" Text="Increases HP Recovery Rate +5%%" />
+	<Item Index="782" Type="-1" Text="Increases Mana +1200" />
+	<Item Index="783" Type="-1" Text="Increases Wizardry Damage +350" />
+	<Item Index="784" Type="-1" Text="Increases Attack Speed +30" />
+	<Item Index="785" Type="-1" Text="Increases Excellent Damage Rate +5%%" />
+	<Item Index="786" Type="-1" Text="Increases Life +1400" />
+	<Item Index="787" Type="-1" Text="Increases Physical Damage +400" />
+	<Item Index="788" Type="-1" Text="Increases Defense +350" />
+	<Item Index="789" Type="-1" Text="Increases HP Recovery Rate +6%%" />
+	<Item Index="790" Type="-1" Text="Increases Mana +1400" />
+	<Item Index="791" Type="-1" Text="Increases Wizardry Damage +400" />
+	<Item Index="792" Type="-1" Text="Increases Attack Speed +35" />
+	<Item Index="793" Type="-1" Text="Increases Excellent Damage Rate +6%%" />
+	<Item Index="794" Type="-1" Text="Craft Mix ~ Earring of Unity: # 1x Earring of Deception # 1x Unity Frame # x5 Greater Spirit Stone # x60 Jewel of Bless # x60 Jewel of Soul # x60 Jewel of Life # x60 Jewel of Creation # x60 Jewel of Chaos # 1,000,000,000 Zen" />
+	<Item Index="795" Type="-1" Text="Enemy's attack return rate +2%%" />
+	<Item Index="796" Type="-1" Text="Enemy's attack return rate +4%%" />
+	<Item Index="797" Type="-1" Text="Enemy's attack return rate +6%%" />
+	<Item Index="799" Type="-1" Text="Increases damage +15%%" />
+	<Item Index="800" Type="0" Text="Drop information from box" />
+	<Item Index="801" Type="0" Text="Box of Kundun +1 | Box of Kundun +2# Box of Kundun +3" />
+	<Item Index="802" Type="0" Text="Item Level: +7 ~ +8 = Bone Set | Scale Set# Brass Set | Wind Set | Violent Wind Set" />
+	<Item Index="803" Type="0" Text=" " />
+	<Item Index="804" Type="0" Text="Jewel of Chaos | Jewel of Bless# Jewel of Soul | Jewel of Life - 5%%" />
+	<Item Index="805" Type="0" Text="Special drop: Standard Box 10%%" />
+	<Item Index="806" Type="0" Text="Item Level: +7 ~ +9 = Sphinx Set | Plate Set" />
+	<Item Index="807" Type="0" Text="Spirit Set | Light Plate Set" />
+	<Item Index="808" Type="0" Text="Dragon Slayer Shield | Spiked Shield" />
+	<Item Index="809" Type="0" Text="Special drop: Greater Box - 10%%" />
+	<Item Index="810" Type="0" Text="Item Level: +7 ~ +10 = Legendary Set# Dragon Set | Guardian Set | Storm Crow Set# Adamantine Set | Red Wing Set | Sacred Fire Set" />
+	<Item Index="811" Type="0" Text="Item Level: +7 ~ +10 = Blade | Sacred Claw# Giant Sword | Nikea Axe | Master Scepter# Bill of Balrog | Legendary Staff" />
+	<Item Index="812" Type="0" Text="Special drop: Golden Medal - 15%%" />
+	<Item Index="813" Type="0" Text="Item Level: +10 ~ +13 = Grand Soul Set# Black Dragon Set | Dark Phoenix Set | Holy Spirit Set# Thunder Hawk Set | Dark Steel Set | Ancient Set# Storm Jahad Set | Serpent Shield | Tower Shield# Legendary Shield" />
+	<Item Index="814" Type="0" Text="Item Level: +10 ~ +13 = Sword of Destruction# Dark Breaker | Thunder Blade | Holy Storm Claw# Lord Scepter | Dragon Spear | Celestial Bow# Great Reign Crossbow | Staff of Destruction# Ancient Stick" />
+	<Item Index="815" Type="0" Text="Special drop: Pink Chocolate Box - 5%%" />
+	<Item Index="816" Type="0" Text="Item Level: +8 ~ +11 = Dark Soul Set# Great Dragon Set | Red Spirit Set | Hurricane Set# Dark Master Set | Demonic Set | Piercing Groove Set# Dragon Shield | Grand Soul Shield | Elemental Shield" />
+	<Item Index="817" Type="0" Text="Item Level: +8 ~ +11 = Piercing Claw | Rune Blade# Daybreak | Shining Scepter | Arrow Viper Bow# Dragon Soul Staff | Demonic Stick" />
+	<Item Index="818" Type="0" Text="Excellent Opt: 1 ~ 3 = Pad Set | Bone Set | Leather Set# Bronze Set | Scale Set | Vine Set | Silk Set# Violent Wind Set | Small Shield | Horn Shield# Kite Shield | Buckler | Large Round Shield" />
+	<Item Index="819" Type="0" Text="Excellent Opt: 1 ~ 3 = Kriss | Rapier | Bow# Mystery Stick | Violent Wind Stick" />
+	<Item Index="820" Type="0" Text="Excellent Opt: 1 ~ 3 = Sphinx Set | Brass Set# Plate Set | Wind Set | Spirit Set# Red Wing Set | Elven Shield# Skull Shield | Spike Shield | Plate Shield" />
+	<Item Index="821" Type="0" Text="Excellent Opt: 1 ~ 3 = Double Blade | Morning Star #Battle Scepter | Great Scythe | Silver Bow# Gorgon Staff | Red Wing Stick | Book of Samut" />
+	<Item Index="822" Type="0" Text="Excellent Opt: 1 ~ 3 = Legendary Set | Dragon Set# Guardian Set | Storm Crow Set | Light Plate Set# Ancient Set | Sacred Fire Set | Dragon Slayer Shield# Tower Shield | Legendary Shield | Dragon Shield" />
+	<Item Index="823" Type="0" Text="Excellent Opt: 1 ~ 3 = Lightning Sword | Thunder Blade# Sacred Claw | Master Scepter | Bill of Balrog# Bluewing Crossbow | Aquagold Crossbow# Legendary Staff | Staff of Destruction# Book of Neil | Ancient Stick." />
+	<Item Index="824" Type="0" Text="Excellent Opt: 1 ~ 3 = Ring of Ice | Ring of Poison# Ring of Fire | Ring of Earth | Ring of Wind# Ring of Magic | Pendant of Lighting | Pendant of Fire# Pendant of Ice | Pendant of Wind | Pendant of Water# Pendant of Ability" />
+	<Item Index="825" Type="0" Text="Excellent Opt: 1 ~ 3 = Grand Soul Set | Black Dragon Set# Dark Phoenix Set | Holy Spirit Set | Thunder Hawk Set# Dark Steel Set | Adamantine Set# Storm Jahad Set | Bronze Shield | Grand Soul Shield" />
+	<Item Index="826" Type="0" Text="Excellent Opt: 1 ~ 3 = Sword of Destruction# Thunder Blade | Dark Reign Blade | Knight Blade# Dancer Blade | Rune Blade | Holy Storm Claw# Great Scepter | Lord Scepter | Great Lord Scepter# Dragon Spear | Saint Crossbow | Great Reign Crossbow." />
+	<Item Index="827" Type="0" Text="Celestial Bow | Staff of Destruction | Kundun Staff# Platina Staff | Demonic Stick" />
+	<Item Index="828" Type="0" Text="Excellent Opt: 1 ~ 3 = Dark Soul Set | Great Dragon Set# Red Spirit Set | Dark Master Set | Hurricane Set# Piercing Groove Set | Demonic Set." />
+	<Item Index="829" Type="0" Text="Excellent Opt: 1 ~ 3 = Bone Blade | Explosion Blade# Phoenix Soul Star Claw | Piercing Claw# Soleil Scepter | Sylph Wind Bow | Grand Viper Staff # Storm Blitz Stick | Book of Lagle" />
+	<Item Index="830" Type="0" Text="Empty" />
+	<Item Index="831" Type="-1" Text="Increases maximum defense +15%%" />
+	<Item Index="832" Type="-1" Text="Increases damage +35%%" />
+	<Item Index="833" Type="-1" Text="Increases maximum defense +35%%" />	
+	<Item Index="834" Type="-1" Text="Increases damage +40%%" />	
+	<Item Index="835" Type="-1" Text="Increases maximum defense +40%%" />	
+	<Item Index="836" Type="-1" Text="Item for lost words event" />	
+	<Item Index="837" Type="-1" Text="1%% - Broken Horn # Wing of Storm # Wing of Eternal # Wing of Illusion # Wing of Ruin # Wing of Dimension # Cloak of Emperor # Cloak of Overrule" />
+	<Item Index="838" Type="-1" Text="Disabling PvP mode means you will not be able to engage in battles with other players in the open world – neither initiating attacks nor becoming their target." />		
+	<Item Index="839" Type="-1" Text="To reactivate PvP mode, simply remove the buff by right-clicking on it." />		
+	<Item Index="840" Type="-1" Text="With this equipped, you can summons Companion." />
+	<Item Index="841" Type="-1" Text="Used to upgrade Apocalypse Armor # transforming it into Lightning Armor." />
+	<Item Index="842" Type="-1" Text="Used to upgrade Apocalypse Weapon # transforming it into Lightning Weapon." />
+	<Item Index="843" Type="-1" Text="Item level will be lost after use!" />
+	<Item Index="844" Type="-1" Text="1%% - Garuda Feather # Defense Fenrir # Damage Fenrir # Ghost Horse Gray" />
+	<Item Index="845" Type="-1" Text="100%% - Reward Box of 3rd Stage # Reward Box of 4th Stage # Talisman of Chaos Assembly # Coin of Zen - 100kk # Coin of Zen - 500kk # Sphere (Lvl 3) # Condor Flame # Condor Feather" />
+	<Item Index="846" Type="-1" Text="Fragment of Horn # Broken Horn # 3x Jewel of Guardian # 10x Jewel of Bless # 10x Jewel of Soul # 10x Jewel of Life # 10x Jewel of Chaos # 3x Jewel of Creation # Magic Backpack # Jewel of Socket" />
+	<Item Index="847" Type="-1" Text="Jewel of Excellent # 2x Jewel of Brilliance # Mirror of Dimensions # Gaion's Order # 5x Armor of Splinter # 5x Bless of Guardian # 3x Claw of Beast" />
+	<Item Index="848" Type="-1" Text="Transforms you into a random monsters # allowing you to talk to the Candy Collector for 5 minutes after use." />
+	<Item Index="849" Type="-1" Text="Collect candies and turn them in to the NPC Candy Collector in Dream Land to receive prizes." />
+	
+	
+	<Item Index="850" Type="-1" Text="Recovery Life by 5%%" />
+	<Item Index="851" Type="-1" Text="Recovery Life by 10%%" />
+	<Item Index="852" Type="-1" Text="Recovery Life by 15%%" />
+	<Item Index="853" Type="-1" Text="Recovery Life by 20%%" />
+	<Item Index="854" Type="-1" Text="Recovery Mana by 15%%" />
+	<Item Index="855" Type="-1" Text="Recovery Mana by 20%%" />
+	<Item Index="856" Type="-1" Text="Recovery Mana by 25%%" />
+	<Item Index="857" Type="-1" Text="Required Quest Marlon" />
+	<Item Index="858" Type="-1" Text="Remove negative effects" />
+	<Item Index="859" Type="-1" Text="60%% Success Rate ~ Without +Luck" />
+	<Item Index="860" Type="-1" Text="100%% Success Rate" />
+	<Item Index="861" Type="-1" Text="70%% Success Rate" />
+	<Item Index="862" Type="-1" Text="Used for 380 PvP Option" />
+	<Item Index="863" Type="-1" Text="Random Harmony Option (Sword)" />
+	<Item Index="864" Type="-1" Text="Min damage Increases, Max damage Increases #Required STR decrease, Required AGI decrease #Attack dmg (min,max), Critical damage Increases #Skill damage Increases, Attack rate Increases (PVP) #SD decrease rate, SD ignore rate." />
+	<Item Index="865" Type="-1" Text="Random Harmony Option (Staff)" />
+	<Item Index="866" Type="-1" Text="Magic power Increases, Required STR decrease #Required AGI decrease, Skill damage Increases #Critical damage Increases, Attack rate Increases (PVP) #SD decrease rate, SD ignore rate." />
+	<Item Index="867" Type="-1" Text="Random Harmony Option (Set, Shield)" />
+	<Item Index="868" Type="-1" Text="Defense Increases, Maximum AG Increases #Maximum HP Increases, HP recovery rate #Mana recovery rate, Defense rate Increases (PVP) #Damage decrease rate, SD damage absorb rate." />
+	<Item Index="869" Type="-1" Text="50%% Success Rate" />
+	<Item Index="870" Type="-1" Text="Increases Life +7500" />
+	<Item Index="871" Type="-1" Text="Increases Physical Damage +35%%" />
+	<Item Index="872" Type="-1" Text="Increases Wizardry Damage +25%%" />
+	<Item Index="873" Type="-1" Text="Increases Defense +1500" />
+	<Item Index="874" Type="-1" Text="Increases Defense +2500" />
+	<Item Index="875" Type="302" Text="Available Agility: %d or Energy: %d" />
+	<Item Index="876" Type="303" Text="Available Strength: %d or Energy: %d" />
+	<Item Index="877" Type="304" Text="Lacking Agility: %d or Energy: %d" />
+	<Item Index="878" Type="305" Text="Lacking Strength: %d or Energy: %d" />
+	<Item Index="879" Type="-1" Text="10 Halloween Candy: #Skeleton Transformation Ring (24h)" />
+	<Item Index="880" Type="-1" Text="15 Halloween Candy: #Jack O'lantern Transformation Ring (24h)" />
+	<Item Index="881" Type="-1" Text="20 Halloween Candy: #Halloween Box" />
+	<Item Index="882" Type="-1" Text="25 Halloween Candy: #Halloween Pumpy - Pet" />
+	<Item Index="883" Type="-1" Text="Increases +10% Experience Rate" />
+	<Item Index="884" Type="-1" Text="Increases +10% drop Halloween Candy" />
+	<Item Index="885" Type="-1" Text="Increases +5% Experience Rate" />
+	<Item Index="886" Type="-1" Text="Increases +5% drop Halloween Candy" />
+	
+	<Item Index="887" Type="-1" Text="Increases zen drop rate +30%" />
+	<Item Index="888" Type="-1" Text="Increases damage +10%%" />
+	<Item Index="889" Type="1" Text="Usable 1 times" />
+	
+</ItemTooltipText>
